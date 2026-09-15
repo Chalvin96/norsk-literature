@@ -1,7 +1,7 @@
 {
-  "schema_version": "norsk-literature-v1",
+  "schema_version": "norsk-literature-import-v1",
   "release_id": "bootstrap",
-  "stories": [],
   "repository": "https://github.com/Chalvin96/norsk-literature",
-  "ref": "main"
+  "ref": "main",
+  "stories": []
 }
