@@ -1,24 +1,9 @@
 # norsk-literature
 
-Curated Norwegian reading stories released as importable Markdown artifacts.
+Curated Norwegian reading stories released from the private norskreading pipeline. The repository contains release artifacts only; it does not contain the pipeline, source cache, prompts or review evidence.
 
-This repository contains results only. The collection pipeline, source cache,
-translation responses, prompts and review evidence remain private.
+Release: `2026.09.16`
 
-Each file under stories/ is one story. The Norsk app creates its own reading
-pages after URL ingestion, so books do not need part-1, part-2 or chapter
-files.
+Each Markdown file is one importable story. The app creates its own reading pages after URL ingestion, so books do not need part files.
 
-Story-specific source and license information is kept in each file's frontmatter
-and in [ATTRIBUTION.md](ATTRIBUTION.md). See [catalog.json](catalog.json)
-for the machine-readable index.
-
-Import a story by passing its raw GitHub URL directly to the deployed importer:
-
-`ash
-uv run python -m flyt.commands.reading_ingest \
-  https://raw.githubusercontent.com/Chalvin96/norsk-literature/main/stories/<group>/<slug>.md
-`
-
-The path values in catalog.json are the complete list of current story
-files. The importer accepts one or more story URLs as positional arguments.
+To import a story, use its HTTPS raw GitHub URL with the app's `reading_ingest` command. Pin that URL to a release commit or tag.
