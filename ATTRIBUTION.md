@@ -226,6 +226,384 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Review status: ai_reviewed_provisional
 
+## Around the World in 80 Days
+
+- File: `stories/klassikere/pg103-around-world-80-days.md`
+
+- Source: https://www.gutenberg.org/ebooks/103
+
+- Author(s): Jules Verne (1828–1905)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Alice in Wonderland
+
+- File: `stories/klassikere/pg11-alice-wonderland.md`
+
+- Source: https://www.gutenberg.org/ebooks/11
+
+- Author(s): Lewis Carroll (1832–1898)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Treasure Island
+
+- File: `stories/klassikere/pg120-treasure-island.md`
+
+- Source: https://www.gutenberg.org/ebooks/120
+
+- Author(s): Robert Louis Stevenson (1850–1894)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Jane Eyre
+
+- File: `stories/klassikere/pg1260-jane-eyre.md`
+
+- Source: https://www.gutenberg.org/ebooks/1260
+
+- Author(s): Charlotte Brontë (1816–1855)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Pride and Prejudice
+
+- File: `stories/klassikere/pg1342-pride-prejudice.md`
+
+- Source: https://www.gutenberg.org/ebooks/1342
+
+- Author(s): Jane Austen (1775–1817)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Great Expectations
+
+- File: `stories/klassikere/pg1400-great-expectations.md`
+
+- Source: https://www.gutenberg.org/ebooks/1400
+
+- Author(s): Charles Dickens (1812–1870)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Romeo and Juliet
+
+- File: `stories/klassikere/pg1513-romeo-juliet.md`
+
+- Source: https://www.gutenberg.org/ebooks/1513
+
+- Author(s): William Shakespeare (1564–1616)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Hamlet
+
+- File: `stories/klassikere/pg1524-hamlet.md`
+
+- Source: https://www.gutenberg.org/ebooks/1524
+
+- Author(s): William Shakespeare (1564–1616)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Peter Pan
+
+- File: `stories/klassikere/pg16-peter-pan.md`
+
+- Source: https://www.gutenberg.org/ebooks/16
+
+- Author(s): J. M. Barrie (1860–1937)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Sherlock Holmes
+
+- File: `stories/klassikere/pg1661-sherlock-holmes.md`
+
+- Source: https://www.gutenberg.org/ebooks/1661
+
+- Author(s): Arthur Conan Doyle (1859–1930)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## The Secret Garden
+
+- File: `stories/klassikere/pg17396-secret-garden.md`
+
+- Source: https://www.gutenberg.org/ebooks/17396
+
+- Author(s): Frances Hodgson Burnett (1849–1924)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## The Picture of Dorian Gray
+
+- File: `stories/klassikere/pg174-dorian-gray.md`
+
+- Source: https://www.gutenberg.org/ebooks/174
+
+- Author(s): Oscar Wilde (1854–1900)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## The Call of the Wild
+
+- File: `stories/klassikere/pg215-call-of-the-wild.md`
+
+- Source: https://www.gutenberg.org/ebooks/215
+
+- Author(s): Jack London (1876–1916)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## The Jungle Book
+
+- File: `stories/klassikere/pg236-jungle-book.md`
+
+- Source: https://www.gutenberg.org/ebooks/236
+
+- Author(s): Rudyard Kipling (1865–1936)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Moby-Dick
+
+- File: `stories/klassikere/pg2701-moby-dick.md`
+
+- Source: https://www.gutenberg.org/ebooks/2701
+
+- Author(s): Herman Melville (1819–1891)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Dracula
+
+- File: `stories/klassikere/pg345-dracula.md`
+
+- Source: https://www.gutenberg.org/ebooks/345
+
+- Author(s): Bram Stoker (1847–1912)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## The Time Machine
+
+- File: `stories/klassikere/pg35-time-machine.md`
+
+- Source: https://www.gutenberg.org/ebooks/35
+
+- Author(s): H. G. Wells (1866–1946)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Anne of Green Gables
+
+- File: `stories/klassikere/pg45-anne-green-gables.md`
+
+- Source: https://www.gutenberg.org/ebooks/45
+
+- Author(s): L. M. Montgomery (1874–1942)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## A Christmas Carol
+
+- File: `stories/klassikere/pg46-christmas-carol.md`
+
+- Source: https://www.gutenberg.org/ebooks/46
+
+- Author(s): Charles Dickens (1812–1870)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Little Women
+
+- File: `stories/klassikere/pg514-little-women.md`
+
+- Source: https://www.gutenberg.org/ebooks/514
+
+- Author(s): Louisa May Alcott (1832–1888)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## The Invisible Man
+
+- File: `stories/klassikere/pg5230-invisible-man.md`
+
+- Source: https://www.gutenberg.org/ebooks/5230
+
+- Author(s): H. G. Wells (1866–1946)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## The Wizard of Oz
+
+- File: `stories/klassikere/pg55-wizard-of-oz.md`
+
+- Source: https://www.gutenberg.org/ebooks/55
+
+- Author(s): L. Frank Baum (1856–1919)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## The Great Gatsby
+
+- File: `stories/klassikere/pg64317-great-gatsby.md`
+
+- Source: https://www.gutenberg.org/ebooks/64317
+
+- Author(s): F. Scott Fitzgerald (1896–1940)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Oliver Twist
+
+- File: `stories/klassikere/pg730-oliver-twist.md`
+
+- Source: https://www.gutenberg.org/ebooks/730
+
+- Author(s): Charles Dickens (1812–1870)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## The Adventures of Tom Sawyer
+
+- File: `stories/klassikere/pg74-tom-sawyer.md`
+
+- Source: https://www.gutenberg.org/ebooks/74
+
+- Author(s): Mark Twain (1835–1910)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Wuthering Heights
+
+- File: `stories/klassikere/pg768-wuthering-heights.md`
+
+- Source: https://www.gutenberg.org/ebooks/768
+
+- Author(s): Emily Brontë (1818–1848)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
+## Frankenstein
+
+- File: `stories/klassikere/pg84-frankenstein.md`
+
+- Source: https://www.gutenberg.org/ebooks/84
+
+- Author(s): Mary Wollstonecraft Shelley (1797–1851)
+
+- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
+
+- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+
+- Review status: awaiting_translation
+
 ## Reven og druene
 
 - File: `stories/moderne_fabler/reven-og-druene.md`
