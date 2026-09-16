@@ -660,6 +660,38 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Review status: ai_reviewed_provisional
 
+## Stavkirke
+
+- File: `stories/norsk_fakta/stavkirke.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=25940101
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 25940101
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Brunost
+
+- File: `stories/norsk_fakta/brunost.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=25216091
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 25216091
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
 ## Hurtigruten
 
 - File: `stories/norsk_fakta/hurtigruten.md`
@@ -772,6 +804,22 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Review status: source_text_ungraded
 
+## Allemannsretten
+
+- File: `stories/norsk_fakta/allemannsretten.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=25611231
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 25611231
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
 ## Bunad
 
 - File: `stories/norsk_fakta/bunad.md`
@@ -783,6 +831,70 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
 
 - Source revision: 25744777
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Fjord
+
+- File: `stories/norsk_fakta/fjord.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=25906327
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 25906327
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Askeladden som kappåt med trollet
+
+- File: `stories/norske_eventyr/wikikilden-askeladden-kappat.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=20621
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 20621
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Herreper
+
+- File: `stories/norske_eventyr/wikikilden-herreper.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=20630
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 20630
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Soria Moria slott
+
+- File: `stories/norske_eventyr/wikikilden-soria-moria.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=20669
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 20669
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
