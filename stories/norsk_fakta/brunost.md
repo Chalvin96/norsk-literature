@@ -1,11 +1,11 @@
 ---
-slug: "wiki-1e20fa0eac90"
+slug: "brunost"
 title: "Brunost"
 group: "norsk_fakta"
 is_ready: true
 language: "nb"
-cover_path: "covers/wiki-1e20fa0eac90.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-1e20fa0eac90.jpg"
+cover_path: "covers/brunost.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/brunost.jpg"
 cover_alt: "Cover image for Brunost"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Brunost_-_Brown_cheese.jpg"
 cover_license: "CC BY 2.0"

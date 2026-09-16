@@ -1,11 +1,11 @@
 ---
-slug: "wiki-4c4e56bbbb5f"
+slug: "matpakke"
 title: "Matpakke"
 group: "norsk_fakta"
 is_ready: true
 language: "nb"
-cover_path: "covers/wiki-4c4e56bbbb5f.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-4c4e56bbbb5f.jpg"
+cover_path: "covers/matpakke.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/matpakke.jpg"
 cover_alt: "Cover image for Matpakke"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Colt_1914_matpakke_%286971788649%29.jpg"
 cover_license: "CC BY 2.0"

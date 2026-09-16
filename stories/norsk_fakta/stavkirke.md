@@ -1,11 +1,11 @@
 ---
-slug: "wiki-0b5643a8b684"
+slug: "stavkirke"
 title: "Stavkirke"
 group: "norsk_fakta"
 is_ready: true
 language: "nb"
-cover_path: "covers/wiki-0b5643a8b684.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-0b5643a8b684.jpg"
+cover_path: "covers/stavkirke.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/stavkirke.jpg"
 cover_alt: "Cover image for Stavkirke"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Ringebu_stave_church_Norway.jpg"
 cover_license: "CC0"

@@ -1,11 +1,11 @@
 ---
-slug: "wiki-627ff9435123"
+slug: "friluftsliv"
 title: "Friluftsliv"
 group: "norsk_fakta"
 is_ready: true
 language: "nb"
-cover_path: "covers/wiki-627ff9435123.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-627ff9435123.jpg"
+cover_path: "covers/friluftsliv.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/friluftsliv.jpg"
 cover_alt: "Cover image for Friluftsliv"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Friluftsliv.jpg"
 cover_license: "CC BY-SA 4.0"
