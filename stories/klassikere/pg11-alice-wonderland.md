@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg11-alice-wonderland.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg11-alice-wonderland.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg11-alice-wonderland.jpg"
 cover_alt: "Cover image for Alice in Wonderland"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Alice%27s_Adventures_in_Wonderland_by_Lewis_Carroll%2C_1907_book_cover_%28cropped%29.jpg"
 cover_license: "Public domain"

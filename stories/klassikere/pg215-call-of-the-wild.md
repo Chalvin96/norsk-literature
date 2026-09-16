@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg215-call-of-the-wild.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg215-call-of-the-wild.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg215-call-of-the-wild.jpg"
 cover_alt: "Cover image for The Call of the Wild"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:JackLondoncallwild.jpg"
 cover_license: "Public domain"

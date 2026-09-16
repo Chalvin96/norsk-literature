@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg345-dracula.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg345-dracula.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg345-dracula.jpg"
 cover_alt: "Cover image for Dracula"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Dracula_1st_ed_cover_reproduction.jpg"
 cover_license: "Public domain"

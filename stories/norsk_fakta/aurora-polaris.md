@@ -5,7 +5,7 @@ group: "norsk_fakta"
 is_ready: true
 language: "nb"
 cover_path: "covers/aurora-polaris.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/aurora-polaris.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/aurora-polaris.jpg"
 cover_alt: "Cover image for Aurora polaris"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Aurora_Polaris_drawing_-_Australasian_Antarctic_Expedition_%281911-1914%29.jpg"
 cover_license: "Public domain"

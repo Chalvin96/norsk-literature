@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/eika-og-sivene.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/eika-og-sivene.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/eika-og-sivene.jpg"
 cover_alt: "Cover image for Eika og sivene"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Aesops_Fables-Rackham-083.jpg"
 cover_license: "Public domain"

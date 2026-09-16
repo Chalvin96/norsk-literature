@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg103-around-world-80-days.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg103-around-world-80-days.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg103-around-world-80-days.jpg"
 cover_alt: "Cover image for Around the World in 80 Days"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Around_the_World_in_Eighty_Days_-_book_cover_%28139390140%29.jpg"
 cover_license: "Public domain"

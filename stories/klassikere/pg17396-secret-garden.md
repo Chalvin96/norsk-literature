@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg17396-secret-garden.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg17396-secret-garden.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg17396-secret-garden.jpg"
 cover_alt: "Cover image for The Secret Garden"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg"
 cover_license: "Public domain"

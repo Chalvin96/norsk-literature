@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg2701-moby-dick.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg2701-moby-dick.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg2701-moby-dick.jpg"
 cover_alt: "Cover image for Moby-Dick"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:CC_No_05_Moby_Dick.JPG"
 cover_license: "Public domain"

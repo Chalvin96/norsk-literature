@@ -5,7 +5,7 @@ group: "norsk_fakta"
 is_ready: true
 language: "nb"
 cover_path: "covers/vafler.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/vafler.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/vafler.jpg"
 cover_alt: "Cover image for Vafler"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Eating_waffer_vaffel_med_r%C3%B8mme.JPG"
 cover_license: "CC BY-SA 4.0"

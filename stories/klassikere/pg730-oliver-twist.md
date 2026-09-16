@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg730-oliver-twist.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg730-oliver-twist.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg730-oliver-twist.jpg"
 cover_alt: "Cover image for Oliver Twist"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Oliver-twist.cover.jpg"
 cover_license: "Public domain"
