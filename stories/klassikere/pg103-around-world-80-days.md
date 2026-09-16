@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg103-around-world-80-days.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/pg103-around-world-80-days.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-openverse-facts/covers/pg103-around-world-80-days.jpg"
 cover_alt: "Cover image for Around the World in 80 Days"
 cover_source_url: "https://www.gutenberg.org/ebooks/103"
 cover_license: "Public domain in USA; other jurisdictions require review"

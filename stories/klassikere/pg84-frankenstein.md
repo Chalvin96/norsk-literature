@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg84-frankenstein.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/pg84-frankenstein.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-openverse-facts/covers/pg84-frankenstein.jpg"
 cover_alt: "Cover image for Frankenstein"
 cover_source_url: "https://www.gutenberg.org/ebooks/84"
 cover_license: "Public domain in USA; other jurisdictions require review"
