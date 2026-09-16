@@ -21,7 +21,7 @@ authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25611231"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "b1918417d97a9aadf6825faefc907128d4a9823d9d61626ef99ef6748c6ae8f0"
+content_sha256: "f67abef4d823498bd86a46cf3ae54d457f3a4934c686aaaa75f0edd9ca8c98ed"
 ---
 
 Allemannsretten er den retten som enhver har på en annen persons eiendom. Selv om utøvelse av allemannsrett har lange tradisjoner i Norge og i de fleste skandinaviske land, er det ikke et særegent norsk eller skandinavisk fenomen. En rekke andre nasjoner, som Østerrike, Sveits, Tyskland, Belarus og England har allemannsrett eller elementer av denne i sitt rettssystem. I land uten allemannsrett er det vanligvis områder i statlig eller kommunalt eierskap hvor du kan gå fritt, for eksempel nasjonalparker. Disse er primært lokalisert i tynt befolkede områder. Det finnes vanligvis også utpekte turstier, ofte med markerte teltplasser. Det finnes et nettverk av europeiske vandreruter som krysser Europa.
@@ -42,7 +42,7 @@ Rundt århundreskiftet 1900 ble sedvanen ansett å være at det står hver og en
 
 Uttrykket allemannsrett (allemansrätt) ble etablert etter annen verdenskrig (1940-tallet) som følge av en fritidsutredning som ble nedsatt i 1937. Med den andre lovfestede ferieuken ønsket man fra myndighetenes side å finne virkemidler som kunne legge til rette for tettstedenes befolkning å komme ut i naturen.
 
-Siden 1994 finnes følgende innskrevet i en av Sveriges grunnlover, regeringsformen (RF): «Alla ska ha tillgång till naturen enligt allemansrätten». Den lovtekst som i praksis styrer allemannsretten inngår i hovedsak i kapittel 2 og 7 av miljöbalken. Det eneste som uttrykkelig finnes skrevet om allemannsretten i miljöbalken er dog: «Var och en som utnyttjar allemansrätten eller annars vistas i naturen skall visa hänsyn och varsamhet i sitt umgänge med den» (kapittel 7 § 1). Naturvårdsverket sammenfatter allemannsretten i ordene «Inte störa – inte förstöra».
+Siden 1994 har en av Sveriges grunnlover slått fast at alle skal ha tilgang til naturen gjennom allemannsretten. Reglene som styrer retten, står hovedsakelig i kapittel 2 og 7 i den svenske miljøloven. Der heter det i norsk gjengivelse at alle som bruker allemannsretten eller ellers oppholder seg i naturen, skal vise hensyn og varsomhet. Det svenske miljøvernverket sammenfatter prinsippet slik på norsk: «Ikke forstyrr – ikke ødelegg.»
 
 Danmark
 

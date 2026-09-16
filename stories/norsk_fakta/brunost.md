@@ -20,14 +20,14 @@ authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25216091"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "55e6d7786fa90c572c49f49ada0b6cf3e13d12078326c1cfd70fed1204deb519"
+content_sha256: "d8bdece42982cc996968154487e524fb4e18387b3020d6bc415d6c1ba28716bc"
 ---
 
 Brunost, raudost, geitost eller mysost (dansk også myseost, svensk: messmör eller mesost) er en samlebetegnelse på mysoster som har en brunlig farge og som har myse som hovedbestanddel. Den omfatter blant annet geitost, fløtemysost og gudbrandsdalsost. Myse er restprodukt fra produksjon av hvit ost (når ostemassen er skilt ut) og består for en stor del av melkesukker løst i vann. Brunost er ikke en egentlig ost etter vanlig definisjon og har mer preg av karamell. Innkoking av mysen medfører en karamellisering av melkesukkeret og dette gir brunosten karakteristisk smak. Tilsetting av melk eller fløte gir ulike varianter med en rundere smak, mykere konsistens og mer protein eller fett.
 
 Brunost produseres hovedsaklig i Norge og Sverige, og er i Norge forbundet med tradisjonell setring og i Sverige er det områder med grenser til Trøndelag som har tradisjon for brunost. Den er beskrevet i bøker fra 1600-1700-tallet. Moderne varianter ble utviklet på 1800-tallet særlig i Gudbrandsdalen. Den første industrielle produksjonen begynte på Tretten i 1908. Innkoking av myse til brunost er energikrevende fordi store mengder vann skal fordampes. Meieriene installerte fra rundt 1950 spesialutstyr for vakumfordamping. Ved tradisjonell produksjon på gårder og setrer skjedde fordampingen nær kokepunktet for vann på 100⁰C, mens vakumfordampere oppnår det samme på under 70⁰C. Bruning (karamellisering) skjedde tradisjonelt nær 100⁰C.
 
-Industriell produksjon gir gode muligheter for energigjenvinng. Da osten ble kokt i jerngryter over åpen ild gikk det med store mengder ved, anslagsvis ½ favn for hver ku i løpet av sommeren. Tilgang til skog var trolig et hensyn når melkekyrne ble flyttet mellom setrer. I Gudbrandsdalen ligger setrene ofte i overgang mellom skog og fjell; beiting og vedhogst har ført til at landskapet rundt setra har blitt åpnere. Seterhusene ble tilpasset den langvarige kokingen av brunost og det var tildels behov for større hus enn de tradisjonelle 2-roms seterhusene, eller eget hus til brunostgryta. Brunostene fra TINE produseres i dag på ysteriene i Lom og Skjåk, Elnesvågen, Byrkjelo, Tretten, Ørsta og Storsteinnes.
+Industriell produksjon gir gode muligheter for energigjenvinning. Da osten ble kokt i jerngryter over åpen ild gikk det med store mengder ved, anslagsvis ½ favn for hver ku i løpet av sommeren. Tilgang til skog var trolig et hensyn når melkekyrne ble flyttet mellom setrer. I Gudbrandsdalen ligger setrene ofte i overgang mellom skog og fjell; beiting og vedhogst har ført til at landskapet rundt setra har blitt åpnere. Seterhusene ble tilpasset den langvarige kokingen av brunost og det var tildels behov for større hus enn de tradisjonelle 2-roms seterhusene, eller eget hus til brunostgryta. Brunostene fra TINE produseres i dag på ysteriene i Lom og Skjåk, Elnesvågen, Byrkjelo, Tretten, Ørsta og Storsteinnes.
 
 Tradisjonelt ble brunosten kokt i jerngryter slik at den ble god kilde til jern i kostholdet. Tidligere var brunost tilsatt jern, men den 1. september 2001 inntrådte et forbud mot tilsetning av jern i brunost. Noen år senere ble det åpnet for unntak fra dette forbudet.
 
@@ -65,7 +65,7 @@ Dersom man avbryter kokingen før osten er ferdig, får man en myk, smørbar bru
 
 Historie
 
-Brunost og prim laget av innkokt myse må ha vært laget og brukt langt bakover i historien. I sin opprinnelige variant var brunosten mer som prim, altså mindre innkokt. Petter Dass skrev i Den Nordske Dale-Viise (1683) «Saa gjennom Granskov og Furru/Kom jeg til en heeder Gurru/ Gav mig Møsse-Brømme...». Myse har altså vært kokt til prim lenge før Anne Hov laget sin variant. I 1805 skrev Ole Olsen Evenstad fra Stor-Elvdal sitt ostemanuskript: Om Brug af Myse og dens Indkogning til Myssmør, men Evenstad nevner verken geitemelk eller fløte som tilsetning.
+Brunost og prim laget av innkokt myse må ha vært laget og brukt langt bakover i historien. I sin opprinnelige variant var brunosten mer som prim, altså mindre innkokt. Petter Dass beskrev på 1600-tallet en reise gjennom gran- og furuskog der han fikk servert myse og rømme. Myse har altså vært kokt til prim lenge før Anne Hov laget sin variant. I 1805 skrev Ole Olsen Evenstad fra Stor-Elvdal et manuskript om bruk av myse og innkoking til myssmør, men han nevner verken geitemelk eller fløte som tilsetning.
 
 Den eldste typen brunost produserte på setrene var hard, sprø og syrlig på smak. Noe budeier begynte å tilsette melke eller melkefett i mysen før innkoking og oppnådde da en mildere smak og mykere konsistens.
 

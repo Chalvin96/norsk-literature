@@ -21,7 +21,7 @@ authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25906327"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "a532b1f1fc1f4c199100eb42b8e92b643b97b4d10b4ce4d3b3f0e95ce6684d2f"
+content_sha256: "f311dcbdb8c9f840e85f8f9b907d834a1b1ff86290d400bff9f4689e2ab3fb05"
 ---
 
 Fjord er en landform som i internasjonalt fagspråk (geologi, geografi) forklart som ei dyp, smal og langstrakt hav- eller innsjørenne. Åpningen ut mot havet kalles fjordens munning og er ofte grunn. Fjordens innerste del kalles fjordbunnen. Er havrenna bredere enn den er lang, er det en bukt eller en vik.
@@ -105,13 +105,13 @@ Fjord - etymologi og bruk
 
 Fjord er et av de få norske ord som er blitt internasjonale, spesielt i engelsk hvor det benyttes direkte. Det skotske ordet firth er et også lånord fra norsk.
 
-Fjord kommer fra det norrøne fjǫrðr som kan bli trukket tilbake til det prehistoriske indoeuropeiske ordet *prtús, avledet av *por- eller *per, det vil si «gå», «passere» eller «å sette over på den andre siden».
+Ordet fjord kommer fra norrønt og kan spores tilbake til et forhistorisk indoeuropeisk ord med betydningen «gå», «passere» eller «sette over på den andre siden».
 
 Fjord i grunnbetydningen «der man ferder over» har da samme opprinnelse med ordet «ferd» (reise), engelske fare. Engelsk firth er et lånord fra gammelnorsk. Verbet fare og substantivet ferje, engelske ferry, er av samme opprinnelse.
 
 Det indoeuropeiske *por- har gitt det greske poros. Det latinske ordet portus for havn er også beslektet og har gått inn i det tyske ordet Furt og det engelske ordet ford som betyr vadested, ord som gjenfinnes i både Frankfurt og i Oxford, som direkte oversatt til norsk blir Øksnevad, gresk Bosporos – okse-vadestedet
 
-Fjord er felles i de skandinaviske språkene norsk, dansk og svensk. På islandsk er fjord fjörður, og på færøysk fjørður. På svensk finnes også i tillegg det mer dialektpregete ordet fjärd som er etymologiske det samme ordet. Fjärd benyttes hovedsakelig i navn om vannrenner rundt Østersjøen mens fjord benyttes om vannrenner rundt Nordsjøen. Svenskene skiller altså de to ordene i henhold til både vannrennens karakter og plassering grunnet gamle navnkonvensjoner. På gammelnorsk var genitiv av fjǫrðr fjaraðr, dativ var firði. Dativformen har blitt til det vanlige stedsnavnet Førde eller Førre.
+Fjord er felles i de skandinaviske språkene norsk, dansk og svensk. På islandsk er fjord fjörður, og på færøysk fjørður. På svensk finnes også i tillegg det mer dialektpregete ordet fjärd som er etymologiske det samme ordet. Fjärd benyttes hovedsakelig i navn om vannrenner rundt Østersjøen mens fjord benyttes om vannrenner rundt Nordsjøen. Svenskene skiller altså de to ordene i henhold til både vannrennens karakter og plassering grunnet gamle navnkonvensjoner. I gammelnorsk hadde ordet egne genitiv- og dativformer. Dativformen har blitt til de vanlige stedsnavnene Førde og Førre.
 
 I Finland finnes det ikke fjorder, men det finske ordet som benyttes er vuono og det er ikke avledet fra det norrøne fjörðr.
 
@@ -119,7 +119,7 @@ Til tross for at fjord har gått inn i internasjonal terminologi er det likevel 
 
 I norrøn tid ble -sær brukt om fjorder eller deler av fjorder, ifølge Oluf Rygh spesielt om fjordmunning som Sognsær (Sognesjøen). Strindsær (Strindfjorden) er en utvidelse eller en del av en fjord. Naumsær kan tidligere ha vært brukt om Namsens brede, sakteflytende munning og har senere gått over til å betegne hele vassdraget. Rygh antok at de aller eldste fjordnavnene har vært usammensatte, det vil si uten «-fjord» eller «-anger». Bunnefjorden ble i vikingtiden kalt Skjáldr. Langesundsfjorden ble i norrøn tid kalt Grenmarr, i betydningen sjøen utenfor grenenes land. «Marr» er et gammelt ord for sjø eller hav. Vefsnir var det gammelnorske navnet på Vefsnfjorden og var laget av elvenavnet Vefsna som er den største i området. Senere har Vefsn blitt navn på distriktet. Ofotfjorden ble i norrøn tid kalt Ófóti som senere gikk over til å være navn på distriktet Ofoten.
 
-Det er vanlig at fjordnavnet har blitt overført til bygda eller landskapet omkring, og denne betydningsutvidelsen kan ha skjedd allerede i forhistorisk tid. I nyere tid har det vært vanlig at «-fjord» (ubestemt form) har blitt erstattet av «-fjorden» (bestemt form). Fjordene har alltid vært ferdselsårer og navn på den enkelte fjord antas derfor å være tildels meget gammelt.
+Det er vanlig at fjordnavnet har blitt overført til bygda eller landskapet omkring, og denne betydningsutvidelsen kan ha skjedd allerede i forhistorisk tid. I nyere tid har det vært vanlig at «-fjord» (ubestemt form) har blitt erstattet av «-fjorden» (bestemt form). Fjordene har alltid vært ferdselsårer og navn på den enkelte fjord antas derfor å være til dels svært gammelt.
 
 -angr
 
@@ -201,9 +201,9 @@ Schlei (42 km)
 
 Limski kanal (6 km)
 
-Firth of Forth, Skottland
+Forthfjorden, Skottland
 
-Firth of Tay, Skottland
+Tayfjorden, Skottland
 
 Cromarty Firth, Skottland
 
