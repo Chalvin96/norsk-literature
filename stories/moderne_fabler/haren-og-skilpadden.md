@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/haren-og-skilpadden.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/haren-og-skilpadden.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/haren-og-skilpadden.jpg"
 cover_alt: "Cover image for Haren og skilpadden"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Page_162_illustration_from_The_Fables_of_%C3%86sop_%28Jacobs%29.png"
 cover_license: "Public domain"

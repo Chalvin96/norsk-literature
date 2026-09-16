@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/gutten-og-hasselnottene.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/gutten-og-hasselnottene.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/gutten-og-hasselnottene.jpg"
 cover_alt: "Cover image for Gutten og hasselnøttene"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Aesop%27s_fables_%281912%29_%2814782496272%29.jpg"
 cover_license: "Public domain"

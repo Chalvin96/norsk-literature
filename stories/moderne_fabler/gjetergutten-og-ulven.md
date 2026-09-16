@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/gjetergutten-og-ulven.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/gjetergutten-og-ulven.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/gjetergutten-og-ulven.jpg"
 cover_alt: "Cover image for Gjetergutten og ulven"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:The_Boy_Who_Cried_Wolf_-_Project_Gutenberg_etext_19994.jpg"
 cover_license: "Public domain"

@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/mauren-og-duen.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/mauren-og-duen.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/mauren-og-duen.jpg"
 cover_alt: "Cover image for Mauren og duen"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Grandville-dove_%26_ant.jpg"
 cover_license: "Public domain"

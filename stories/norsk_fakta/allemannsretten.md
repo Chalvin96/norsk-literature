@@ -5,7 +5,7 @@ group: "norsk_fakta"
 is_ready: true
 language: "nb"
 cover_path: "covers/allemannsretten.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/allemannsretten.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/allemannsretten.jpg"
 cover_alt: "Cover image for Allemannsretten"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Femundsmarka%2C_Norway_-_Telt.jpg"
 cover_license: "Public domain"

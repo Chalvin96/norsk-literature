@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/bjornen-og-de-to-reisende.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/bjornen-og-de-to-reisende.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/bjornen-og-de-to-reisende.jpg"
 cover_alt: "Cover image for Bjørnen og de to reisende"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:A_Hundred_Fables_of_La_Fontaine_-_The_Bear_and_the_Two_Companions.png"
 cover_license: "Public domain"

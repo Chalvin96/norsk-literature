@@ -5,7 +5,7 @@ group: "norsk_fakta"
 is_ready: true
 language: "nb"
 cover_path: "covers/brunost.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/brunost.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/brunost.jpg"
 cover_alt: "Cover image for Brunost"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Brunost_-_Brown_cheese.jpg"
 cover_license: "CC BY 2.0"

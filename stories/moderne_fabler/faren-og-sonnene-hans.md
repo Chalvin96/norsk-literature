@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/faren-og-sonnene-hans.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/faren-og-sonnene-hans.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/faren-og-sonnene-hans.jpg"
 cover_alt: "Cover image for Faren og sønnene hans"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Pater_et_Filii_Litigantes.jpg"
 cover_license: "Public domain"
