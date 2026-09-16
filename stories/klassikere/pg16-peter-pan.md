@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg16-peter-pan.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/pg16-peter-pan.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-openverse-facts/covers/pg16-peter-pan.jpg"
 cover_alt: "Cover image for Peter Pan"
 cover_source_url: "https://www.gutenberg.org/ebooks/16"
 cover_license: "Public domain in USA; other jurisdictions require review"

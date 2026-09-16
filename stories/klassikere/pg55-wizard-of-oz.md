@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg55-wizard-of-oz.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/pg55-wizard-of-oz.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-openverse-facts/covers/pg55-wizard-of-oz.jpg"
 cover_alt: "Cover image for The Wizard of Oz"
 cover_source_url: "https://www.gutenberg.org/ebooks/55"
 cover_license: "Public domain in USA; other jurisdictions require review"

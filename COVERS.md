@@ -2,7 +2,7 @@
 
 Every story has a local 512×768 JPEG derivative under `covers/`. The images are cropped and resized from the linked source; the source license remains in force for each file.
 
-Public-domain and CC0 files are free to reuse. CC BY files require attribution, and CC BY-SA files also require adaptations to remain under the same license. Project Gutenberg covers are copied and hosted here; their associated eBooks are marked public domain in the U.S., so check local law before redistribution.
+The 12 Norwegian fact covers in this release were discovered through Openverse and use Flickr or Europeana/DigitaltMuseum sources rather than Wikimedia. Openverse is a discovery index, so the source page and license are recorded for each item. Public-domain and CC0 files are free to reuse. CC BY files require attribution, and CC BY-SA files also require adaptations to remain under the same license. The 27 classic covers are copied from Project Gutenberg eBooks marked public domain in the U.S.; check local law before redistribution.
 
 ## Bjørnen og de to reisende
 
@@ -478,120 +478,139 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 - Story: `stavkirke`
 - File: `covers/stavkirke.jpg`
-- Source: [File:Ringebu stave church Norway.jpg](https://commons.wikimedia.org/wiki/File:Ringebu_stave_church_Norway.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ringebu_stave_church_Norway.jpg/500px-Ringebu_stave_church_Norway.jpg)
-- License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Gol Stave Church - Norwegian Folk museum](https://www.flickr.com/photos/40021607@N00/92675319)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/a9b52cfb-49f3-4e12-85e9-68993814aebf/)
+- Original image: [download](https://live.staticflickr.com/11/92675319_dc76d6bea4_b.jpg)
+- License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+- Creator: Marcus Ramberg
+- Provider: Flickr via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Brunost
 
 - Story: `brunost`
 - File: `covers/brunost.jpg`
-- Source: [File:Brunost - Brown cheese.jpg](https://commons.wikimedia.org/wiki/File:Brunost_-_Brown_cheese.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Brunost_-_Brown_cheese.jpg/500px-Brunost_-_Brown_cheese.jpg)
-- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-- Provider: Wikimedia Commons
+- Source: [Brunost med flott mønster. Ingeborg Kristina og Charlotte Ryen.](https://digitaltmuseum.org/021016534264)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/687aab29-14ff-491c-86ed-abb221a3f9b3/)
+- Original image: [download](https://pdms.dimu.org/image/032wazEJ3NmD?dimension=1200x1200)
+- License: [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)
+- Provider: Europeana / DigitaltMuseum via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Hurtigruten
 
 - Story: `hurtigruten`
 - File: `covers/hurtigruten.jpg`
-- Source: [File:Hurtigruten 66 BG.jpg](https://commons.wikimedia.org/wiki/File:Hurtigruten_66_BG.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hurtigruten_66_BG.jpg/500px-Hurtigruten_66_BG.jpg)
-- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- Provider: Wikimedia Commons
+- Source: [Behind MS Kong Harald](https://www.flickr.com/photos/51149373@N08/52111996680)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/db5e0bef-ab7e-4dd0-8380-26e8c7f49924/)
+- Original image: [download](https://live.staticflickr.com/65535/52111996680_88af979967_b.jpg)
+- License: [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)
+- Creator: fromfarbeyond
+- Provider: Flickr via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Matpakke
 
 - Story: `matpakke`
 - File: `covers/matpakke.jpg`
-- Source: [File:Colt 1914 matpakke (6971788649).jpg](https://commons.wikimedia.org/wiki/File:Colt_1914_matpakke_%286971788649%29.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Colt_1914_matpakke_%286971788649%29.jpg/500px-Colt_1914_matpakke_%286971788649%29.jpg)
-- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-- Provider: Wikimedia Commons
+- Source: [På Skjegstad-hytta på Furubergstranda, Strandvegen langs Mjøsa i Hamar. Peisestue, matpakke, ukjente.](https://digitaltmuseum.org/011012805449)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/690a13c2-ab4c-490c-9a4c-e07554e18e5f/)
+- Original image: [download](https://pdms.dimu.org/image/01SzKPUfrj?dimension=1200x1200)
+- License: [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)
+- Provider: Europeana / DigitaltMuseum via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Friluftsliv
 
 - Story: `friluftsliv`
 - File: `covers/friluftsliv.jpg`
-- Source: [File:Friluftsliv.jpg](https://commons.wikimedia.org/wiki/File:Friluftsliv.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Friluftsliv.jpg/500px-Friluftsliv.jpg)
-- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- Provider: Wikimedia Commons
+- Source: [Gjende, Jotunheimen, Friluftsliv/Sport, Turgåing](https://digitaltmuseum.org/011013301122)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/1e11a923-c99f-418b-826e-4b536adf3ac8/)
+- Original image: [download](https://pdms.dimu.org/image/02VUxSrkSg?dimension=1200x1200)
+- License: [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)
+- Provider: Europeana / DigitaltMuseum via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Aurora polaris
 
 - Story: `aurora-polaris`
 - File: `covers/aurora-polaris.jpg`
-- Source: [File:Aurora Polaris drawing - Australasian Antarctic Expedition (1911-1914).jpg](https://commons.wikimedia.org/wiki/File:Aurora_Polaris_drawing_-_Australasian_Antarctic_Expedition_%281911-1914%29.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Aurora_Polaris_drawing_-_Australasian_Antarctic_Expedition_%281911-1914%29.jpg/500px-Aurora_Polaris_drawing_-_Australasian_Antarctic_Expedition_%281911-1914%29.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Aurora polaris (Trondheim)](https://www.flickr.com/photos/92416586@N05/22220527838)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/0cccbcc3-1d45-426b-b484-9aa1a56b74f4/)
+- Original image: [download](https://live.staticflickr.com/5658/22220527838_42347e7849_b.jpg)
+- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- Creator: NTNU, Faculty of Natural Sciences
+- Provider: Flickr via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Midnattssol
 
 - Story: `midnattssol`
 - File: `covers/midnattssol.jpg`
-- Source: [File:Norway – the land of the midnight sun (14266873086).jpg](https://commons.wikimedia.org/wiki/File:Norway_%E2%80%93_the_land_of_the_midnight_sun_%2814266873086%29.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Norway_%E2%80%93_the_land_of_the_midnight_sun_%2814266873086%29.jpg/500px-Norway_%E2%80%93_the_land_of_the_midnight_sun_%2814266873086%29.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Midnattssol over Bøkfjorden med reinsdyr og folk.](https://digitaltmuseum.org/011013386604)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/67e6177d-17a4-4e30-96e5-489fb06a2f0f/)
+- Original image: [download](https://pdms.dimu.org/image/01VVk9ec5w?dimension=1200x1200)
+- License: [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)
+- Provider: Europeana / DigitaltMuseum via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Vafler
 
 - Story: `vafler`
 - File: `covers/vafler.jpg`
-- Source: [File:Eating waffer vaffel med rømme.JPG](https://commons.wikimedia.org/wiki/File:Eating_waffer_vaffel_med_r%C3%B8mme.JPG)
-- Original image: [download](https://commons.wikimedia.org/wiki/Special:FilePath/Eating%20waffer%20vaffel%20med%20r%C3%B8mme.JPG?width=1200)
-- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- Provider: Wikimedia Commons
+- Source: [Interiør, kjøkken, seterhus, komfyr,ovn, vaffeljern. To ukjente kvinner steker vafler,](https://digitaltmuseum.org/011012898899)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/a560fbfb-4c91-48cf-a863-ef2a8b0319f6/)
+- Original image: [download](https://pdms.dimu.org/image/0136NQq1mYju?dimension=1200x1200)
+- License: [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)
+- Provider: Europeana / DigitaltMuseum via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Dugnad
 
 - Story: `dugnad`
 - File: `covers/dugnad.jpg`
-- Source: [File:Starkadavisen, Skiklubben Starkad, dugnad, 1903.jpg](https://commons.wikimedia.org/wiki/File:Starkadavisen%2C_Skiklubben_Starkad%2C_dugnad%2C_1903.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Starkadavisen%2C_Skiklubben_Starkad%2C_dugnad%2C_1903.jpg/500px-Starkadavisen%2C_Skiklubben_Starkad%2C_dugnad%2C_1903.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Dugnad ved masta i bakgrunnen](https://www.flickr.com/photos/27727612@N02/2628344121)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/1bbbe6de-8cbb-4283-8647-3777637356dc/)
+- Original image: [download](https://live.staticflickr.com/3099/2628344121_3d7a727894_b.jpg)
+- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- Creator: Paul Skeie
+- Provider: Flickr via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Allemannsretten
 
 - Story: `allemannsretten`
 - File: `covers/allemannsretten.jpg`
-- Source: [File:Femundsmarka, Norway - Telt.jpg](https://commons.wikimedia.org/wiki/File:Femundsmarka%2C_Norway_-_Telt.jpg)
-- Original image: [download](https://commons.wikimedia.org/wiki/Special:FilePath/Femundsmarka%2C%20Norway%20-%20Telt.jpg?width=1200)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Jotunheimen National Park, Norway](https://www.flickr.com/photos/126744325@N07/14711956880)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/3089e465-b362-4a79-b6ce-e6d5bf7ce25d/)
+- Original image: [download](https://live.staticflickr.com/3880/14711956880_27121cc80c_b.jpg)
+- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- Creator: Kristoffer Trolle
+- Provider: Flickr via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Bunad
 
 - Story: `bunad`
 - File: `covers/bunad.jpg`
-- Source: [File:Mother and child in traditional Norwegian bunad, St. Paul, Minnesota - DPLA - 84378a131b518c126de5aa98de93eb8a.jpg](https://commons.wikimedia.org/wiki/File:Mother_and_child_in_traditional_Norwegian_bunad%2C_St._Paul%2C_Minnesota_-_DPLA_-_84378a131b518c126de5aa98de93eb8a.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mother_and_child_in_traditional_Norwegian_bunad%2C_St._Paul%2C_Minnesota_-_DPLA_-_84378a131b518c126de5aa98de93eb8a.jpg/500px-Mother_and_child_in_traditional_Norwegian_bunad%2C_St._Paul%2C_Minnesota_-_DPLA_-_84378a131b518c126de5aa98de93eb8a.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Norwegian National Day :: Bunad Sisters](https://www.flickr.com/photos/35888870@N07/5730189548)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/9f0e3c73-5eed-4fe7-9e23-6f8d209e9f0e/)
+- Original image: [download](https://live.staticflickr.com/5028/5730189548_127edb40a8_b.jpg)
+- License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+- Creator: Fairy Heart ♥
+- Provider: Flickr via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Fjord
 
 - Story: `fjord`
 - File: `covers/fjord.jpg`
-- Source: [File:Hans Andreas Dahl - Norwegian Fjord - 1916.26.1 - Reading Public Museum.jpg](https://commons.wikimedia.org/wiki/File:Hans_Andreas_Dahl_-_Norwegian_Fjord_-_1916.26.1_-_Reading_Public_Museum.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hans_Andreas_Dahl_-_Norwegian_Fjord_-_1916.26.1_-_Reading_Public_Museum.jpg/500px-Hans_Andreas_Dahl_-_Norwegian_Fjord_-_1916.26.1_-_Reading_Public_Museum.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Songs of the Norwegian fjords](https://www.flickr.com/photos/12836528@N00/2782706851)
+- Openverse record: [view metadata](https://api.openverse.org/v1/images/5db170a2-72d9-456b-9008-892b6f05a856/)
+- Original image: [download](https://live.staticflickr.com/3200/2782706851_a0171351fd_b.jpg)
+- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- Creator: kevin dooley
+- Provider: Flickr via Openverse
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Askeladden som kappåt med trollet
