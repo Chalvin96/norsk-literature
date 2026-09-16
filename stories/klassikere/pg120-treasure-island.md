@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg120-treasure-island.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg120-treasure-island.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg120-treasure-island.jpg"
 cover_alt: "Cover image for Treasure Island"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Treasure_Island-Scribner%27s-1911.jpg"
 cover_license: "Public domain"

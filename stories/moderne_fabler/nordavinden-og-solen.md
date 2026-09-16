@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/nordavinden-og-solen.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/nordavinden-og-solen.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/nordavinden-og-solen.jpg"
 cover_alt: "Cover image for Nordavinden og solen"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Wenceslas_Hollar_-_The_sun_and_the_wind.jpg"
 cover_license: "Public domain"

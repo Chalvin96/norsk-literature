@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg45-anne-green-gables.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg45-anne-green-gables.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg45-anne-green-gables.jpg"
 cover_alt: "Cover image for Anne of Green Gables"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Anne_of_Green_Gables_-_cover.png"
 cover_license: "Public domain"

@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg55-wizard-of-oz.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg55-wizard-of-oz.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg55-wizard-of-oz.jpg"
 cover_alt: "Cover image for The Wizard of Oz"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"
 cover_license: "Public domain"

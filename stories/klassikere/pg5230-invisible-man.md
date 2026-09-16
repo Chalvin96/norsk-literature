@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg5230-invisible-man.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg5230-invisible-man.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg5230-invisible-man.jpg"
 cover_alt: "Cover image for The Invisible Man"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Wells_-_The_Invisible_Man_-_Pearson_cover_1897.jpg"
 cover_license: "Public domain"

@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/ulven-og-lammet.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/ulven-og-lammet.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/ulven-og-lammet.jpg"
 cover_alt: "Cover image for Ulven og lammet"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Wenceslas_Hollar_-_The_wolf_and_the_lamb_%28State_2%29.jpg"
 cover_license: "Public domain"

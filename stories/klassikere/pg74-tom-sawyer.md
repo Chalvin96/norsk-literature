@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg74-tom-sawyer.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg74-tom-sawyer.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg74-tom-sawyer.jpg"
 cover_alt: "Cover image for The Adventures of Tom Sawyer"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Adventures_of_Tom_Sawyer-front_cover.png"
 cover_license: "Public domain"

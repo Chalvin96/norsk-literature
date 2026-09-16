@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg46-christmas-carol.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg46-christmas-carol.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg46-christmas-carol.jpg"
 cover_alt: "Cover image for A Christmas Carol"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:A_Christmas_Carol_-_illustrated_by_William_Mark_Young_%28cover%29.jpg"
 cover_license: "Public domain"

@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg174-dorian-gray.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg174-dorian-gray.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg174-dorian-gray.jpg"
 cover_alt: "Cover image for The Picture of Dorian Gray"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Houghton_HEW_12.10.15_-_The_Picture_of_Dorian_Gray%2C_1891_%28cover%29.jpg"
 cover_license: "Public domain"

@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg236-jungle-book.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg236-jungle-book.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg236-jungle-book.jpg"
 cover_alt: "Cover image for The Jungle Book"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:The_Jungle_Book_%281910%29_cover.jpg"
 cover_license: "Public domain"

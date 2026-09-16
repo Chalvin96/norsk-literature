@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg514-little-women.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg514-little-women.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg514-little-women.jpg"
 cover_alt: "Cover image for Little Women"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Little_Women_-_cover.png"
 cover_license: "Public domain"

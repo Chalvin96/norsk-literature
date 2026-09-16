@@ -5,7 +5,7 @@ group: "norsk_fakta"
 is_ready: true
 language: "nb"
 cover_path: "covers/bunad.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/bunad.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/bunad.jpg"
 cover_alt: "Cover image for Bunad"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Mother_and_child_in_traditional_Norwegian_bunad%2C_St._Paul%2C_Minnesota_-_DPLA_-_84378a131b518c126de5aa98de93eb8a.jpg"
 cover_license: "Public domain"

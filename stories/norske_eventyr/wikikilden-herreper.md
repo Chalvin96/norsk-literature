@@ -5,7 +5,7 @@ group: "norske_eventyr"
 is_ready: true
 language: "nb"
 cover_path: "covers/wikikilden-herreper.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wikikilden-herreper.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/wikikilden-herreper.jpg"
 cover_alt: "Cover image for Herreper"
 cover_source_url: "https://open.smk.dk/en/artwork/image/KKS9645h"
 cover_license: "CC0 1.0"

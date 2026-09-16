@@ -5,7 +5,7 @@ group: "klassikere"
 is_ready: true
 language: "en"
 cover_path: "covers/pg1400-great-expectations.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/pg1400-great-expectations.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/pg1400-great-expectations.jpg"
 cover_alt: "Cover image for Great Expectations"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Greatexpectations_vol1.jpg"
 cover_license: "Public domain"
