@@ -5,7 +5,7 @@ group: "norsk_fakta"
 is_ready: true
 language: "nb"
 cover_path: "covers/hurtigruten.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/hurtigruten.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/hurtigruten.jpg"
 cover_alt: "Cover image for Hurtigruten"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Hurtigruten_66_BG.jpg"
 cover_license: "CC BY-SA 4.0"

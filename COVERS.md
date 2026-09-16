@@ -2,7 +2,7 @@
 
 Every story has a local 512×768 JPEG derivative under `covers/`. The images are cropped and resized from the linked source; the source license remains in force for each file.
 
-Public-domain and CC0 files are free to reuse. CC BY files require attribution, and CC BY-SA files also require adaptations to remain under the same license. Check the linked license before redistributing a derivative.
+Public-domain and CC0 files are free to reuse. CC BY files require attribution, and CC BY-SA files also require adaptations to remain under the same license. Project Gutenberg covers are copied and hosted here; their associated eBooks are marked public domain in the U.S., so check local law before redistribution.
 
 ## Bjørnen og de to reisende
 
@@ -168,270 +168,270 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 - Story: `pg103-around-world-80-days`
 - File: `covers/pg103-around-world-80-days.jpg`
-- Source: [File:Around the World in Eighty Days - book cover (139390140).jpg](https://commons.wikimedia.org/wiki/File:Around_the_World_in_Eighty_Days_-_book_cover_%28139390140%29.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Around_the_World_in_Eighty_Days_-_book_cover_%28139390140%29.jpg/500px-Around_the_World_in_Eighty_Days_-_book_cover_%28139390140%29.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Around the World in 80 Days](https://www.gutenberg.org/ebooks/103)
+- Original image: [download](https://www.gutenberg.org/files/103/103-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Alice in Wonderland
 
 - Story: `pg11-alice-wonderland`
 - File: `covers/pg11-alice-wonderland.jpg`
-- Source: [File:Alice's Adventures in Wonderland by Lewis Carroll, 1907 book cover (cropped).jpg](https://commons.wikimedia.org/wiki/File:Alice%27s_Adventures_in_Wonderland_by_Lewis_Carroll%2C_1907_book_cover_%28cropped%29.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alice%27s_Adventures_in_Wonderland_by_Lewis_Carroll%2C_1907_book_cover_%28cropped%29.jpg/500px-Alice%27s_Adventures_in_Wonderland_by_Lewis_Carroll%2C_1907_book_cover_%28cropped%29.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Alice in Wonderland](https://www.gutenberg.org/ebooks/11)
+- Original image: [download](https://www.gutenberg.org/files/11/11-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Treasure Island
 
 - Story: `pg120-treasure-island`
 - File: `covers/pg120-treasure-island.jpg`
-- Source: [File:Treasure Island-Scribner's-1911.jpg](https://commons.wikimedia.org/wiki/File:Treasure_Island-Scribner%27s-1911.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Treasure_Island-Scribner%27s-1911.jpg/500px-Treasure_Island-Scribner%27s-1911.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Treasure Island](https://www.gutenberg.org/ebooks/120)
+- Original image: [download](https://www.gutenberg.org/files/120/120-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Jane Eyre
 
 - Story: `pg1260-jane-eyre`
 - File: `covers/pg1260-jane-eyre.jpg`
-- Source: [File:1931 Jane Eyre.jpg](https://commons.wikimedia.org/wiki/File:1931_Jane_Eyre.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/1931_Jane_Eyre.jpg/500px-1931_Jane_Eyre.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Jane Eyre](https://www.gutenberg.org/ebooks/1260)
+- Original image: [download](https://www.gutenberg.org/files/1260/1260-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Pride and Prejudice
 
 - Story: `pg1342-pride-prejudice`
 - File: `covers/pg1342-pride-prejudice.jpg`
-- Source: [File:Pp1894-000-00.jpg](https://commons.wikimedia.org/wiki/File:Pp1894-000-00.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pp1894-000-00.jpg/500px-Pp1894-000-00.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Pride and Prejudice](https://www.gutenberg.org/ebooks/1342)
+- Original image: [download](https://www.gutenberg.org/files/1342/1342-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Great Expectations
 
 - Story: `pg1400-great-expectations`
 - File: `covers/pg1400-great-expectations.jpg`
-- Source: [File:Greatexpectations vol1.jpg](https://commons.wikimedia.org/wiki/File:Greatexpectations_vol1.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Greatexpectations_vol1.jpg/500px-Greatexpectations_vol1.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Great Expectations](https://www.gutenberg.org/ebooks/1400)
+- Original image: [download](https://www.gutenberg.org/files/1400/1400-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Romeo and Juliet
 
 - Story: `pg1513-romeo-juliet`
 - File: `covers/pg1513-romeo-juliet.jpg`
-- Source: [File:1945 Romeo kaj Julieto.jpg](https://commons.wikimedia.org/wiki/File:1945_Romeo_kaj_Julieto.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/1945_Romeo_kaj_Julieto.jpg/500px-1945_Romeo_kaj_Julieto.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Romeo and Juliet](https://www.gutenberg.org/ebooks/1513)
+- Original image: [download](https://www.gutenberg.org/files/1513/1513-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Hamlet
 
 - Story: `pg1524-hamlet`
 - File: `covers/pg1524-hamlet.jpg`
-- Source: [File:1924 Hamleto.jpg](https://commons.wikimedia.org/wiki/File:1924_Hamleto.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1924_Hamleto.jpg/500px-1924_Hamleto.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Hamlet](https://www.gutenberg.org/ebooks/1524)
+- Original image: [download](https://www.gutenberg.org/files/1524/1524-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Peter Pan
 
 - Story: `pg16-peter-pan`
 - File: `covers/pg16-peter-pan.jpg`
-- Source: [File:Capa Peter Pan (Colorida).jpg](https://commons.wikimedia.org/wiki/File:Capa_Peter_Pan_%28Colorida%29.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Capa_Peter_Pan_%28Colorida%29.jpg/500px-Capa_Peter_Pan_%28Colorida%29.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Peter Pan](https://www.gutenberg.org/ebooks/16)
+- Original image: [download](https://www.gutenberg.org/files/16/16-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Sherlock Holmes
 
 - Story: `pg1661-sherlock-holmes`
 - File: `covers/pg1661-sherlock-holmes.jpg`
-- Source: [File:The Return of Sherlock Holmes cover 1905.jpg](https://commons.wikimedia.org/wiki/File:The_Return_of_Sherlock_Holmes_cover_1905.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/The_Return_of_Sherlock_Holmes_cover_1905.jpg/500px-The_Return_of_Sherlock_Holmes_cover_1905.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Sherlock Holmes](https://www.gutenberg.org/ebooks/1661)
+- Original image: [download](https://www.gutenberg.org/files/1661/1661-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## The Secret Garden
 
 - Story: `pg17396-secret-garden`
 - File: `covers/pg17396-secret-garden.jpg`
-- Source: [File:The Secret Garden book cover - Project Gutenberg eText 17396.jpg](https://commons.wikimedia.org/wiki/File:The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg/500px-The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: The Secret Garden](https://www.gutenberg.org/ebooks/17396)
+- Original image: [download](https://www.gutenberg.org/files/17396/17396-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## The Picture of Dorian Gray
 
 - Story: `pg174-dorian-gray`
 - File: `covers/pg174-dorian-gray.jpg`
-- Source: [File:Houghton HEW 12.10.15 - The Picture of Dorian Gray, 1891 (cover).jpg](https://commons.wikimedia.org/wiki/File:Houghton_HEW_12.10.15_-_The_Picture_of_Dorian_Gray%2C_1891_%28cover%29.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Houghton_HEW_12.10.15_-_The_Picture_of_Dorian_Gray%2C_1891_%28cover%29.jpg/500px-Houghton_HEW_12.10.15_-_The_Picture_of_Dorian_Gray%2C_1891_%28cover%29.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: The Picture of Dorian Gray](https://www.gutenberg.org/ebooks/174)
+- Original image: [download](https://www.gutenberg.org/files/174/174-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## The Call of the Wild
 
 - Story: `pg215-call-of-the-wild`
 - File: `covers/pg215-call-of-the-wild.jpg`
-- Source: [File:JackLondoncallwild.jpg](https://commons.wikimedia.org/wiki/File:JackLondoncallwild.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/JackLondoncallwild.jpg/500px-JackLondoncallwild.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: The Call of the Wild](https://www.gutenberg.org/ebooks/215)
+- Original image: [download](https://www.gutenberg.org/files/215/215-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## The Jungle Book
 
 - Story: `pg236-jungle-book`
 - File: `covers/pg236-jungle-book.jpg`
-- Source: [File:The Jungle Book (1910) cover.jpg](https://commons.wikimedia.org/wiki/File:The_Jungle_Book_%281910%29_cover.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Jungle_Book_%281910%29_cover.jpg/500px-The_Jungle_Book_%281910%29_cover.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: The Jungle Book](https://www.gutenberg.org/ebooks/236)
+- Original image: [download](https://www.gutenberg.org/files/236/236-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Moby-Dick
 
 - Story: `pg2701-moby-dick`
 - File: `covers/pg2701-moby-dick.jpg`
-- Source: [File:CC No 05 Moby Dick.JPG](https://commons.wikimedia.org/wiki/File:CC_No_05_Moby_Dick.JPG)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/CC_No_05_Moby_Dick.JPG/500px-CC_No_05_Moby_Dick.JPG)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Moby-Dick](https://www.gutenberg.org/ebooks/2701)
+- Original image: [download](https://www.gutenberg.org/files/2701/2701-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Dracula
 
 - Story: `pg345-dracula`
 - File: `covers/pg345-dracula.jpg`
-- Source: [File:Dracula 1st ed cover reproduction.jpg](https://commons.wikimedia.org/wiki/File:Dracula_1st_ed_cover_reproduction.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dracula_1st_ed_cover_reproduction.jpg/500px-Dracula_1st_ed_cover_reproduction.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Dracula](https://www.gutenberg.org/ebooks/345)
+- Original image: [download](https://www.gutenberg.org/files/345/345-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## The Time Machine
 
 - Story: `pg35-time-machine`
 - File: `covers/pg35-time-machine.jpg`
-- Source: [File:The Time Machine (Heinemann text) - front cover.jpg](https://commons.wikimedia.org/wiki/File:The_Time_Machine_%28Heinemann_text%29_-_front_cover.jpg)
-- Original image: [download](https://commons.wikimedia.org/wiki/Special:FilePath/The%20Time%20Machine%20%28Heinemann%20text%29%20-%20front%20cover.jpg?width=1200)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: The Time Machine](https://www.gutenberg.org/ebooks/35)
+- Original image: [download](https://www.gutenberg.org/files/35/35-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Anne of Green Gables
 
 - Story: `pg45-anne-green-gables`
 - File: `covers/pg45-anne-green-gables.jpg`
-- Source: [File:Anne of Green Gables - cover.png](https://commons.wikimedia.org/wiki/File:Anne_of_Green_Gables_-_cover.png)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Anne_of_Green_Gables_-_cover.png/500px-Anne_of_Green_Gables_-_cover.png)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Anne of Green Gables](https://www.gutenberg.org/ebooks/45)
+- Original image: [download](https://www.gutenberg.org/files/45/45-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## A Christmas Carol
 
 - Story: `pg46-christmas-carol`
 - File: `covers/pg46-christmas-carol.jpg`
-- Source: [File:A Christmas Carol - illustrated by William Mark Young (cover).jpg](https://commons.wikimedia.org/wiki/File:A_Christmas_Carol_-_illustrated_by_William_Mark_Young_%28cover%29.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/A_Christmas_Carol_-_illustrated_by_William_Mark_Young_%28cover%29.jpg/500px-A_Christmas_Carol_-_illustrated_by_William_Mark_Young_%28cover%29.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: A Christmas Carol](https://www.gutenberg.org/ebooks/46)
+- Original image: [download](https://www.gutenberg.org/files/46/46-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Little Women
 
 - Story: `pg514-little-women`
 - File: `covers/pg514-little-women.jpg`
-- Source: [File:Little Women - cover.png](https://commons.wikimedia.org/wiki/File:Little_Women_-_cover.png)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Little_Women_-_cover.png/500px-Little_Women_-_cover.png)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Little Women](https://www.gutenberg.org/ebooks/514)
+- Original image: [download](https://www.gutenberg.org/cache/epub/514/pg514.cover.medium.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## The Invisible Man
 
 - Story: `pg5230-invisible-man`
 - File: `covers/pg5230-invisible-man.jpg`
-- Source: [File:Wells - The Invisible Man - Pearson cover 1897.jpg](https://commons.wikimedia.org/wiki/File:Wells_-_The_Invisible_Man_-_Pearson_cover_1897.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wells_-_The_Invisible_Man_-_Pearson_cover_1897.jpg/500px-Wells_-_The_Invisible_Man_-_Pearson_cover_1897.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: The Invisible Man](https://www.gutenberg.org/ebooks/5230)
+- Original image: [download](https://www.gutenberg.org/files/5230/5230-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## The Wizard of Oz
 
 - Story: `pg55-wizard-of-oz`
 - File: `covers/pg55-wizard-of-oz.jpg`
-- Source: [File:The Wonderful Wizard of Oz Book Cover.jpg](https://commons.wikimedia.org/wiki/File:The_Wonderful_Wizard_of_Oz_Book_Cover.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Wonderful_Wizard_of_Oz_Book_Cover.jpg/500px-The_Wonderful_Wizard_of_Oz_Book_Cover.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: The Wizard of Oz](https://www.gutenberg.org/ebooks/55)
+- Original image: [download](https://www.gutenberg.org/files/55/55-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## The Great Gatsby
 
 - Story: `pg64317-great-gatsby`
 - File: `covers/pg64317-great-gatsby.jpg`
-- Source: [File:The Great Gatsby Cover 1925 Retouched.jpg](https://commons.wikimedia.org/wiki/File:The_Great_Gatsby_Cover_1925_Retouched.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/500px-The_Great_Gatsby_Cover_1925_Retouched.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: The Great Gatsby](https://www.gutenberg.org/ebooks/64317)
+- Original image: [download](https://www.gutenberg.org/files/64317/64317-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Oliver Twist
 
 - Story: `pg730-oliver-twist`
 - File: `covers/pg730-oliver-twist.jpg`
-- Source: [File:Oliver-twist.cover.jpg](https://commons.wikimedia.org/wiki/File:Oliver-twist.cover.jpg)
-- Original image: [download](https://commons.wikimedia.org/wiki/Special:FilePath/Oliver-twist.cover.jpg?width=1200)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Oliver Twist](https://www.gutenberg.org/ebooks/730)
+- Original image: [download](https://www.gutenberg.org/cache/epub/730/pg730.cover.medium.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## The Adventures of Tom Sawyer
 
 - Story: `pg74-tom-sawyer`
 - File: `covers/pg74-tom-sawyer.jpg`
-- Source: [File:Adventures of Tom Sawyer-front cover.png](https://commons.wikimedia.org/wiki/File:Adventures_of_Tom_Sawyer-front_cover.png)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adventures_of_Tom_Sawyer-front_cover.png/500px-Adventures_of_Tom_Sawyer-front_cover.png)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: The Adventures of Tom Sawyer](https://www.gutenberg.org/ebooks/74)
+- Original image: [download](https://www.gutenberg.org/files/74/74-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Wuthering Heights
 
 - Story: `pg768-wuthering-heights`
 - File: `covers/pg768-wuthering-heights.jpg`
-- Source: [File:Arda wuthering.jpg](https://commons.wikimedia.org/wiki/File:Arda_wuthering.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Arda_wuthering.jpg/500px-Arda_wuthering.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Wuthering Heights](https://www.gutenberg.org/ebooks/768)
+- Original image: [download](https://www.gutenberg.org/files/768/768-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Frankenstein
 
 - Story: `pg84-frankenstein`
 - File: `covers/pg84-frankenstein.jpg`
-- Source: [File:Frankenstein.1831.inside-cover crop.jpg](https://commons.wikimedia.org/wiki/File:Frankenstein.1831.inside-cover_crop.jpg)
-- Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Frankenstein.1831.inside-cover_crop.jpg/500px-Frankenstein.1831.inside-cover_crop.jpg)
-- License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
-- Provider: Wikimedia Commons
+- Source: [Project Gutenberg cover: Frankenstein](https://www.gutenberg.org/ebooks/84)
+- Original image: [download](https://www.gutenberg.org/files/84/84-h/images/cover.jpg)
+- License: [Public domain in USA; other jurisdictions require review](https://www.gutenberg.org/policy/permission)
+- Provider: Project Gutenberg
 - Changes: Cropped to a 2:3 portrait and resized to 512x768 JPEG.
 
 ## Reven og druene

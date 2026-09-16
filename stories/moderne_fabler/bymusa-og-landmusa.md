@@ -6,7 +6,7 @@ group: "moderne_fabler"
 is_ready: true
 language: "nb"
 cover_path: "covers/bymusa-og-landmusa.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/bymusa-og-landmusa.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/bymusa-og-landmusa.jpg"
 cover_alt: "Cover image for Bymusa og landmusa"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Wenceslas_Hollar_-_Town_and_country_mouse.jpg"
 cover_license: "Public domain"

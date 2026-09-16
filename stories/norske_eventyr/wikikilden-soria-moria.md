@@ -5,7 +5,7 @@ group: "norske_eventyr"
 is_ready: true
 language: "nb"
 cover_path: "covers/wikikilden-soria-moria.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/wikikilden-soria-moria.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/wikikilden-soria-moria.jpg"
 cover_alt: "Cover image for Soria Moria slott"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Theodor_Kittelsen%2C_Soria_Moria.jpg"
 cover_license: "Public domain"

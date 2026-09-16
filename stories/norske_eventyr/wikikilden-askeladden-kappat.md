@@ -5,7 +5,7 @@ group: "norske_eventyr"
 is_ready: true
 language: "nb"
 cover_path: "covers/wikikilden-askeladden-kappat.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-titles/covers/wikikilden-askeladden-kappat.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-gutenberg/covers/wikikilden-askeladden-kappat.jpg"
 cover_alt: "Cover image for Askeladden som kappåt med trollet"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Theodor_Kittelsen%2C_Askeladden.jpg"
 cover_license: "Public domain"
