@@ -1,11 +1,11 @@
 ---
-slug: "wiki-3a10c324231e"
+slug: "hurtigruten"
 title: "Hurtigruten"
 group: "norsk_fakta"
 is_ready: true
 language: "nb"
-cover_path: "covers/wiki-3a10c324231e.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-3a10c324231e.jpg"
+cover_path: "covers/hurtigruten.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/hurtigruten.jpg"
 cover_alt: "Cover image for Hurtigruten"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Hurtigruten_66_BG.jpg"
 cover_license: "CC BY-SA 4.0"

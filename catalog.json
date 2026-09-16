@@ -1460,7 +1460,7 @@
       "changes": "Machine translation into Bokmål; not native-editor approved."
     },
     {
-      "id": "wiki-0b5643a8b684",
+      "id": "stavkirke",
       "source_unit_ids": [
         "wiki-0b5643a8b684-part-01",
         "wiki-0b5643a8b684-part-02",
@@ -1480,11 +1480,11 @@
         "wiki-0b5643a8b684-part-16",
         "wiki-0b5643a8b684-part-17"
       ],
-      "path": "stories/norsk_fakta/wiki-0b5643a8b684.md",
+      "path": "stories/norsk_fakta/stavkirke.md",
       "title": "Stavkirke",
       "language": "nb",
-      "cover_path": "covers/wiki-0b5643a8b684.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-0b5643a8b684.jpg",
+      "cover_path": "covers/stavkirke.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/stavkirke.jpg",
       "cover_alt": "Cover image for Stavkirke",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Ringebu_stave_church_Norway.jpg",
       "cover_license": "CC0",
@@ -1509,16 +1509,16 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-1e20fa0eac90",
+      "id": "brunost",
       "source_unit_ids": [
         "wiki-1e20fa0eac90-part-01",
         "wiki-1e20fa0eac90-part-02"
       ],
-      "path": "stories/norsk_fakta/wiki-1e20fa0eac90.md",
+      "path": "stories/norsk_fakta/brunost.md",
       "title": "Brunost",
       "language": "nb",
-      "cover_path": "covers/wiki-1e20fa0eac90.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-1e20fa0eac90.jpg",
+      "cover_path": "covers/brunost.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/brunost.jpg",
       "cover_alt": "Cover image for Brunost",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Brunost_-_Brown_cheese.jpg",
       "cover_license": "CC BY 2.0",
@@ -1543,18 +1543,18 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-3a10c324231e",
+      "id": "hurtigruten",
       "source_unit_ids": [
         "wiki-3a10c324231e-part-01",
         "wiki-3a10c324231e-part-02",
         "wiki-3a10c324231e-part-03",
         "wiki-3a10c324231e-part-04"
       ],
-      "path": "stories/norsk_fakta/wiki-3a10c324231e.md",
+      "path": "stories/norsk_fakta/hurtigruten.md",
       "title": "Hurtigruten",
       "language": "nb",
-      "cover_path": "covers/wiki-3a10c324231e.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-3a10c324231e.jpg",
+      "cover_path": "covers/hurtigruten.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/hurtigruten.jpg",
       "cover_alt": "Cover image for Hurtigruten",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Hurtigruten_66_BG.jpg",
       "cover_license": "CC BY-SA 4.0",
@@ -1579,15 +1579,15 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-4c4e56bbbb5f",
+      "id": "matpakke",
       "source_unit_ids": [
         "wiki-4c4e56bbbb5f"
       ],
-      "path": "stories/norsk_fakta/wiki-4c4e56bbbb5f.md",
+      "path": "stories/norsk_fakta/matpakke.md",
       "title": "Matpakke",
       "language": "nb",
-      "cover_path": "covers/wiki-4c4e56bbbb5f.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-4c4e56bbbb5f.jpg",
+      "cover_path": "covers/matpakke.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/matpakke.jpg",
       "cover_alt": "Cover image for Matpakke",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Colt_1914_matpakke_%286971788649%29.jpg",
       "cover_license": "CC BY 2.0",
@@ -1612,16 +1612,16 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-627ff9435123",
+      "id": "friluftsliv",
       "source_unit_ids": [
         "wiki-627ff9435123-part-01",
         "wiki-627ff9435123-part-02"
       ],
-      "path": "stories/norsk_fakta/wiki-627ff9435123.md",
+      "path": "stories/norsk_fakta/friluftsliv.md",
       "title": "Friluftsliv",
       "language": "nb",
-      "cover_path": "covers/wiki-627ff9435123.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-627ff9435123.jpg",
+      "cover_path": "covers/friluftsliv.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/friluftsliv.jpg",
       "cover_alt": "Cover image for Friluftsliv",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Friluftsliv.jpg",
       "cover_license": "CC BY-SA 4.0",
@@ -1646,15 +1646,15 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-6d6fbcb7de8e",
+      "id": "aurora-polaris",
       "source_unit_ids": [
         "wiki-6d6fbcb7de8e"
       ],
-      "path": "stories/norsk_fakta/wiki-6d6fbcb7de8e.md",
+      "path": "stories/norsk_fakta/aurora-polaris.md",
       "title": "Aurora polaris",
       "language": "nb",
-      "cover_path": "covers/wiki-6d6fbcb7de8e.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-6d6fbcb7de8e.jpg",
+      "cover_path": "covers/aurora-polaris.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/aurora-polaris.jpg",
       "cover_alt": "Cover image for Aurora polaris",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Aurora_Polaris_drawing_-_Australasian_Antarctic_Expedition_%281911-1914%29.jpg",
       "cover_license": "Public domain",
@@ -1679,15 +1679,15 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-87ace28c8798",
+      "id": "midnattssol",
       "source_unit_ids": [
         "wiki-87ace28c8798"
       ],
-      "path": "stories/norsk_fakta/wiki-87ace28c8798.md",
+      "path": "stories/norsk_fakta/midnattssol.md",
       "title": "Midnattssol",
       "language": "nb",
-      "cover_path": "covers/wiki-87ace28c8798.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-87ace28c8798.jpg",
+      "cover_path": "covers/midnattssol.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/midnattssol.jpg",
       "cover_alt": "Cover image for Midnattssol",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Norway_%E2%80%93_the_land_of_the_midnight_sun_%2814266873086%29.jpg",
       "cover_license": "Public domain",
@@ -1712,15 +1712,15 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-9c9ea7bc2416",
+      "id": "vafler",
       "source_unit_ids": [
         "wiki-9c9ea7bc2416"
       ],
-      "path": "stories/norsk_fakta/wiki-9c9ea7bc2416.md",
+      "path": "stories/norsk_fakta/vafler.md",
       "title": "Vafler",
       "language": "nb",
-      "cover_path": "covers/wiki-9c9ea7bc2416.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-9c9ea7bc2416.jpg",
+      "cover_path": "covers/vafler.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/vafler.jpg",
       "cover_alt": "Cover image for Vafler",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Eating_waffer_vaffel_med_r%C3%B8mme.JPG",
       "cover_license": "CC BY-SA 4.0",
@@ -1745,15 +1745,15 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-a7d3507e5743",
+      "id": "dugnad",
       "source_unit_ids": [
         "wiki-a7d3507e5743"
       ],
-      "path": "stories/norsk_fakta/wiki-a7d3507e5743.md",
+      "path": "stories/norsk_fakta/dugnad.md",
       "title": "Dugnad",
       "language": "nb",
-      "cover_path": "covers/wiki-a7d3507e5743.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-a7d3507e5743.jpg",
+      "cover_path": "covers/dugnad.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/dugnad.jpg",
       "cover_alt": "Cover image for Dugnad",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Starkadavisen%2C_Skiklubben_Starkad%2C_dugnad%2C_1903.jpg",
       "cover_license": "Public domain",
@@ -1778,15 +1778,15 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-acf175b16ce4",
+      "id": "allemannsretten",
       "source_unit_ids": [
         "wiki-acf175b16ce4"
       ],
-      "path": "stories/norsk_fakta/wiki-acf175b16ce4.md",
+      "path": "stories/norsk_fakta/allemannsretten.md",
       "title": "Allemannsretten",
       "language": "nb",
-      "cover_path": "covers/wiki-acf175b16ce4.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-acf175b16ce4.jpg",
+      "cover_path": "covers/allemannsretten.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/allemannsretten.jpg",
       "cover_alt": "Cover image for Allemannsretten",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Femundsmarka%2C_Norway_-_Telt.jpg",
       "cover_license": "Public domain",
@@ -1811,17 +1811,17 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-c943c53c0fcd",
+      "id": "bunad",
       "source_unit_ids": [
         "wiki-c943c53c0fcd-part-01",
         "wiki-c943c53c0fcd-part-02",
         "wiki-c943c53c0fcd-part-03"
       ],
-      "path": "stories/norsk_fakta/wiki-c943c53c0fcd.md",
+      "path": "stories/norsk_fakta/bunad.md",
       "title": "Bunad",
       "language": "nb",
-      "cover_path": "covers/wiki-c943c53c0fcd.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-c943c53c0fcd.jpg",
+      "cover_path": "covers/bunad.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/bunad.jpg",
       "cover_alt": "Cover image for Bunad",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Mother_and_child_in_traditional_Norwegian_bunad%2C_St._Paul%2C_Minnesota_-_DPLA_-_84378a131b518c126de5aa98de93eb8a.jpg",
       "cover_license": "Public domain",
@@ -1846,7 +1846,7 @@
       "changes": "Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted."
     },
     {
-      "id": "wiki-e5eb92ee2ea8",
+      "id": "fjord",
       "source_unit_ids": [
         "wiki-e5eb92ee2ea8-part-01",
         "wiki-e5eb92ee2ea8-part-02",
@@ -1855,11 +1855,11 @@
         "wiki-e5eb92ee2ea8-part-05",
         "wiki-e5eb92ee2ea8-part-06"
       ],
-      "path": "stories/norsk_fakta/wiki-e5eb92ee2ea8.md",
+      "path": "stories/norsk_fakta/fjord.md",
       "title": "Fjord",
       "language": "nb",
-      "cover_path": "covers/wiki-e5eb92ee2ea8.jpg",
-      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-e5eb92ee2ea8.jpg",
+      "cover_path": "covers/fjord.jpg",
+      "cover_url": "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/fjord.jpg",
       "cover_alt": "Cover image for Fjord",
       "cover_source_url": "https://commons.wikimedia.org/wiki/File:Hans_Andreas_Dahl_-_Norwegian_Fjord_-_1916.26.1_-_Reading_Public_Museum.jpg",
       "cover_license": "Public domain",

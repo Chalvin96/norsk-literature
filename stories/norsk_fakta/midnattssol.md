@@ -1,11 +1,11 @@
 ---
-slug: "wiki-87ace28c8798"
+slug: "midnattssol"
 title: "Midnattssol"
 group: "norsk_fakta"
 is_ready: true
 language: "nb"
-cover_path: "covers/wiki-87ace28c8798.jpg"
-cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/wiki-87ace28c8798.jpg"
+cover_path: "covers/midnattssol.jpg"
+cover_url: "https://raw.githubusercontent.com/Chalvin96/norsk-literature/release-2026.09.16-covers/covers/midnattssol.jpg"
 cover_alt: "Cover image for Midnattssol"
 cover_source_url: "https://commons.wikimedia.org/wiki/File:Norway_%E2%80%93_the_land_of_the_midnight_sun_%2814266873086%29.jpg"
 cover_license: "Public domain"

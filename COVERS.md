@@ -476,8 +476,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Stavkirke
 
-- Story: `wiki-0b5643a8b684`
-- File: `covers/wiki-0b5643a8b684.jpg`
+- Story: `stavkirke`
+- File: `covers/stavkirke.jpg`
 - Source: [File:Ringebu stave church Norway.jpg](https://commons.wikimedia.org/wiki/File:Ringebu_stave_church_Norway.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ringebu_stave_church_Norway.jpg/500px-Ringebu_stave_church_Norway.jpg)
 - License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -486,8 +486,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Brunost
 
-- Story: `wiki-1e20fa0eac90`
-- File: `covers/wiki-1e20fa0eac90.jpg`
+- Story: `brunost`
+- File: `covers/brunost.jpg`
 - Source: [File:Brunost - Brown cheese.jpg](https://commons.wikimedia.org/wiki/File:Brunost_-_Brown_cheese.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Brunost_-_Brown_cheese.jpg/500px-Brunost_-_Brown_cheese.jpg)
 - License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
@@ -496,8 +496,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Hurtigruten
 
-- Story: `wiki-3a10c324231e`
-- File: `covers/wiki-3a10c324231e.jpg`
+- Story: `hurtigruten`
+- File: `covers/hurtigruten.jpg`
 - Source: [File:Hurtigruten 66 BG.jpg](https://commons.wikimedia.org/wiki/File:Hurtigruten_66_BG.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hurtigruten_66_BG.jpg/500px-Hurtigruten_66_BG.jpg)
 - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -506,8 +506,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Matpakke
 
-- Story: `wiki-4c4e56bbbb5f`
-- File: `covers/wiki-4c4e56bbbb5f.jpg`
+- Story: `matpakke`
+- File: `covers/matpakke.jpg`
 - Source: [File:Colt 1914 matpakke (6971788649).jpg](https://commons.wikimedia.org/wiki/File:Colt_1914_matpakke_%286971788649%29.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Colt_1914_matpakke_%286971788649%29.jpg/500px-Colt_1914_matpakke_%286971788649%29.jpg)
 - License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
@@ -516,8 +516,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Friluftsliv
 
-- Story: `wiki-627ff9435123`
-- File: `covers/wiki-627ff9435123.jpg`
+- Story: `friluftsliv`
+- File: `covers/friluftsliv.jpg`
 - Source: [File:Friluftsliv.jpg](https://commons.wikimedia.org/wiki/File:Friluftsliv.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Friluftsliv.jpg/500px-Friluftsliv.jpg)
 - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -526,8 +526,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Aurora polaris
 
-- Story: `wiki-6d6fbcb7de8e`
-- File: `covers/wiki-6d6fbcb7de8e.jpg`
+- Story: `aurora-polaris`
+- File: `covers/aurora-polaris.jpg`
 - Source: [File:Aurora Polaris drawing - Australasian Antarctic Expedition (1911-1914).jpg](https://commons.wikimedia.org/wiki/File:Aurora_Polaris_drawing_-_Australasian_Antarctic_Expedition_%281911-1914%29.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Aurora_Polaris_drawing_-_Australasian_Antarctic_Expedition_%281911-1914%29.jpg/500px-Aurora_Polaris_drawing_-_Australasian_Antarctic_Expedition_%281911-1914%29.jpg)
 - License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
@@ -536,8 +536,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Midnattssol
 
-- Story: `wiki-87ace28c8798`
-- File: `covers/wiki-87ace28c8798.jpg`
+- Story: `midnattssol`
+- File: `covers/midnattssol.jpg`
 - Source: [File:Norway – the land of the midnight sun (14266873086).jpg](https://commons.wikimedia.org/wiki/File:Norway_%E2%80%93_the_land_of_the_midnight_sun_%2814266873086%29.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Norway_%E2%80%93_the_land_of_the_midnight_sun_%2814266873086%29.jpg/500px-Norway_%E2%80%93_the_land_of_the_midnight_sun_%2814266873086%29.jpg)
 - License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
@@ -546,8 +546,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Vafler
 
-- Story: `wiki-9c9ea7bc2416`
-- File: `covers/wiki-9c9ea7bc2416.jpg`
+- Story: `vafler`
+- File: `covers/vafler.jpg`
 - Source: [File:Eating waffer vaffel med rømme.JPG](https://commons.wikimedia.org/wiki/File:Eating_waffer_vaffel_med_r%C3%B8mme.JPG)
 - Original image: [download](https://commons.wikimedia.org/wiki/Special:FilePath/Eating%20waffer%20vaffel%20med%20r%C3%B8mme.JPG?width=1200)
 - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -556,8 +556,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Dugnad
 
-- Story: `wiki-a7d3507e5743`
-- File: `covers/wiki-a7d3507e5743.jpg`
+- Story: `dugnad`
+- File: `covers/dugnad.jpg`
 - Source: [File:Starkadavisen, Skiklubben Starkad, dugnad, 1903.jpg](https://commons.wikimedia.org/wiki/File:Starkadavisen%2C_Skiklubben_Starkad%2C_dugnad%2C_1903.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Starkadavisen%2C_Skiklubben_Starkad%2C_dugnad%2C_1903.jpg/500px-Starkadavisen%2C_Skiklubben_Starkad%2C_dugnad%2C_1903.jpg)
 - License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
@@ -566,8 +566,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Allemannsretten
 
-- Story: `wiki-acf175b16ce4`
-- File: `covers/wiki-acf175b16ce4.jpg`
+- Story: `allemannsretten`
+- File: `covers/allemannsretten.jpg`
 - Source: [File:Femundsmarka, Norway - Telt.jpg](https://commons.wikimedia.org/wiki/File:Femundsmarka%2C_Norway_-_Telt.jpg)
 - Original image: [download](https://commons.wikimedia.org/wiki/Special:FilePath/Femundsmarka%2C%20Norway%20-%20Telt.jpg?width=1200)
 - License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
@@ -576,8 +576,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Bunad
 
-- Story: `wiki-c943c53c0fcd`
-- File: `covers/wiki-c943c53c0fcd.jpg`
+- Story: `bunad`
+- File: `covers/bunad.jpg`
 - Source: [File:Mother and child in traditional Norwegian bunad, St. Paul, Minnesota - DPLA - 84378a131b518c126de5aa98de93eb8a.jpg](https://commons.wikimedia.org/wiki/File:Mother_and_child_in_traditional_Norwegian_bunad%2C_St._Paul%2C_Minnesota_-_DPLA_-_84378a131b518c126de5aa98de93eb8a.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mother_and_child_in_traditional_Norwegian_bunad%2C_St._Paul%2C_Minnesota_-_DPLA_-_84378a131b518c126de5aa98de93eb8a.jpg/500px-Mother_and_child_in_traditional_Norwegian_bunad%2C_St._Paul%2C_Minnesota_-_DPLA_-_84378a131b518c126de5aa98de93eb8a.jpg)
 - License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
@@ -586,8 +586,8 @@ Public-domain and CC0 files are free to reuse. CC BY files require attribution, 
 
 ## Fjord
 
-- Story: `wiki-e5eb92ee2ea8`
-- File: `covers/wiki-e5eb92ee2ea8.jpg`
+- Story: `fjord`
+- File: `covers/fjord.jpg`
 - Source: [File:Hans Andreas Dahl - Norwegian Fjord - 1916.26.1 - Reading Public Museum.jpg](https://commons.wikimedia.org/wiki/File:Hans_Andreas_Dahl_-_Norwegian_Fjord_-_1916.26.1_-_Reading_Public_Museum.jpg)
 - Original image: [download](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hans_Andreas_Dahl_-_Norwegian_Fjord_-_1916.26.1_-_Reading_Public_Museum.jpg/500px-Hans_Andreas_Dahl_-_Norwegian_Fjord_-_1916.26.1_-_Reading_Public_Museum.jpg)
 - License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)

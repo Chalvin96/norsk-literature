@@ -662,7 +662,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Stavkirke
 
-- File: `stories/norsk_fakta/wiki-0b5643a8b684.md`
+- File: `stories/norsk_fakta/stavkirke.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25940101
 
@@ -678,7 +678,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Brunost
 
-- File: `stories/norsk_fakta/wiki-1e20fa0eac90.md`
+- File: `stories/norsk_fakta/brunost.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25216091
 
@@ -694,7 +694,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Hurtigruten
 
-- File: `stories/norsk_fakta/wiki-3a10c324231e.md`
+- File: `stories/norsk_fakta/hurtigruten.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25779058
 
@@ -710,7 +710,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Matpakke
 
-- File: `stories/norsk_fakta/wiki-4c4e56bbbb5f.md`
+- File: `stories/norsk_fakta/matpakke.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=21454802
 
@@ -726,7 +726,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Friluftsliv
 
-- File: `stories/norsk_fakta/wiki-627ff9435123.md`
+- File: `stories/norsk_fakta/friluftsliv.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25780056
 
@@ -742,7 +742,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Aurora polaris
 
-- File: `stories/norsk_fakta/wiki-6d6fbcb7de8e.md`
+- File: `stories/norsk_fakta/aurora-polaris.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25856704
 
@@ -758,7 +758,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Midnattssol
 
-- File: `stories/norsk_fakta/wiki-87ace28c8798.md`
+- File: `stories/norsk_fakta/midnattssol.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25846448
 
@@ -774,7 +774,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Vafler
 
-- File: `stories/norsk_fakta/wiki-9c9ea7bc2416.md`
+- File: `stories/norsk_fakta/vafler.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25945223
 
@@ -790,7 +790,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Dugnad
 
-- File: `stories/norsk_fakta/wiki-a7d3507e5743.md`
+- File: `stories/norsk_fakta/dugnad.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25524491
 
@@ -806,7 +806,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Allemannsretten
 
-- File: `stories/norsk_fakta/wiki-acf175b16ce4.md`
+- File: `stories/norsk_fakta/allemannsretten.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25611231
 
@@ -822,7 +822,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Bunad
 
-- File: `stories/norsk_fakta/wiki-c943c53c0fcd.md`
+- File: `stories/norsk_fakta/bunad.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25744777
 
@@ -838,7 +838,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 ## Fjord
 
-- File: `stories/norsk_fakta/wiki-e5eb92ee2ea8.md`
+- File: `stories/norsk_fakta/fjord.md`
 
 - Source: https://no.wikipedia.org/w/index.php?oldid=25906327
 
