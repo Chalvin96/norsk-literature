@@ -900,3 +900,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Review status: source_text_ungraded
 
+## Cover-image credits
+
+See `COVERS.md` for the source page, license, creator, and transformations for every cover derivative.
