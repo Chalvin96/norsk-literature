@@ -21,7 +21,7 @@ authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25611231"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "b1918417d97a9aadf6825faefc907128d4a9823d9d61626ef99ef6748c6ae8f0"
+content_sha256: "f67abef4d823498bd86a46cf3ae54d457f3a4934c686aaaa75f0edd9ca8c98ed"
 ---
 
 Allemannsretten er den retten som enhver har på en annen persons eiendom. Selv om utøvelse av allemannsrett har lange tradisjoner i Norge og i de fleste skandinaviske land, er det ikke et særegent norsk eller skandinavisk fenomen. En rekke andre nasjoner, som Østerrike, Sveits, Tyskland, Belarus og England har allemannsrett eller elementer av denne i sitt rettssystem. I land uten allemannsrett er det vanligvis områder i statlig eller kommunalt eierskap hvor du kan gå fritt, for eksempel nasjonalparker. Disse er primært lokalisert i tynt befolkede områder. Det finnes vanligvis også utpekte turstier, ofte med markerte teltplasser. Det finnes et nettverk av europeiske vandreruter som krysser Europa.
@@ -47,4 +47,3 @@ Siden 1994 har en av Sveriges grunnlover slått fast at alle skal ha tilgang til
 Danmark
 
 I Danmark mangler det tilsvarende offentlige rettigheter og det er et mye strengere syn på allmennhetens tilgang til privat grunn. Du har ikke lov til å oppholde deg fritt på privat grunn; i prinsippet kan man gå på private veier og stier, men det er ofte et problem at veiene går gjennom gårder eller at grunneiere sperrer dem av. Om natten må du ikke være i skogen i det hele tatt uten tillatelse. På statlig og kommunal grunn er det friere og man har nå lov til å slå leir i visse statlige skoger. Forbudet mot gratis camping gjelder også på Færøyene.
-

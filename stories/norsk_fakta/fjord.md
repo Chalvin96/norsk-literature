@@ -21,7 +21,7 @@ authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25906327"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "a532b1f1fc1f4c199100eb42b8e92b643b97b4d10b4ce4d3b3f0e95ce6684d2f"
+content_sha256: "f311dcbdb8c9f840e85f8f9b907d834a1b1ff86290d400bff9f4689e2ab3fb05"
 ---
 
 Fjord er en landform som i internasjonalt fagspråk (geologi, geografi) forklart som ei dyp, smal og langstrakt hav- eller innsjørenne. Åpningen ut mot havet kalles fjordens munning og er ofte grunn. Fjordens innerste del kalles fjordbunnen. Er havrenna bredere enn den er lang, er det en bukt eller en vik.
@@ -203,7 +203,7 @@ Limski kanal (6 km)
 
 Forthfjorden, Skottland
 
-Firth of Tay, Skottland
+Tayfjorden, Skottland
 
 Cromarty Firth, Skottland
 
@@ -288,5 +288,3 @@ Fjordhest, også kalt fjording, er en svært gammel norsk hesterase, utviklet p�
 Slartibartfast, en fiktiv figur i den engelske forfatteren Douglas Adams' romanserie Haikerens guide til galaksen, vinner en pris for å ha laget fjordene i Norge.
 
 I den engelske komigruppen Monty Pythons sketsj om den døde papegøyen hevder Michael Palin at John Cleeses døde papegøye, en såkalt «Norwegian Blue parrot» («Norsk blå papagøye») slett ikke er død, men isteden «bare vansmekter for fjordene».
-
-

@@ -19,7 +19,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "20621"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "20f08eb4a94c2650bfe102acbcd1925903aa0f2c5a767f16a83a660fccd28b5e"
+content_sha256: "d2cb1a1f8f1c8e3c4363d0e096208e806d64016dba980ae81ba3227ba7872c7a"
 ---
 
 Det var en gang en bonde som hadde tre sønner; han var i små kår og gammel og skrøpelig, og sønnene ville ikke ta seg noe til. Til gården hørte en stor, god skog, og den ville faren at guttene skulle hogge i, og se å få betalt unda noe på gjelden.
@@ -70,4 +70,3 @@ Da de hadde ett en god stund til, la trollet bort skjeen. «Nei, nå orker jeg i
 «Å, ikke noe å tale om,» svarte gutten.
 
 Så gjorde trollet som gutten sa, og så kan en vel vite han satte livet til. Men gutten tok alt det sølv og gull som i berget fans, og gikk hjem med. Med det kunne han alltid få betalt unda noe på gjelden.
-

@@ -21,7 +21,7 @@ authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25940101"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "89f4f0ba3cd91f54fd7430e41dc4ac6232d377ff2370373b691466c734b7f3cc"
+content_sha256: "e29c1251fd571d50aa443596d5c88b3ba320722d996b7baafde260ed7eab9504"
 ---
 
 En stavkirke er en kirke bygget av tre med en bærende konstruksjon av staver (stolper) som står på liggende sviller eller syllstokker og bærer stavlegjer. De konstruktive leddene i veggen danner rammer med en utfylling av stående planker eller tiler. Stavene har gitt navn til kirketypen. Nå regnes stavkirkene for å være blant de viktigste representanter for europeisk middelalderarkitektur i tre og er representert ved Urnes stavkirke på UNESCOs liste over verdensarven.
@@ -49,7 +49,7 @@ En tidligere kirketype, stolpekirken, hadde jordgravde stolper, og det er antatt
 Kirkebygging ble omtalt i Gulatingsloven, som ble nedskrevet på 1000-tallet. I kristendomsbolken, i det 12. avsnittet står det:
 En middelalderlov sier i moderne Bokmål at den som bygger en kirke, enten det er en lendmann, en bonde eller en annen, skal holde den ved like og ikke ødelegge kirketomten. Dersom kirken bryter sammen og hjørnestavene faller, skal byggherren skaffe tømmer til tomten innen tolv måneder. Hvis tømmeret ikke kommer, skal han betale bot til biskopen og likevel bygge kirken opp igjen.
 
-Ifølge de gamle landskapslovene og Gammelnorsk homiliebok gjaldt innvielsen av kirken så lenge de fire hjørnestavene sto oppreist. Ordet «stavkirke» er ukjent i gammelnorsk, noe som trolig skyldes at det ikke fantes andre typer trekirker. Da kirkene i nyere tid ble oppført i laft, ble det behov for et eget ord for de eldre kirkene. I skriftlige kilder fra middelalderen skjelnes det klart mellom «stafr» og «þili» eller «vægþili». I dokumenter fra 1600-1700-tallet ble imidlertid «stav» også brukt om veggtiler. Emil Eckhoff tok i sitt verk Svenska stavkyrkor (1914–1916) med reisverkskirker uten stolper.
+Ifølge de gamle landskapslovene og Gammelnorsk homiliebok gjaldt innvielsen av kirken så lenge de fire hjørnestavene sto oppreist. Ordet «stavkirke» er ukjent i gammelnorsk, noe som trolig skyldes at det ikke fantes andre typer trekirker. Da kirkene i nyere tid ble oppført i laft, ble det behov for et eget ord for de eldre kirkene. I skriftlige kilder fra middelalderen skjelnes det klart mellom en stav og en veggtilje. I dokumenter fra 1600-1700-tallet ble imidlertid «stav» også brukt om veggtiler. Emil Eckhoff tok i sitt verk Svenska stavkyrkor (1914–1916) med reisverkskirker uten stolper.
 
 Stavkirkeprekenen
 
@@ -161,7 +161,7 @@ Enskipede kirker (type A)
 
 I bunnen ligger fire grove planker på høykant på et lavt steinfundament. Disse danner den rektangulære svillerammen. Svillene kan være laftet sammen i hjørnene, og da er hjørnestavene forsynt med to kryssende slisser i bunnen, slik at de kan felles ned over knutepunktet. Men oftere er de ført inn i spor i hjørnestavene og festet med trenagler.
 
-På oversiden av svillene er det skåret ut en not som veggplankene (tilene) er satt ned i, og disse er samtidig føyd sammen innbyrdes med not og fjær. Tilene ble presset sammen ved at den siste (midterste] ble laget avsmalnende fra topp til bunn og ble slått ned som en kile. Øverst avsluttes veggen av en horisontal stavlegje – en bjelke med not på undersiden, som holder de øvre endene av tilene på plass. På denne måten danner stavlegjene en ramme i horisontalplanet, tilsvarende svillerammene nede, mens sviller, hjørnestaver og stavlegjer danner vertikale rammer for hver vegg.
+På oversiden av svillene er det skåret ut en not som veggplankene (tilene) er satt ned i, og disse er samtidig føyd sammen innbyrdes med not og fjær. Tilene ble presset sammen ved at den siste (midterste] ble laget avsmalnende fra topp til bunn og ble slått ned som en kile. Øverst avsluttes veggen av en horisontal stavlegje – en bjelke med not på undersiden, som holder de øvre endene av tilene på plass. På denne måten danner de øvre stavrammene en vannrett ramme som svarer til svillerammene nede. Sviller, hjørnestaver og øvre rammer danner samtidig en loddrett ramme for hver vegg.
 
 På stavlegjene hviler sperrebindene. De takbærende sperrene er kammet ned i stavlegjene. Under disse, og forbundet med dem, står to kryssende undersperrer eller saksesperrer i en litt slakere vinkel. Under knutepunktet for saksesperrene ligger en vannrett hanebjelke som låser hele sperrebindet sammen til et stivt fagverk. Mellom hovedsperrenes nedre ender er det satt inn selvvokste bueknær for sideveis avstiving, naglet til sperrer og stavlegje. Ytterligere stivhet i lengderetningen gir åsene som er nedfelt i sperrene; én mønsås og ett eller flere par sideåser. På disse er bordtaket festet.
 
@@ -299,7 +299,7 @@ Fellestrekk ved de fleste portalene er at de er monumentale og at de har kjempen
 
 Hohler går imot denne tolkningen. Hun mener at portalene ikke kan ha et religiøst innhold, men er et bilde på bestillerens eller byggherrens hensikt, et herskermotiv. Det finnes mange portaler i Europa som er rene ornamenter. Hun henviser til Bernhard av Clairvaux, som var imot bruk av dyr i kristen sammenheng.
 
-«Hvilken berettigelse har udyrene i klostergangen den formløse formskatten og den formfulle formløsheten? Hva har bilder der å gjøre av urene aper, ville løver, fantastiske kentaurer og halvmennesker? Hvorfor tjene tigrer, kjempende riddere, jegere som blåser i sine horn? Der ser du under et hode flere kropper, og der ser du på en firfotig kropp en slanges hale, der på en fisk et dyrehode – Overalt finnes en slik rik og fantastisk samling av ulike former at en heller retter sine øyne mot skulpturene enn mot de hellige bøkenes innhold.» Hun mener derfor at dyremotiver i romansk kunst ikke har hatt noen særlig religiøs betydning, og portalene kan være rene herskersymboler.
+«Hvilken berettigelse har udyrene i klostergangen den formløse formskatten og den formfulle formløsheten? Hva har bilder der å gjøre av urene aper, ville løver, fantastiske kentaurer og halvmennesker? Hvorfor tjene tigrer, kjempende riddere, jegere som blåser i sine horn? Der ser du under et hode flere kropper, og der ser du på en firbeint kropp en slanges hale, der på en fisk et dyrehode – Overalt finnes en slik rik og fantastisk samling av ulike former at en heller retter sine øyne mot skulpturene enn mot de hellige bøkenes innhold.» Hun mener derfor at dyremotiver i romansk kunst ikke har hatt noen særlig religiøs betydning, og portalene kan være rene herskersymboler.
 
 Hoftun mener at mange av de såkalte hedenske portalmotivene har klart kristne budskap. I prinsippet skiller ikke de norske stavkirkemotivene seg fra mange av de motivene som er å se i annen romansk kirkekunst, som for eksempel motiver på romanske kirkeportaler og døpefonter i stein i Sverige og Danmark.
 
@@ -455,10 +455,8 @@ Et byggverk i Odda oppført 2025 i regi av "Lothepus" er utvendig en etterlignin
 
 Stavkirken i populærkulturen
 
-I sanntidsstrategivideospillet Age of Empires II (utviklet av Ensemble Studios og utgitt av Microsoft i 1999) er vikingenes vidunderbygning (det vil si en særlig monumental bygning), en spillbar sivilisasjon i dette videospillet, representert av Borgund stavkirke. Vikingenes vidunderbygning deler også arkitektoniske likheter med to andre stavkirker, nemlig Hedal og Hopperstad. I sanntidsstrategispillet Age of Mythology (også utviklet av Ensemble Studios og utgitt av Microsoft), ligner den norrøne sivilisasjonens templer stavkirkene.
+I sanntidsstrategivideospillet Imperienes tidsalder II (utviklet av Ensemble Studios og utgitt av Microsoft i 1999) er vikingenes vidunderbygning (det vil si en særlig monumental bygning), en spillbar sivilisasjon i dette videospillet, representert av Borgund stavkirke. Vikingenes vidunderbygning deler også arkitektoniske likheter med to andre stavkirker, nemlig Hedal og Hopperstad. I sanntidsstrategispillet Age of Mythology (også utviklet av Ensemble Studios og utgitt av Microsoft), ligner den norrøne sivilisasjonens templer stavkirkene.
 
 Arkeologiske steder og revne stavkirker
 
 Mange stavkirker er nå tapt, men lever videre i sagn, dokumenter eller arkeologisk spor. Listen er veldig omfattende og er flyttet ut til en egen artikkel.
-
-

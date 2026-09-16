@@ -19,7 +19,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "20669"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "e3761fbf552fb7231fc5c51dfc976f79ecd357221690b33fc5f0873fa1d70e87"
+content_sha256: "c3c160904b16ea411c4a4d5c709e3427575f98d14eaf35009bbcdefdd9809f4e"
 ---
 
 Det var en gang et par folk som hadde en sønn, og han hette Halvor. Like fra han var smågutt, ville han aldri ta seg noe til, men satt bare og raket i aska. Foreldrene satte ham bort i mange slags lære; men Halvor stanet ikke noensteds, for når han hadde vært borte i noen dager, rømte han av læren, løp hjem og satte seg i grua til å grave i aska igjen. Men så kom det en gang en skipper og spurte Halvor om han ikke hadde lyst til å bli med han og fare til sjøs og se fremmede land. Jo, det hadde Halvor lyst til, da var han ikke lenge uferdig.
@@ -108,7 +108,7 @@ Halvor var ikke mye for det, han ville bli; men folkene ble ved sitt, at han sku
 
 Det kunne de da ikke si noe imot, og så satte Halvor seg i peisen og til å grave i aska, slik som han gjorde da han lå hjemme og latet seg.
 
-De snakket om mangt og mye, og fortalte Halvor både om det ene og det andre, og så spurte han om de aldri hadde hatt noe barn.
+De snakket om mange ting, og fortalte Halvor både om det ene og det andre, og så spurte han om de aldri hadde hatt noe barn.
 
 Jo, de hadde hatt en gutt som hette Halvor, men de visste ikke hvor han vandret, og ikke visste de enten han var død eller levende heller.
 
@@ -191,5 +191,3 @@ Da de nå, som skikk og bruk var, skulle drikke bruden av jentelaget, og skjenke
 Det kunne det ikke være mer enn én mening om, mente alle, og da Halvor hørte det, var han ikke lenge om å få fantefillene av seg og pynte seg til brudgom.
 
 «Ja, der er den rette!» ropte den yngste prinsessen da hun fikk se ham, og så skjøt hun den andre for glugg og holdt bryllup med Halvor.
-
-

@@ -19,7 +19,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "20630"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "e1ea52ece58fb17255827f7d4e79bf262012710be661e4addf288ce1f8b0caf0"
+content_sha256: "470bf0878e7b5ea629078a9963562431de052d9f6222d8359d4c4ee5c427df8e"
 ---
 
 Det var en gang et par fattige folk; de hadde ingenting uten tre sønner. Hva de to eldste hette, det vet jeg ikke, men den yngste hette Per.
@@ -126,4 +126,3 @@ Men med det samme ble hun til den deiligste prinsesse som noen ville se for sine
 «Ja, denne herligheten har vært min før,» sa prinsessen, «men trollet der har forgjort meg, så jeg måtte være katt hos foreldrene dine. Nå får du da gjøre det du vil, om du vil ta meg til dronning eller ikke; for nå er du konge over hele riket,» sa prinsessen.
 
 Å jo, det kan vel hende at Herreper ville ha henne til dronning. Så ble det bryllup og gjestebud i åtte dager, og så var jeg ikke med Herreper og dronningen hans lenger, jeg.
-

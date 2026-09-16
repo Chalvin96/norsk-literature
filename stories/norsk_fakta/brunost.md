@@ -20,7 +20,7 @@ authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25216091"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
-content_sha256: "55e6d7786fa90c572c49f49ada0b6cf3e13d12078326c1cfd70fed1204deb519"
+content_sha256: "d8bdece42982cc996968154487e524fb4e18387b3020d6bc415d6c1ba28716bc"
 ---
 
 Brunost, raudost, geitost eller mysost (dansk også myseost, svensk: messmör eller mesost) er en samlebetegnelse på mysoster som har en brunlig farge og som har myse som hovedbestanddel. Den omfatter blant annet geitost, fløtemysost og gudbrandsdalsost. Myse er restprodukt fra produksjon av hvit ost (når ostemassen er skilt ut) og består for en stor del av melkesukker løst i vann. Brunost er ikke en egentlig ost etter vanlig definisjon og har mer preg av karamell. Innkoking av mysen medfører en karamellisering av melkesukkeret og dette gir brunosten karakteristisk smak. Tilsetting av melk eller fløte gir ulike varianter med en rundere smak, mykere konsistens og mer protein eller fett.
@@ -72,4 +72,3 @@ Den eldste typen brunost produserte på setrene var hard, sprø og syrlig på sm
 Det er budeia Anne Hov fra Gudbrandsdalen som får æren av produktutviklingen. Oppfinnelsen med å tilsette fløte eller rømme til avkoket av myse, og dermed å ha skapt feitost, skriver seg etter sigende fra da hun var budeie på Solbråsetra i Sør-Fron kommune. Feitost ble forløperen til dagens gudbrandsdalsost, som bidro til å forbedre økonomien i Gudbrandsdalen på 1880-tallet. Tidligere var smør hovedprodukt fra setrene i Gudbrandsdalen. Med innføring av separator ble fløten skilt fra og kunne tilsettes mysen, mens skummetmelken ble brukt til hvit ost. Omkring 1905 var gudbrandsdalsost hovedprodukt og sto i 1925 for 60 % av inntektene i Gudbrandsdalen. Senere ble også geitemelk tilsatt. I 1933, da Anne Hov var 87 år, ble hun tildelt Kongens fortjenstmedalje i sølv.
 
 Ettersom mysen tradisjonelt ble kokt på gårdene i jerngryter, var brunost også en viktig jernkilde i norsk kosthold. Ifølge Den norske legeforening tilsvarte jerninnholdet 16 mg jern pr. 100 gram brunost. Med bruk av aluminiums- og stålkar i moderne produksjon falt det til under 0,5 mg jern pr. 100 gram. For igjen å øke befolkningens jerntilskudd ble brunosten fra 1944 beriket med jern som forebyggende medisin. Denne praksisen varte fram til den 1. september 2001 da Statens næringsmiddeltilsyn besluttet at berikingen ikke lenger var nødvendig. Etter noen år fikk noen produsenter tillatelse til å tilsette jern til henholdsvis én type prim og én type brunost; begge disse produktene hadde barn og ungdom som målgruppe. Årsaken til oppmykningen var at helsemyndighetene hadde avdekket økende forekomst av jernmangel i de yngre årskullene.
-
