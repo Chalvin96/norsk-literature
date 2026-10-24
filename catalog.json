@@ -2800,6 +2800,58 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=Sm%C3%B8rbukk&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "risen-som-ikke-hadde-noe-hjerte-pa-seg",
+      "source_unit_ids": [
+        "wikikilden-risen-som-ikke-hadde-noe-hjerte-pa-sig-nb"
+      ],
+      "path": "stories/norske_eventyr/risen-som-ikke-hadde-noe-hjerte-pa-seg.md",
+      "title": "Risen som ikke hadde noe hjerte på seg",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1892,
+      "content_sha256": "26b82ba6ed4334e3a2f30ca2f7b706430e81ed942be7035c1dbd272ee992f6dc",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=20561",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "20561",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Risen_som_ikke_hadde_noe_hjerte_p%C3%A5_sig&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "smaguttene-som-traff-trollene-pa-hedalsskogen",
+      "source_unit_ids": [
+        "wikikilden-smaguttene-som-traff-trollene-pa-hedalsskogen-nb"
+      ],
+      "path": "stories/norske_eventyr/smaguttene-som-traff-trollene-pa-hedalsskogen.md",
+      "title": "Småguttene som traff trollene på Hedalsskogen",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 752,
+      "content_sha256": "cfe4e3ce85068d338c491e4ef7646fc75ffb7f14add9bcb996f885a33cebe1d3",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=281272",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "281272",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Sm%C3%A5guttene_som_traff_trollene_p%C3%A5_Hedalsskogen&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }

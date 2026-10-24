@@ -1351,3 +1351,35 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Risen som ikke hadde noe hjerte på seg
+
+- File: `stories/norske_eventyr/risen-som-ikke-hadde-noe-hjerte-pa-seg.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=20561
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 20561
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Småguttene som traff trollene på Hedalsskogen
+
+- File: `stories/norske_eventyr/smaguttene-som-traff-trollene-pa-hedalsskogen.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=281272
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 281272
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
