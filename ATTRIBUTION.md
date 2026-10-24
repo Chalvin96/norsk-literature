@@ -1127,3 +1127,99 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Fårikål
+
+- File: `stories/norsk_fakta/farikal.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=25953779
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 25953779
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Holmenkollen
+
+- File: `stories/norsk_fakta/holmenkollen.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=25752583
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 25752583
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Hytte
+
+- File: `stories/norsk_fakta/hytte.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=25289408
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 25289408
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Isbjørn
+
+- File: `stories/norsk_fakta/isbjorn.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=26001333
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 26001333
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Julebord
+
+- File: `stories/norsk_fakta/julebord.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=25423784
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 25423784
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
+
+## Kvikk Lunsj
+
+- File: `stories/norsk_fakta/kvikk-lunsj.md`
+
+- Source: https://no.wikipedia.org/w/index.php?oldid=25309323
+
+- Author(s): Wikipedia contributors; see linked revision history
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 25309323
+
+- Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
+
+- Review status: source_text_ungraded
