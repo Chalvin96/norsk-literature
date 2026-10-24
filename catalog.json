@@ -2412,6 +2412,30 @@
       "rights_status": "cleared",
       "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "de-to-pottene",
+      "source_unit_ids": [
+        "pg21-two-pots-nb"
+      ],
+      "path": "stories/moderne_fabler/de-to-pottene.md",
+      "title": "De to pottene",
+      "language": "nb",
+      "group": "moderne_fabler",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 59,
+      "content_sha256": "b797de7560661636ec51aa5dcc9e84d0624cf8fec75046c8f582921966348e1c",
+      "source_url": "https://www.gutenberg.org/ebooks/21",
+      "authors": "Aesop",
+      "license": "Public domain in USA; other jurisdictions require review",
+      "license_url": "https://www.gutenberg.org/policy/permission",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
