@@ -2852,6 +2852,58 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=Sm%C3%A5guttene_som_traff_trollene_p%C3%A5_Hedalsskogen&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "kjerringa-mot-strommen",
+      "source_unit_ids": [
+        "wikikilden-kjerringa-mot-strommen-nb"
+      ],
+      "path": "stories/norske_eventyr/kjerringa-mot-strommen.md",
+      "title": "Kjerringa mot strømmen",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 573,
+      "content_sha256": "c7dcf1c569aa2905063dec18d5d7c0433c464902fa254404372344953395b8fe",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=20625",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "20625",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Kjerringa_mot_str%C3%B8mmen&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "kverna-som-star-og-maler-pa-havets-bunn",
+      "source_unit_ids": [
+        "wikikilden-kverna-som-star-og-maler-pa-havsens-bunn-nb"
+      ],
+      "path": "stories/norske_eventyr/kverna-som-star-og-maler-pa-havets-bunn.md",
+      "title": "Kverna som står og maler på havets bunn",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1244,
+      "content_sha256": "5a7d148d9e04caa071e2f9928efebf4b29b5b41b44b211b20f7080565482f31b",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=20622",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "20622",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Kverna_som_st%C3%A5r_og_maler_p%C3%A5_havsens_bunn&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }

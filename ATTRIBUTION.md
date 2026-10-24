@@ -1383,3 +1383,35 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Kjerringa mot strømmen
+
+- File: `stories/norske_eventyr/kjerringa-mot-strommen.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=20625
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 20625
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Kverna som står og maler på havets bunn
+
+- File: `stories/norske_eventyr/kverna-som-star-og-maler-pa-havets-bunn.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=20622
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 20622
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
