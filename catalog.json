@@ -2722,6 +2722,84 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=Presten_og_klokkeren&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "gudbrand-i-lia",
+      "source_unit_ids": [
+        "wikikilden-gudbrand-i-lia-nb"
+      ],
+      "path": "stories/norske_eventyr/gudbrand-i-lia.md",
+      "title": "Gudbrand i Lia",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 981,
+      "content_sha256": "9667292313894c3ecde0c2419c9d0c3fa37c40ed02f968e866c49510443e5434",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=20868",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "20868",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Gudbrand_i_Lia&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "prinsessa-som-ingen-kunne-malbinde",
+      "source_unit_ids": [
+        "wikikilden-prinsessen-som-ingen-kunde-malbinde-nb"
+      ],
+      "path": "stories/norske_eventyr/prinsessa-som-ingen-kunne-malbinde.md",
+      "title": "Prinsessa som ingen kunne målbinde",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 802,
+      "content_sha256": "7be6c77e354552614e0d093c67c0a58aaf644044d3a66b02236ed2fa2413a6f9",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=182820",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "182820",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Prinsessen_som_ingen_kunde_m%C3%A5lbinde&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "smorbukk",
+      "source_unit_ids": [
+        "wikikilden-smorbukk-nb"
+      ],
+      "path": "stories/norske_eventyr/smorbukk.md",
+      "title": "Smørbukk",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 937,
+      "content_sha256": "f2f01a91223eceac2a4c80f6a447b29b6e3d4d4ca93ddc18a2bd5d465e802506",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=20624",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "20624",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Sm%C3%B8rbukk&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
