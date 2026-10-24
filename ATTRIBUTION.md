@@ -1223,3 +1223,83 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
 - Review status: source_text_ungraded
+
+## Bamse bra-kar
+
+- File: `stories/norske_eventyr/bamse-bra-kar.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=20617
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 20617
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## De tre bukkene Bruse som skulle til seters og bli fete
+
+- File: `stories/norske_eventyr/de-tre-bukkene-bruse-som-skulle-til-seters-og-bli-fete.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=183617
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 183617
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Den syvende far i huset
+
+- File: `stories/norske_eventyr/den-syvende-far-i-huset.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=183634
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 183634
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Mannen som skulle stelle hjemme
+
+- File: `stories/norske_eventyr/mannen-som-skulle-stelle-hjemme.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=20560
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 20560
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Presten og klokkeren
+
+- File: `stories/norske_eventyr/presten-og-klokkeren.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=21101
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 21101
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
