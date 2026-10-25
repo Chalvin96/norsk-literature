@@ -11,13 +11,13 @@ license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "8fe78f5228cf88703a49e86d62d0cf4c74aa64c3c5755fae057d3b680a836d51"
+content_sha256: "f3e539e981468f36c8723f1cc0bc7bb69bf276b69ab15cf867ad802a178d7bf2"
 ---
 
 Noen reisende gikk langs sjøen. De klatret opp på toppen av en høy klippe. Langt ute på havet så de noe. De trodde det var et stort skip. De ventet og håpet å se skipet komme inn i havna.
 
-Vinden drev det nærmere land. Da så de at det neppe var et skip. Det kunne høyst være en liten båt. Men til slutt nådde det stranda. Da oppdaget de at det bare var en stor bunt pinner.
+Vinden drev det nærmere land. Da så de at det ikke kunne være et skip. Det kunne høyst være en liten båt. Så nådde det stranda, og de oppdaget at det bare var en stor bunt pinner.
 
-En av dem sa til de andre: «Vi har ventet forgjeves. Det er jo bare en haug med ved å se.»
+En av dem sa til de andre: «Vi har ventet forgjeves. Det er jo ikke noe å se på, bare en haug med ved.»
 
 Forventningene våre til livet er større enn det livet gir.
