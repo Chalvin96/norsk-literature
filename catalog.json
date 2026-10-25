@@ -6608,6 +6608,32 @@
       "history_url": "https://de.wikisource.org/w/index.php?title=Der_Nagel_%281857%29&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "han-far-sjol-i-stua",
+      "source_unit_ids": [
+        "wikikilden-han-far-sjol-i-stua-nb"
+      ],
+      "path": "stories/norske_eventyr/han-far-sjol-i-stua.md",
+      "title": "Han far sjøl i stua",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 541,
+      "content_sha256": "64906cee12c2954f3fa2cba2c3b49af17756bf3711b8cdd7f958c30eb48547f7",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=20629",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "20629",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Han_far_sj%C3%B8l_i_stua&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
