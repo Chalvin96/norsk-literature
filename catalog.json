@@ -4060,6 +4060,32 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folkeeventyr_%281852%29/17&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "reven-og-gjessene",
+      "source_unit_ids": [
+        "wikikilden-grimm-der-fuchs-und-die-gaense-nb"
+      ],
+      "path": "stories/klassikere/reven-og-gjessene.md",
+      "title": "Reven og gjessene",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 203,
+      "content_sha256": "52887485d09719c188b53ece81bbf8ac2ad7c880cd1b2051249bd78ddf0de3ec",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=3433621",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "3433621",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Der_Fuchs_und_die_G%C3%A4nse_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
