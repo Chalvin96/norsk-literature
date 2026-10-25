@@ -12,10 +12,10 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "80630"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "6b8282e4cc812100158e569d900da36813da443092a45e0965746ede977f09f2"
+content_sha256: "5c19b5b103034f0b408d842da5db74dc5c4c3b7d3a58c702cba2fe3973fd1930"
 ---
 
-Det var sorg i huset og sorg i hjertene. Det yngste barnet, en gutt på fire år, var død. Han var den eneste sønnen deres. Han var foreldrenes glede og håp for framtida. De hadde riktignok to eldre døtre. Den eldste skulle bli konfirmert nettopp dette året. Begge var gode og kjære jenter. Men barnet man har mistet, er alltid det kjæreste. Og dette var det yngste barnet, og en sønn. Det var en tung prøve for familien. Søstrene sørget slik unge hjerter sørger. Mest av alt grep foreldrenes smerte dem. Faren var bøyd av sorg. Men mora var helt overveldet av den store sorgen. Natt og dag hadde hun stelt det syke barnet. Hun hadde løftet ham og båret ham. Hun hadde kjent at han var en del av henne selv. Hun kunne ikke tenke seg at han var død. Skulle de legge ham i ei kiste og gjemme ham i graven? Gud kunne ikke ta dette barnet fra henne, mente hun. Likevel skjedde det. Da hun visste det sikkert, snakket hun i sin vonde sorg:
+Det var sorg i huset og sorg i hjertene. Det yngste barnet, en gutt på fire år, var dødt. Han var den eneste sønnen deres. Han var foreldrenes glede og håp for framtida. De hadde riktignok to eldre døtre. Den eldste skulle bli konfirmert nettopp dette året. Begge var gode og kjære jenter. Men barnet man har mistet, er alltid det kjæreste. Og dette var det yngste barnet, og en sønn. Det var en tung prøve for familien. Søstrene sørget slik unge hjerter sørger. Mest av alt grep foreldrenes smerte dem. Faren var bøyd av sorg. Men mora var helt overveldet av den store sorgen. Natt og dag hadde hun stelt det syke barnet. Hun hadde løftet ham og båret ham. Hun hadde kjent at han var en del av henne selv. Hun kunne ikke tenke seg at han var død. Skulle de legge ham i ei kiste og gjemme ham i graven? Gud kunne ikke ta dette barnet fra henne, mente hun. Likevel skjedde det. Da hun visste det sikkert, snakket hun i sin vonde sorg:
 
 «Gud har ikke visst det! Han har tjenere her på jorda som er uten hjerte. De gjør som de selv vil. De hører ikke bønnene fra ei mor.»
 
@@ -37,7 +37,7 @@ Natta var vakker og stjerneklar. Lufta var ennå mild, for det var tidlig i sept
 
 Hun husket smilet hans så levende. Hun kunne aldri glemme det kjærlige uttrykket i øynene. Han hadde hatt det blikket også mens han lå syk. Hvor mye hadde ikke øynene hans sagt! Hun hadde bøyd seg over ham og tatt den fine hånda. Han orket ikke å løfte den selv. Nå satt hun ved graven slik hun hadde sittet ved senga. Men her fikk tårene renne fritt. De falt på graven.
 
-«Du vil ned til barnet ditt!» sa en stemme like ved. Den var klar og dyp og nådde inn i hjertet hennes. Hun så opp. Hos henne sto en mann med ei stor sørgekappe. Hetta hang ned over hodet hans. Men hun så ansiktet under den. Det var strengt, men likevel ga det henne tillit. Øynene hans strålte som øynene til en ung mann.
+«Du vil ned til barnet ditt!» sa en stemme like ved. Den var klar og dyp og nådde inn i hjertet hennes. Hun så opp. Hos henne sto en mann i ei stor sørgekappe. Hetta hang ned over hodet hans. Men hun så ansiktet under den. Det var strengt, men likevel ga det henne tillit. Øynene hans strålte som øynene til en ung mann.
 
 «Ned til barnet mitt!» gjentok hun. Ordene var som en fortvilet bønn.
 

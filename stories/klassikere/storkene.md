@@ -12,10 +12,10 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68321"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "5172ec4efdf9dd1e37321308aa439bd32aaf23e180ecee42c0e399ea0d4f98a7"
+content_sha256: "59afb8149b6dc4e0fb90a8d989f7d0acce5e094ca7d619595cc4bf97519a203e"
 ---
 
-På det siste huset i en liten by lå et storkereir. Storkemora satt der med de fire små ungene sine. Ungene stakk hodet fram med det lille svarte nebbet. Det hadde ennå ikke blitt rødt. Et lite stykke unna sto storkefaren på takryggen. Han sto rank og stiv. Det ene beinet hadde han trukket opp under seg. Han ville jo ha litt bry mens han sto vakt. Han sto så stille at han lignet en trefigur.
+På det siste huset i en liten by lå et storkereir. Storkemora satt der med de fire små ungene sine. Ungene stakk hodet fram med det lille svarte nebbet. Det hadde ennå ikke blitt rødt. Et lite stykke unna sto storkefaren på takryggen. Han sto rank og stiv. Det ene beinet hadde han trukket opp under seg. Han ville jo ha litt strev mens han sto vakt. Han sto så stille at han lignet en trefigur.
 
 «Det ser nok fint ut med vakt ved reiret!» tenkte han. «De vet jo ikke at jeg er mannen hennes. De tror nok at jeg har fått ordre om å stå her. Det ser så flott ut!» Så ble han stående på ett bein.
 
@@ -53,7 +53,7 @@ den andre skal de brenne!»
 
 «Så samler alle storkene i landet seg. Da begynner den store høstøvelsen. Da må dere fly godt. Det er svært viktig. Generalen dreper dem som ikke kan fly, med nebbet sitt. Derfor må dere lære godt når treningen begynner!»
 
-«Så stikker de oss likevel, slik guttene sa! Og hør, nå synger de det igjen!»
+«Så blir vi stukket likevel, slik guttene sa! Og hør, nå synger de det igjen!»
 
 «Hør på meg og ikke på dem», sa storkemora. «Etter den store øvelsen flyr vi til varme land. Å, så langt herfra, over fjell og skoger! Vi flyr til Egypt. Der står trekantede steinhus med spisser opp over skyene. De heter pyramider. De er eldre enn noen stork kan tenke seg. Der finnes en elv som renner over breddene sine. Da blir landet til gjørme. Man går i gjørma og spiser frosker».
 
@@ -67,7 +67,7 @@ Hun mente snøen. Men hun kunne jo ikke forklare det tydeligere.
 
 «Nei, de fryser ikke i stykker! Men de er nær ved det. De må sitte inne i den mørke stua og kjede seg. Dere kan fly rundt i fremmede land. Der er det blomster og varm sol!»
 
-Nå hadde det allerede gått en stund. Ungene kunne stå i reiret og se langt omkring. Storkefaren kom flygende med mat hver dag. Han hadde fine frosker og små buormer. Han tok med alt han fant av storkegodteri. Å, så morsomt det var når han gjorde kunster! Han la hodet helt bak på halen. Nebbet klapret som en liten skralle. Så fortalte han historier, alle sammen fra sumpen.
+Nå hadde det allerede gått en stund. Ungene kunne stå i reiret og se langt omkring. Storkefaren kom flygende med mat hver dag. Han hadde fine frosker og små snoker. Han tok med alt han fant av storkegodteri. Å, så morsomt det var når han gjorde kunster! Han la hodet helt bak på halen. Nebbet klapret som en liten skralle. Så fortalte han historier, alle sammen fra sumpen.
 
 «Hør, nå må dere lære å fly!» sa storkemora en dag. Alle fire ungene måtte ut på takryggen. Å, som de vaklet! De holdt balansen med vingene. Likevel holdt de på å falle ned!
 
@@ -99,7 +99,7 @@ Så fløy hun et lite stykke. Ungene gjorde et lite, klossete hopp. Bums! Der l�
 
 «Ja, det skal du!» sa ungene. Så gjorde de seg virkelig flid. De øvde hver dag. De fløy så vakkert og lett at det var en fryd.
 
-Nå kom høsten. Alle storkene begynte å samle seg for å reise. De skulle til varme land mens vi hadde vinter. For en øvelse det var! De måtte fly over skoger og byer. Slik skulle de vise hvor godt de kunne fly. De hadde jo en lang reise foran seg. Storkeungene klarte seg så fint. De fikk karakteren «Særdeles godt med frosk og slange». Det var den aller beste karakteren. Frosken og slangen kunne de spise. Det gjorde de også.
+Nå kom høsten. Alle storkene begynte å samle seg for å reise. De skulle til varme land mens vi hadde vinter. For en øvelse det var! De måtte fly over skoger og byer. Slik skulle de vise hvor godt de kunne fly. De hadde jo en lang reise foran seg. Storkeungene klarte seg så fint. De fikk karakteren «Utmerket godt med frosk og slange». Det var den aller beste karakteren. Frosken og slangen kunne de spise. Det gjorde de også.
 
 «Nå skal vi hevne oss!» sa de.
 

@@ -12,7 +12,7 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68320"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "a93a759e06b11671e135fedc0bb6f2c8a1f9d2bf6b5ed2ee89a6afceb87d1da9"
+content_sha256: "6d7c07ed06776f0fa12b5d30cd679a6221ba7739738da81087a635737fa0a802"
 ---
 
 Det var vinter. Lufta var kald, og vinden var skarp. Men inne var det lunt og godt. Der inne lå blomsten i løken sin, under jord og snø.
@@ -39,7 +39,7 @@ Det var en stor lykke. Lufta så ut til å synge og klinge. Lysstrålene nådde 
 
 Det var bitende kaldt! Dagene som kom, ga ikke en eneste solstråle. Været kunne fryse en så liten og skjør blomst i stykker. Men blomsten hadde mer styrke enn den selv visste. Den var sterk i gleden og troen på sommeren som måtte komme. Blomstens sterke lengsel varslet at sommeren måtte komme. Det varme sollyset bekreftet det. Slik sto blomsten med håp i en drakt med snøens farge, omgitt av snø. Den bøyde hodet når snøfnuggene falt tett og tungt, mens iskalde vinder føk forbi.
 
-«Du knekker!» sa de. «Du visner og fryser! Du skulle ikke vært ute! Du lot deg lokke! Solstrålen lurte deg! Nå får du ha det så godt, du sommernarr!»
+«Du knekker!» sa de. «Du visner og fryser! Du skulle ikke ha vært ute! Du lot deg lokke! Solstrålen lurte deg! Nå får du ha det så godt, du sommernarr!»
 
 «Sommernarr!» gjentok blomsten en kald morgen.
 
@@ -49,7 +49,7 @@ Disse ordene gjorde blomsten så godt. De var som varme solstråler. I gleden me
 
 Dattera i huset var ei yndig, lita jente. Hun var konfirmert. Hun hadde en kjær, liten venn, som også var konfirmert. Han studerte for å få en jobb. «Han skal være min sommernarr!» sa hun. Så tok hun den fine blomsten og la den i et duftende papir. Der sto det vers om blomsten. Verset begynte med «Sommernarr» og sluttet med «Sommernarr». «Lille venn, vær vinternarr!» Det var slik hun narret ham med sommeren. Alt dette sto i verset. Hun brettet papiret som et brev, med blomsten inni. Det var mørkt rundt blomsten, slik det hadde vært da den lå i løken. Blomsten dro på reise. Den lå klemt og trykket i postsekken. Det var slett ikke behagelig. Men reisen tok også slutt.
 
-Reisen var over. Den kjære vennen åpnet brevet og leste det. Han var så glad at han kysset blomsten. Så la han den i en skuff med verset rundt seg. Der lå det flere vakre brev, men ingen av dem hadde en blomst. Denne var den første og eneste, slik solstrålene hadde kalt den. Det var hyggelig å tenke på.
+Reisen var over. Den kjære vennen åpnet brevet og leste det. Han var så glad at han kysset blomsten. Så la han blomsten i en skuff, med verset liggende rundt blomsten. Der lå det flere vakre brev, men ingen av dem hadde en blomst. Denne var den første og eneste, slik solstrålene hadde kalt den. Det var hyggelig å tenke på.
 
 Blomsten fikk også lov til å tenke lenge på dette. Den tenkte mens sommeren gikk og den lange vinteren gikk. Da det ble sommer igjen, kom den fram på nytt. Men da var den unge mannen slett ikke glad. Han tok hardt i papirene og kastet verset bort. Blomsten falt på gulvet. Den var blitt flat og vissen, men derfor skulle den likevel ikke kastes på gulvet. Likevel lå den bedre der enn i ilden, der versene og brevene brant opp. Slik gikk det. Det skjer så ofte. Blomsten hadde narret ham, men det var en spøk. Jenta hadde narret ham, men det var ingen spøk. Hun hadde valgt seg en annen venn midt på sommeren.
 

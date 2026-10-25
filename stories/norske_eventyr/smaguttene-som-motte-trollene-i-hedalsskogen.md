@@ -12,10 +12,10 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "65708"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "7da113dbe9e4e540da0673e638491abedf65cce4be20762e746f62952f29b765"
+content_sha256: "57b3d19c24e79154a61e5a448f49579f015ddcf96b4da0897f2e35f75b7f0bd9"
 ---
 
-På en gård i Vågå i Gudbrandsdalen bodde det en gang et fattig par. Det var i gamle dager. De hadde mange barn. To av sønnene var nesten voksne. De måtte stadig gå rundt på bygda og tigge. Derfor kjente de alle veiene og stiene godt. De visste også om snarveien til Hedalen.
+På en gård i Vågå i Gudbrandsdalen bodde det en gang et fattig par. Det var i gamle dager. De hadde mange barn. To av sønnene var halvvoksne. De måtte stadig gå rundt på bygda og tigge. Derfor kjente de alle veiene og stiene godt. De visste også om snarveien til Hedalen.
 
 En gang ville de dra dit. De hadde hørt at noen falkefangere hadde bygd en hytte ved Mæla. De ville gå innom på veien for å se fuglene. De ville også se hvordan falkefangerne fanget dem. Derfor tok de snarveien over Langmyrene.
 
@@ -35,7 +35,7 @@ Da kom trollene løpende. De var så store og digre at hodene deres var like hø
 
 «Ta beina fatt! Men løp ikke for langt før du ser hvordan det går», sa den eldste gutten. «Øyet sitter så høyt på dem at de ser meg dårlig. De ser meg særlig dårlig når jeg kommer bak dem.»
 
-Broren løp foran, og trollene fulgte etter ham. Imens kom den eldste gutten bak trollene. Han hogg det bakerste trollet i ankelen. Trollet skrek fryktelig. Det første trollet ble så redd at det spratt til og slapp øyet. Gutten var rask og tok det. Øyet var større enn to leirskår til sammen. Det var så klart at gutten kunne se som midt på dagen gjennom øyet, selv om natta var helt mørk.
+Broren løp foran, og trollene fulgte etter ham. Imens kom den eldste gutten bak trollene. Han hogg det bakerste trollet i ankelen. Trollet skrek fryktelig. Det første trollet ble så redd at det spratt til og slapp øyet. Gutten var rask og tok det. Øyet var større enn to potteskåler til sammen. Det var så klart at gutten kunne se som midt på dagen gjennom øyet, selv om natta var helt mørk.
 
 Da trollene merket at gutten hadde tatt øyet, begynte de å true ham. Gutten hadde også skadet en av dem. De truet med alt vondt om han ikke straks ga dem øyet tilbake.
 
