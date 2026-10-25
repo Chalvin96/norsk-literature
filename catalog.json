@@ -6088,6 +6088,32 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/29&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "tyrihans-som-fikk-kongsdatteren-til-a-le",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-huldre-1896-31-nb"
+      ],
+      "path": "stories/norske_eventyr/tyrihans-som-fikk-kongsdatteren-til-a-le.md",
+      "title": "Tyrihans som fikk kongsdatteren til å le",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1648,
+      "content_sha256": "e77243b5b3e14c6bd3269f94435111db8ecfce39c8fc7ac14680339aae902009",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=100507",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "100507",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/31&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }

@@ -3329,3 +3329,19 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Tyrihans som fikk kongsdatteren til å le
+
+- File: `stories/norske_eventyr/tyrihans-som-fikk-kongsdatteren-til-a-le.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=100507
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 100507
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
