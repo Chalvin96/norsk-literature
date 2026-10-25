@@ -6530,6 +6530,84 @@
       "history_url": "https://de.wikisource.org/w/index.php?title=Der_Fuchs_und_die_Katze_%281857%29&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "den-stjalne-skillingen",
+      "source_unit_ids": [
+        "wikikilden-grimm-der-gestohlene-heller-nb"
+      ],
+      "path": "stories/klassikere/den-stjalne-skillingen.md",
+      "title": "Den stjålne skillingen",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 299,
+      "content_sha256": "3f3f24aaad905d48fbc00de419104da9f036d0e93950fed0f12ea37be513cd3d",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=3433715",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "3433715",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Der_gestohlene_Heller_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "dodens-budbringere",
+      "source_unit_ids": [
+        "wikikilden-grimm-die-boten-des-todes-nb"
+      ],
+      "path": "stories/klassikere/dodens-budbringere.md",
+      "title": "Dødens budbringere",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 571,
+      "content_sha256": "33ee6e658e56a3bc03dba39b4c82e02546ba2b014fa2e081079bee6316b1e1eb",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=3487206",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "3487206",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Die_Boten_des_Todes_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "spikeren",
+      "source_unit_ids": [
+        "wikikilden-grimm-der-nagel-nb"
+      ],
+      "path": "stories/klassikere/spikeren.md",
+      "title": "Spikeren",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 232,
+      "content_sha256": "c7f0c0ba1820b14105445e8ccbe9c48fd950ee10677449db32b809b6e5aec2fa",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=3438968",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "3438968",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Der_Nagel_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }

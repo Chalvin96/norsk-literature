@@ -3601,3 +3601,51 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Den stjålne skillingen
+
+- File: `stories/klassikere/den-stjalne-skillingen.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=3433715
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 3433715
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Dødens budbringere
+
+- File: `stories/klassikere/dodens-budbringere.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=3487206
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 3487206
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Spikeren
+
+- File: `stories/klassikere/spikeren.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=3438968
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 3438968
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
