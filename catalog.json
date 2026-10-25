@@ -7142,6 +7142,54 @@
       "rights_status": "cleared",
       "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "bia-og-jupiter",
+      "source_unit_ids": [
+        "pg21-bee-and-jupiter-nb"
+      ],
+      "path": "stories/moderne_fabler/bia-og-jupiter.md",
+      "title": "Bia og Jupiter",
+      "language": "nb",
+      "group": "moderne_fabler",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 130,
+      "content_sha256": "eb6da88de4dd3dce0fd2fe807188239c5ffdcccd1d0e77c3dd53f1b3d46d6bdc",
+      "source_url": "https://www.gutenberg.org/ebooks/21",
+      "authors": "Aesop",
+      "license": "Public domain in USA; other jurisdictions require review",
+      "license_url": "https://www.gutenberg.org/policy/permission",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "reven-og-vedhoggeren",
+      "source_unit_ids": [
+        "pg21-fox-and-the-woodcutter-nb"
+      ],
+      "path": "stories/moderne_fabler/reven-og-vedhoggeren.md",
+      "title": "Reven og vedhoggeren",
+      "language": "nb",
+      "group": "moderne_fabler",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 165,
+      "content_sha256": "77a8b49e2d324a465547289ce778bdb46acc5bbe7b7c5139fddb5b45bc0a2549",
+      "source_url": "https://www.gutenberg.org/ebooks/21",
+      "authors": "Aesop",
+      "license": "Public domain in USA; other jurisdictions require review",
+      "license_url": "https://www.gutenberg.org/policy/permission",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
