@@ -2303,3 +2303,131 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Buskebruden
+
+- File: `stories/norske_eventyr/buskebruden.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=289504
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 289504
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Hyrdinnen og skorsteinsfeieren
+
+- File: `stories/klassikere/hyrdinnen-og-skorsteinsfeieren.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68281
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68281
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Klodrian
+
+- File: `stories/klassikere/klodrian.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68292
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68292
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Kragen
+
+- File: `stories/klassikere/kragen.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68257
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68257
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Per og Pål og Askeladden
+
+- File: `stories/norske_eventyr/per-og-pal-og-askeladden.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=292796
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 292796
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Piken med svovelstikkene
+
+- File: `stories/klassikere/piken-med-svovelstikkene.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68240
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68240
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Tro og utro
+
+- File: `stories/norske_eventyr/tro-og-utro.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=292767
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 292767
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Vel gjort og ille lønnet
+
+- File: `stories/norske_eventyr/vel-gjort-og-ille-lonnet.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=292768
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 292768
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
