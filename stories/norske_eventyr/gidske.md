@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "292687"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "8c923492c4183e0b2fab3fbafd72b2ec3284529b329a643c64ca612f830fcc31"
+content_sha256: "f64b3305fe2d394a2c7d5ae1d38405f0c2abe3e7c60a35c3e7c077f075aaf38a"
 ---
 
 Det var en gang en enkemann som hadde en husholderske. Hun het Gidske og ville gjerne gifte seg med ham. Stadig maste hun på ham om at de skulle gifte seg. Til slutt ble mannen lei av alt maset. Han visste ikke hvordan han skulle bli kvitt henne.
@@ -71,7 +71,7 @@ Den andre kvelden skulle tyvene stjele ei feit gås. Gidske skulle vise dem veie
 
 Mens de diskuterte dette, begynte ei av gjessene å skrike. Så skrek ei til. Snart skrek alle i munnen på hverandre. Bonden kom ut for å se hva som foregikk. Tyvene løp så fort de kunne, med Gidske etter seg. Hun løp så fort at bonden trodde det var svarte fanden. Hun hadde jo lange bein, og skjørtene hindret henne ikke.
 
-«Vent litt, karer!» skrek Gidske. «Dere kunne jo fått det dere ville ha. Enten det var gås eller gasse!»
+«Vent litt, karer!» skrek Gidske. «Dere kunne jo ha fått det dere ville ha. Enten det var gås eller gasse!»
 
 Men tyvene syntes ikke de hadde tid til å stanse. På gården begynte både store og små å lese bønner og be. De var sikre på at fanden hadde vært der.
 
@@ -99,7 +99,7 @@ Alle på gården ble svært redde da de hørte det. De mente det var best å sen
 
 «Å, jeg lover ham en stek fra en feit kalv», sa bonden. «Da kommer han nok.»
 
-Han gikk av sted til prestegården. Da han kom dit, hadde presten ennå ikke stått opp. Tjenestejenta ba bonden gå inn i stua. Så gikk hun opp og fortalte presten hvem som var kommet. Bonden sto nede og ville snakke med ham. Presten hørte at det var en slik bra mann. Da sto han opp og kom straks ned. Han hadde tøfler og nattlue på.
+Han gikk av sted til prestegården. Da han kom dit, hadde presten ennå ikke stått opp. Tjenestejenta ba bonden gå inn i stua. Så gikk hun opp og fortalte presten hvem som var kommet. Bonden sto nede og ville snakke med ham. Presten hørte at det var en så brav mann. Da sto han opp og kom straks ned. Han hadde tøfler og nattlue på.
 
 Bonden fortalte hva han ville. Fanden var løs oppe i nepeåkeren hans. Ville presten bli med og binde ham? Da skulle bonden sende ham en stek fra en feit kalv. Dette ville presten gjerne. Han ropte på gutten og ba ham sale hesten. Selv skulle han kle på seg imens.
 

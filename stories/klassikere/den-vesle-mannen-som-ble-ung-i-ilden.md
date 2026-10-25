@@ -12,7 +12,7 @@ authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "2572676"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "a406443c748b12527f740c4e9f7c7befaa0ee7dd0c67106681226229479552ae"
+content_sha256: "1f7ba415b1d4e52ea31529b25ae24c4edcd0c9b26c83398fa20748b302123cdb"
 ---
 
 Den gangen vår Herre ennå gikk på jorda, besøkte han en smed. Det var kveld, og den hellige Peter var med ham. Smeden ga dem gjerne husrom for natta.
@@ -49,4 +49,4 @@ Dermed brukte han blåsebelgene igjen, til alle fillene hennes brant. Den gamle 
 
 Han tok henne ut og kastet henne i karet med vann. Da skrek hun så høyt at smedkona hørte det ovenpå. Det gjorde også svigerdattera hennes. Begge løp ned trappa. Der så de den gamle kona ligge i karet. Hun hylte og jamret og hadde krympet helt sammen. Ansiktet var rynkete, fullt av folder og helt forvrengt.
 
-De to kvinnene var begge gravide. Synet skremte dem så fælt at de fødte samme natt. De fikk to guttebarn. Barna lignet ikke mennesker, men aper, og løp inn i skogen. Fra dem stammer alle apene.
+De to kvinnene var begge gravide. Synet skremte dem så fælt at de fødte samme natt. De fødte to unger. De lignet ikke mennesker, men aper, og løp inn i skogen. Fra dem stammer alle apene.

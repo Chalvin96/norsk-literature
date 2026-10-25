@@ -12,7 +12,7 @@ authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "3433627"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "c271906bdbb5b9c4030d7a50f1ab03b8d12294d8726dbe2958ab73a781c3032e"
+content_sha256: "6748a97470e4475e47c0e67a5d8a78431a67e3074810afbf2b6109373c733e84"
 ---
 
 En gang møtte katten herr Rev i en skog. «Han er klok og har mye erfaring», tenkte hun. «Folk setter stor pris på ham.» Derfor hilste hun vennlig på ham.
@@ -33,8 +33,8 @@ Reven var full av hovmod. Han så på katten fra hodet til føttene. Lenge visst
 
 I det samme kom en jeger med fire hunder. Katten hoppet raskt opp i et tre. Hun satte seg i toppen, helt skjult av greiner og løv.
 
-«Åpne sekken, herr Rev! Åpne sekken!» ropte katten til ham.
+«Knyt opp sekken, herr Rev! Knyt opp sekken!» ropte katten til ham.
 
 Men hundene hadde allerede grepet reven og holdt ham fast.
 
-«Å, herr Rev», ropte katten. «Nå sitter du fast med alle de hundre kunstene dine. Hadde du kunnet klatre hit opp som meg, ville du berget livet.»
+«Å, herr Rev», ropte katten. «Nå sitter du fast med alle de hundre kunstene dine. Hadde du kunnet klatre hit opp som meg, ville du ha berget livet.»

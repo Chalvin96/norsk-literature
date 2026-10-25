@@ -12,10 +12,10 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68228"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "a5c1f9b70df58d77e7b86fdf2ccdee1180a77a4b776499fe2aa7ec6bc5e72906"
+content_sha256: "80eb85f3a1c556f28000914c0e6ae927bf0d93b5e6dd1656ea65b1b8a899c2a7"
 ---
 
-Etter tordenvær går man ofte forbi en åker med bokhvete. Da ser man at plantene har blitt svarte og svidde. Det ser ut som en flamme har strøket over dem. Bonden sier da: «Det har lynet gjort!» Men hvorfor har lynet gjort det? Jeg skal fortelle hva gråspurven har sagt til meg. Gråspurven hørte det fra et gammelt piletre. Treet sto ved en bokhveteåker og står der ennå. Det er et stort og staselig tre, men gammelt og rynket. Midt i stammen har det en sprekk. Der vokser det gress og lange greiner med bjørnebær. Treet lener seg framover, og greinene henger helt ned mot jorda. De ligner langt, grønt hår.
+Etter tordenvær går man ofte forbi en åker med bokhvete. Da ser man at plantene har blitt svarte og svidde. Det ser ut som om en flamme hadde strøket over dem. Bonden sier da: «Det har lynet gjort!» Men hvorfor har lynet gjort det? Jeg skal fortelle hva gråspurven har sagt til meg. Gråspurven hørte det fra et gammelt piletre. Treet sto ved en bokhveteåker og står der ennå. Det er et stort og staselig tre, men gammelt og skrøpelig. Midt i stammen har det en sprekk. Der vokser det gress og lange bjørnebærranker. Treet lener seg framover, og greinene henger helt ned mot jorda. De ligner langt, grønt hår.
 
 På alle jordene rundt vokste det korn. Der var både rug, bygg og havre. Ja, den vakre havren! Når den er moden, ligner den mange små, gule kanarifugler på ei grein. Kornet vokste så godt. Jo tyngre det ble, desto dypere bøyde det seg. Det bøyde seg ydmykt og fromt.
 

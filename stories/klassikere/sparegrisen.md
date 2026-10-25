@@ -12,12 +12,12 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68310"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "24599edda5d7d438b14e48c84a2791106b97483a39518a732733b9818e8cf68a"
+content_sha256: "61669fc52d222df703a26ad34e562e327a8145fc81057c76fb0967ba50eb787c"
 ---
 
 Det var så mange leker på barnerommet. Øverst på skapet sto sparebøssa, en gris av leire. Den hadde en naturlig sprekk i ryggen. Noen hadde gjort sprekka større med en kniv. Nå kunne også sølvdalere komme inn. To hadde kommet inn, sammen med mange andre skillinger. Sparegrisen var så full at han ikke kunne rasle lenger. Høyere kan en sparegris ikke nå.
 
-Nå sto han øverst på hylla. Han så ned på alt i rommet. Han visste godt hva han hadde i magen. Med det kunne han kjøpe alt sammen. Da vet man at man står trygt.
+Nå sto han øverst på hylla. Han så ned på alt i rommet. Han visste godt hva han hadde i magen. Med det kunne han kjøpe alt sammen. Det gir en god bevissthet om egen verdi.
 
 Det tenkte de andre også på, uten å si det. De hadde jo andre ting å snakke om. En skuff i kommoden sto på gløtt. Der viste en stor dukke seg. Hun var litt gammel. Noen hadde reparert halsen hennes. Hun kikket ut og sa: «Skal vi leke mennesker? Det er jo alltid noe!»
 

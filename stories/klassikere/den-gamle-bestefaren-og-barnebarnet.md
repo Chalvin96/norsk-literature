@@ -12,7 +12,7 @@ authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "2911792"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "2df00f10caafd2684514f5dcb46160f7c7e111453d75abbab82058c9f6b77e19"
+content_sha256: "844154d2f22bc9c36256807317bfa726b7f8535602027162896f4271c702df27"
 ---
 
 Det var en gang en svært gammel mann. Synet hans var uklart, ørene døve, og knærne skalv. Ved bordet kunne han nesten ikke holde skjea. Han sølte suppe på duken, og noe rant ut av munnen.
@@ -21,7 +21,7 @@ Sønnen og kona hans syntes dette var ekkelt. Til slutt måtte bestefaren sitte 
 
 En gang klarte ikke de skjelvende hendene å holde skåla. Den falt på gulvet og knuste. Den unge kona skjelte ham ut. Men han sa ingenting og bare sukket. Så kjøpte hun ei lita treskål til ham for noen småmynter. Nå måtte han spise av den.
 
-Mens de satt der, samlet det lille barnebarnet små bordbiter på gulvet. Gutten var fire år gammel.
+Mens de satt der, samlet det lille barnebarnet små trebiter på gulvet. Gutten var fire år gammel.
 
 «Hva lager du?» spurte faren.
 

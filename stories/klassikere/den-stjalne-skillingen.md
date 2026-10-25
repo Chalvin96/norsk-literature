@@ -12,7 +12,7 @@ authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "3433715"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "3f3f24aaad905d48fbc00de419104da9f036d0e93950fed0f12ea37be513cd3d"
+content_sha256: "31fc055840a4dcb816b2d910ecd39c80c75452c65aea5640fb6d604448517fbe"
 ---
 
 En far satt en gang ved bordet med familien sin. Kona og barna hans spiste middag sammen med ham. En god venn var på besøk og spiste med dem.
@@ -29,7 +29,7 @@ Da reiste gjesten seg og gikk til døra til rommet. Han åpnet den litt og så i
 
 Nå fortalte gjesten hva han hadde sett. Han beskrev barnet nøye. Da kjente mora det igjen og sa: «Å, det er mitt kjære barn! Det døde for fire uker siden.»
 
-De brøt opp gulvbordene og fant to småmynter, to heller. Barnet hadde en gang fått dem av mora. Det skulle gi dem til en fattig mann. Men barnet hadde tenkt: «For dem kan du kjøpe deg en kavring.»
+De brøt opp gulvbordene og fant to småmynter, to heller. Barnet hadde en gang fått dem av mora. Det skulle gi dem til en fattig mann. Men barnet hadde tenkt: «For dem kan du kjøpe deg en tvebakk.»
 
 Derfor hadde barnet beholdt myntene og gjemt dem mellom gulvbordene. Siden hadde det ikke fått ro i grava. Hver dag ved middagstid kom det for å lete etter myntene.
 

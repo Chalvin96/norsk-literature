@@ -12,14 +12,14 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68324"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "3a8ad94a61cf59dec059b192a35d686e6a09e7bee2a03abc050c3e01b5bb0410"
+content_sha256: "5730194ebe14619e641c39a5ce39552a4c422836a80bba9f67a31f51edb0a376"
 ---
 
 Det var en gang en skilling. Den kom blank fra myntverket og hoppet og klang. «Hurra! Nå skal jeg ut i den vide verden!» Og det kom den.
 
 Barnet holdt den fast med varme hender. Den gjerrige holdt den med kalde, klamme hender. Den eldre snudde og vendte den mange ganger. De unge lot den straks gå videre. Skillingen var av sølv, med svært lite kobber i seg. Den hadde allerede vært et helt år ute i verden. Det vil si i landet hvor myntverket hadde laget den. Så kom den på reise til utlandet.
 
-Den reisende mannen hadde en pengepung med seg. Skillingen var den siste mynten fra hjemlandet i pungen. Mannen visste ikke engang at han hadde den. Så fikk han den mellom fingrene.
+Den reisende mannen hadde en pengepung med seg. Skillingen var den siste mynten fra hjemlandet i pungen. Mannen visste ikke at han hadde den før han fikk den mellom fingrene.
 
 «Her har jeg jo ennå en skilling hjemmefra!» sa han. «Den kan få bli med på reisen!» Skillingen klang og hoppet av glede. Mannen la den tilbake i pungen. Der lå den blant fremmede kamerater som kom og gikk. Den ene gjorde plass for den andre. Men skillingen hjemmefra ble alltid igjen. Det var en ære.
 
@@ -39,7 +39,7 @@ Ja, nå begynner skillingens historie, slik den senere fortalte den.
 
 ‘Den må jeg betale med i mørket!’ sa mannen som hadde meg. Så betalte han med meg i mørket. I dagslys skjelte folk meg ut igjen. ‘Falsk! Duger ikke! Den må vi prøve å bli kvitt!’»
 
-Skillingen skalv mellom fingrene hver gang noen prøvde å lure den bort. I smug lot de som den var landets mynt.
+Skillingen skalv mellom fingrene hver gang noen prøvde å lure den bort. I smug lot de som om den var landets mynt.
 
 «Stakkars meg, en elendig skilling! Hva hjelper sølvet mitt, verdien min og preget mitt? Alt sammen betyr jo ingenting! For verden er man det verden tror om en! Så fælt det må være å ha dårlig samvittighet. Så fælt å snike seg fram på ondskapens vei! Jeg er jo helt uskyldig. Likevel har jeg det slik bare fordi jeg ser skyldig ut!
 
