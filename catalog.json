@@ -4684,6 +4684,32 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/7&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "per-gynt",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-huldre-1896-16-nb"
+      ],
+      "path": "stories/norske_eventyr/per-gynt.md",
+      "title": "Per Gynt",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1563,
+      "content_sha256": "1857bde01d260df7b007dd11b28a1c5e621b7d7af3a27460ab00d6f1c3a85d6d",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=61996",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "61996",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/16&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
