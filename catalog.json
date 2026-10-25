@@ -3726,6 +3726,84 @@
       "rights_status": "cleared",
       "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "gutten-som-gikk-til-nordavinden-og-krevde-melet-igjen",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-norske-folkeeventyr-07-nb"
+      ],
+      "path": "stories/norske_eventyr/gutten-som-gikk-til-nordavinden-og-krevde-melet-igjen.md",
+      "title": "Gutten som gikk til Nordavinden og krevde melet igjen",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 880,
+      "content_sha256": "095e84c7de6e57ebd58da888b54ea2c5f14173c17f4b0b9fb52c9392b6b99b5a",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=261229",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "261229",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folkeeventyr_%281852%29/7&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "haren-og-pinnsvinet",
+      "source_unit_ids": [
+        "wikikilden-grimm-der-hase-und-der-igel-nb"
+      ],
+      "path": "stories/klassikere/haren-og-pinnsvinet.md",
+      "title": "Haren og pinnsvinet",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 982,
+      "content_sha256": "643720a566976d70797f27ee2ea8b26df57c957513618a461434c9284281a7b7",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=3537411",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "3537411",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Der_Hase_und_der_Igel_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "vi-barn-avbrutt-syttende-mai",
+      "source_unit_ids": [
+        "wikikilden-zwilgmeyer-vi-born-03-nb"
+      ],
+      "path": "stories/klassikere/vi-barn-avbrutt-syttende-mai.md",
+      "title": "Vi barn: avbrutt syttende mai",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1525,
+      "content_sha256": "03e1a078b9904fa0cbb2f4842f73f22c6a6de51b5eeb9282fb9242d97f6d2b37",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=275735",
+      "authors": "Dikken Zwilgmeyer (1853–1913)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "275735",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Vi_b%C3%B8rn/03&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }

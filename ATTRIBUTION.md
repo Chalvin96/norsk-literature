@@ -1907,3 +1907,51 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Gutten som gikk til Nordavinden og krevde melet igjen
+
+- File: `stories/norske_eventyr/gutten-som-gikk-til-nordavinden-og-krevde-melet-igjen.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=261229
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 261229
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Haren og pinnsvinet
+
+- File: `stories/klassikere/haren-og-pinnsvinet.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=3537411
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 3537411
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Vi barn: avbrutt syttende mai
+
+- File: `stories/klassikere/vi-barn-avbrutt-syttende-mai.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=275735
+
+- Author(s): Dikken Zwilgmeyer (1853–1913)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 275735
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
