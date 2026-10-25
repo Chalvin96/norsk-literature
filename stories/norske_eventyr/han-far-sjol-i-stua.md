@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "20629"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "64906cee12c2954f3fa2cba2c3b49af17756bf3711b8cdd7f958c30eb48547f7"
+content_sha256: "2babbb65da0ee272d985ac85ce5eb4691f355c49fcabb90044c1329994d6032a"
 ---
 
 Det var en gang en mann som bodde i en skog. Han hadde mange sauer og geiter. Men han fikk aldri ha dem i fred for ulven. «Jeg skal nok lure den gråtassen», sa han til slutt. Så begynte han å grave en ulvestue, ei dyp fangstgrop. Da gropa var dyp nok, satte han en stolpe midt i den. På stolpen festet han ei plate. På plata satte han en liten hund. Over gropa la han kvister, granbar og annet rusk. Oppå dette strødde han snø. Ulven skulle ikke se gropa under.
@@ -27,6 +27,6 @@ Litt senere på morgenen kom ei gammel kjerring gående. Hun vandret fra gård t
 
 Der satt alle fire og stirret på hverandre, i hver sin krok. Reven satt i det ene hjørnet, ulven i det andre. Bjørnen satt i det tredje og kjerringa i det fjerde.
 
-Da det ble helt lyst, begynte Mikkel å riste på seg. Så vimset han omkring. Han tenkte vel at han skulle prøve å komme ut. Men kjerringa sa: «Kan du ikke sitte rolig, din sviverove? Slutt å svinse og svanse sånn! Se på far sjøl i stua. Han sitter så støtt som en prest». Nå ville hun prøve å bli godvenner med bjørnen.
+Da det ble helt lyst, begynte Mikkel å riste på seg. Så vimset han omkring. Han tenkte vel at han skulle prøve å komme ut. Men kjerringa sa: «Kan du ikke sitte rolig, din sviverove? Slutt å svinse og svanse sånn! Se på han far sjøl i stua. Han sitter så stø som en prest.» Nå ville hun prøve å bli godvenner med bjørnen.
 
-Så kom mannen som eide ulvestua. Først dro han opp kjerringa. Så slo han i hjel alle dyrene. Han sparte verken far sjøl i stua, ulven eller Mikkel Sviverove. Han syntes at han hadde fått god fangst den natta.
+Så kom mannen som eide ulvestua. Først dro han opp kjerringa. Så slo han i hjel alle dyrene. Han sparte verken han far sjøl i stua, ulven eller Mikkel Sviverove. Han syntes at han hadde fått god fangst den natta.

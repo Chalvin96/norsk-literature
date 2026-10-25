@@ -12,7 +12,7 @@ authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "3525670"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "aa632b5289441fad7f2f75df7af309391ec6021cfcff76a701de3521ab53145c"
+content_sha256: "f4e9fb5095a0cab748811bae789f7494bc5b35393a6852f2f83b255a773fda99"
 ---
 
 En dag hentet en bonde stokken sin fra kroken. Den var av agnbøk. Han sa til kona si: «Trine, nå skal jeg reise bort. Jeg kommer ikke tilbake før om tre dager. Kanskje dyrehandleren kommer og vil kjøpe de tre kyrne våre. Da kan du selge dem for to hundre daler. Ikke mindre, hører du?»
@@ -63,7 +63,7 @@ Han gikk ut på landeveien og satte seg på en stein. Der ventet han på hva som
 
 «Bare bli sittende her», sa hun. «Jeg kjører hjem og henter pungen. Jeg er snart tilbake. Jeg sitter ikke på halmbunten, men står på vogna. Da blir det lettere for dyrene».
 
-Hun drev oksene framover. Bonden tenkte: «Hun har visst lett for å være dum. Kommer hun virkelig med pengene, har kona mi flaks. Da får hun ingen juling».
+Hun drev oksene framover. Bonden tenkte: «Hun har visst anlegg for dumhet. Kommer hun virkelig med pengene, har kona mi flaks. Da får hun ingen juling».
 
 Det gikk ikke lang tid før kona kom løpende tilbake. Hun hadde med pengene og stakk dem selv i lomma hans. Før hun gikk, takket hun ham tusen ganger for hjelpen.
 

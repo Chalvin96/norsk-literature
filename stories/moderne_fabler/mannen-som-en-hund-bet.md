@@ -1,6 +1,6 @@
 ---
 slug: "mannen-som-en-hund-bet"
-title: "Mannen som en hund bet"
+title: "Mannen som ble bitt av en hund"
 cefr_level: "A2"
 group: "moderne_fabler"
 is_ready: true
