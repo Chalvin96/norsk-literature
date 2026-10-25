@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "20627"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "ef06c173a5b61888b17adfa078806539cd221e93112cedc492e946f9601b096c"
+content_sha256: "03733ded2f0fa595c6a72c4942f2a72649dd9a463803a17dd14958e3319bcec2"
 ---
 
 Det var en gang en rik mann som eide en stor herregård. Han hadde sølv i kistebunnen og penger som ga renter. Men noe manglet: Han var enkemann. En dag arbeidet dattera fra nabogården hos ham. Herremannen likte henne svært godt. Hun kom fra en fattig familie, så han trodde hun straks ville si ja om han bare nevnte ekteskap.
@@ -45,7 +45,7 @@ Da gjestene var kommet, ropte herremannen på en av gårdsguttene. Han ba gutten
 
 «Ja, ja, spring ned i enga og ta henne med deg. Hun er der», sa nabomannen.
 
-Gutten løp av gårde. Datteren gikk i enga og raket høy. «Jeg skal hente det faren din har lovet husbonden min», sa gutten.
+Gutten løp av gårde. Dattera gikk i enga og raket høy. «Jeg skal hente det faren din har lovet husbonden min», sa gutten.
 
 «Aha, du lurer ikke meg!» tenkte hun. «Er det det du skal hente? Det er vel den lille blakke hoppa vår. Gå og ta henne. Hun står bundet på den andre siden av erteåkeren», sa jenta.
 

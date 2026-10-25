@@ -12,7 +12,7 @@ authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "3443578"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "d0345debcca5c98251831a81f5ad7a9b403e80655afbc8bac9fabe213b1ff76e"
+content_sha256: "d2a9044f0e0a12e10947d5dda0e08372f78235fab79f564e164993685409f6c3"
 ---
 
 En vakker dag ville Gud gå en tur i den himmelske hagen. Han tok med seg alle apostlene og helgenene. Derfor var det ingen andre igjen i himmelen enn Sankt Peter. Herren hadde bedt Peter om ikke å slippe inn noen mens han var borte. Peter sto derfor ved porten og holdt vakt.
@@ -21,7 +21,7 @@ Det gikk ikke lang tid før noen banket på. Peter spurte hvem det var, og hva d
 
 «Vær nå barmhjertig», ropte skredderen. «Små stoffbiter som faller av bordet av seg selv, er ikke stjålet. De er ikke verdt å snakke om. Se, jeg halter og har fått blemmer på føttene på veien hit. Jeg kan ikke gå tilbake. Slipp meg inn, så skal jeg gjøre alt det skitne arbeidet. Jeg skal bære barna og vaske bleiene. Jeg skal gjøre rent og tørke av benkene de har lekt på. Jeg skal også lappe de ødelagte klærne deres».
 
-Sankt Peter syntes synd på ham. Han åpnet porten litt. Den magre skredderen smøg seg inn. Skredderen måtte sitte i en krok bak døra. Han måtte sitte helt stille. Da Gud kom tilbake, så han ikke skredderen og ble ikke sint.
+Sankt Peter syntes synd på ham. Han åpnet porten litt. Den magre skredderen smatt inn. Skredderen måtte sitte i en krok bak døra. Han måtte sitte helt stille, så Herren ikke skulle legge merke til ham og bli sint når han kom tilbake.
 
 Skredderen fulgte beskjedene. Men da Sankt Peter en gang gikk ut gjennom døra, reiste skredderen seg. Nysgjerrig gikk han rundt i alle krokene i himmelen og så seg om. Til slutt kom han til et sted med mange vakre og kostbare stoler. Midt blant dem sto en lenestol av rent gull, dekket av skinnende edelsteiner. Den var mye høyere enn de andre stolene. Foran den sto en fotskammel av gull.
 

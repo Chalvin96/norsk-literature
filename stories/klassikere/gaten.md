@@ -12,28 +12,28 @@ authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "2572003"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "dda11fbf6658dcd7e5b0e3ff552c424f6b5a1d27d3782538e67700cca0487b7e"
+content_sha256: "5372c74e3d376a0c4f8fca01ad8cfeefec2c00e7d75e00fc910858c7d905c886"
 ---
 
-Det var en gang en kongesønn som fikk lyst til å reise rundt i verden. Han tok bare med seg en trofast tjener. En dag kom de inn i en stor skog. Da kvelden kom, fant de ikke noe vertshus. Han visste heller ikke hvor de skulle sove. Da så han ei jente som gikk mot ei lita stue. Han kom nærmere. Han så at jenta var ung og vakker. Han spurte henne: «Kjære barn, kan jeg og tjeneren min få overnatte i stua?»
+Det var en gang en kongssønn som fikk lyst til å reise rundt i verden. Han tok bare med seg en trofast tjener. En dag kom de inn i en stor skog. Da kvelden kom, fant de ikke noe vertshus. Han visste heller ikke hvor de skulle sove. Da så han ei jente som gikk mot ei lita stue. Han kom nærmere. Han så at jenta var ung og vakker. Han spurte henne: «Kjære barn, kan jeg og tjeneren min få overnatte i stua?»
 
-«Å ja», sa jenta med trist stemme. «Det kan dere godt, men jeg råder dere til ikke å gå inn». «Hvorfor skal jeg ikke det?» spurte kongesønnen. Jenta sukket og sa: «Stemora mi driver med svart magi. Hun vil ikke fremmede noe godt». Da skjønte han at han var kommet til huset til ei heks. Det var blitt mørkt, og han kunne ikke gå videre. Han var heller ikke redd, så han gikk inn. Den gamle heksa satt i en lenestol ved peisen. Hun så på gjestene med røde øyne.
+«Å ja», sa jenta med trist stemme. «Det kan dere godt, men jeg råder dere til ikke å gå inn». «Hvorfor skal jeg ikke det?» spurte kongssønnen. Jenta sukket og sa: «Stemora mi driver med svart magi. Hun ønsker ikke fremmede noe godt». Da skjønte han at han var kommet til huset til ei heks. Det var blitt mørkt, og han kunne ikke gå videre. Han var heller ikke redd, så han gikk inn. Den gamle heksa satt i en lenestol ved peisen. Hun så på gjestene med røde øyne.
 
-«God kveld», skarret hun og prøvde å virke svært vennlig. «Sett dere ned og hvil dere». Hun blåste på glørne. Over dem kokte hun noe i en liten gryte. Dattera hennes advarte de to gjestene. De måtte passe seg og ikke spise eller drikke noe. Den gamle brygget farlige drikker. De sov rolig til tidlig om morgenen.
+«God kveld», skarret hun og prøvde å virke svært vennlig. «Sett dere ned og hvil dere». Hun blåste på glørne. Over dem kokte hun noe i en liten gryte. Jenta advarte de to gjestene. De måtte passe seg og ikke spise eller drikke noe. Den gamle brygget farlige drikker. De sov rolig til tidlig om morgenen.
 
-Da de gjorde seg klare til å dra, satt kongesønnen allerede på hesten. Den gamle sa: «Vent litt. Jeg vil gi dere en avskjedsdrikk først». Mens hun hentet den, red kongesønnen av sted. Tjeneren måtte stramme salen og var derfor alene da heksa kom med drikken. «Ta denne med til herren din», sa hun. I samme øyeblikk sprakk glasset. Giften sprutet på hesten. Den var så sterk at dyret falt dødt om med en gang.
+Da de gjorde seg klare til å dra, satt kongssønnen allerede på hesten. Den gamle sa: «Vent litt. Jeg vil gi dere en avskjedsdrikk først». Mens hun hentet den, red kongssønnen av sted. Tjeneren måtte stramme salen og var derfor alene da heksa kom med drikken. «Ta denne med til herren din», sa hun. I samme øyeblikk sprakk glasset. Giften sprutet på hesten. Den var så sterk at dyret falt dødt om med en gang.
 
 Tjeneren løp etter herren sin og fortalte hva som hadde skjedd. Men han ville ikke la salen bli igjen. Derfor løp han tilbake for å hente den. Da han kom tilbake til hesten, satt en ravn på den og spiste. «Hvem vet om vi finner noe bedre å spise i dag», sa tjeneren. Han drepte ravnen og tok den med seg.
 
 De reiste videre gjennom skogen hele dagen, men kom ikke ut. Da natta falt på, fant de et vertshus og gikk inn. Tjeneren ga verten ravnen og ba ham lage den til kveldsmat. Men vertshuset var et skjulested for mordere. I mørket kom tolv mordere. De ville drepe og plyndre gjestene. Før de satte i gang, satte de seg til bords. Verten og heksa satte seg også sammen med dem. Alle spiste av en bolle med suppe og hakket ravnekjøtt.
 
-De hadde knapt svelget et par biter før alle falt døde om. Giften fra hestekjøttet hadde gått over i ravnen. Nå var vertsdattera den eneste som var igjen i huset. Hun var ærlig og hadde ikke tatt del i de onde handlingene. Hun åpnet alle dørene for gjesten og viste ham skattene hun hadde samlet. Men kongesønnen sa at hun kunne beholde alt. Han ville ikke ha noe av det, og red videre med tjeneren sin.
+De hadde knapt svelget et par biter før alle falt døde om. Giften fra hestekjøttet hadde gått over i ravnen. Nå var vertsdattera den eneste som var igjen i huset. Hun var ærlig og hadde ikke tatt del i de onde handlingene. Hun åpnet alle dørene for gjesten og viste ham de store skattene som lå samlet der. Men kongssønnen sa at hun kunne beholde alt. Han ville ikke ha noe av det, og red videre med tjeneren sin.
 
 Etter at de hadde reist lenge, kom de til en by. Der bodde ei vakker, men hovmodig kongsdatter. Hun hadde sagt fra om reglene. En mann kunne gi henne en gåte. Hvis hun ikke klarte å løse den, skulle han bli mannen hennes. Men hvis hun løste gåten, måtte han la henne hogge hodet av ham. Hun hadde tre dager på å tenke seg om. Hun var så klok at hun alltid løste gåtene før fristen.
 
-Ni menn hadde allerede mistet livet på denne måten da kongesønnen kom dit. Skjønnheten hennes blendet ham, og han ville sette livet på spill. Han gikk fram for henne og ga henne gåten sin. «Hva er det?» sa han. «Én slo ingen, men slo likevel tolv».
+Ni menn hadde allerede mistet livet på denne måten da kongssønnen kom dit. Skjønnheten hennes blendet ham, og han ville sette livet på spill. Han gikk fram for henne og ga henne gåten sin. «Hva er det?» sa han. «Én slo ingen, men slo likevel tolv».
 
-Hun visste ikke hva det var. Hun tenkte og tenkte, men fant ikke svaret. Hun slo opp i gåtebøkene sine, men fant det ikke der heller. Til slutt var klokskapen hennes brukt opp. Hun visste ikke hva hun skulle gjøre. Derfor ba hun tjenestejenta si snike seg inn på rommet til kongesønnen. Jenta skulle lytte til drømmene hans. Kanskje snakket han i søvne og røpet gåten.
+Hun visste ikke hva det var. Hun tenkte og tenkte, men fant ikke svaret. Hun slo opp i gåtebøkene sine, men fant det ikke der heller. Til slutt var klokskapen hennes brukt opp. Hun visste ikke hva hun skulle gjøre. Derfor ba hun tjenestejenta si snike seg inn på rommet til kongssønnen. Jenta skulle lytte til drømmene hans. Kanskje snakket han i søvne og røpet gåten.
 
 Men den kloke tjeneren hadde lagt seg i senga i stedet for herren sin. Da tjenestejenta kom inn, rev han av henne kappa hun hadde skjult seg under. Så jaget han henne ut med ris. Den andre natta sendte kongsdattera kammerpiken sin. Hun skulle se om hun hadde større hell med å lytte. Men tjeneren tok også kappa hennes og jaget henne ut med ris.
 

@@ -12,10 +12,10 @@ authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "3489065"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "b3fa0f1bc5e2f5406d8de8d44dc79e1d3ebd2f560175905056809b1aa96b75f5"
+content_sha256: "38b2f6253ccfe4b3a97c2fc7211c03735d91f89f57945ab8e6980d0c635a3044"
 ---
 
-I Sveits bodde det en gang en gammel greve. Han hadde bare én sønn, men gutten var dum og klarte ikke å lære noe. Da sa faren: «Hør her, sønnen min. Jeg får ikke noe inn i hodet ditt, samme hva jeg prøver. Du må dra herfra. Jeg vil sende deg til en berømt lærer som kan prøve å undervise deg».
+I Sveits bodde det en gang en gammel greve. Han hadde bare én sønn, men gutten var dum og klarte ikke å lære noe. Da sa faren: «Hør her, sønnen min. Jeg får ikke noe inn i hodet ditt, uansett hva jeg prøver. Du må dra herfra. Jeg vil sende deg til en berømt lærer som kan prøve å undervise deg».
 
 Faren sendte gutten til en fremmed by. Han bodde hos læreren i et helt år. Da han kom hjem, spurte faren: «Hva har du lært, sønnen min?» «Far, jeg har lært hva hundene sier», svarte han. «Gud hjelpe meg! Er det alt du har lært?» ropte faren. «Jeg vil sende deg til en annen by og en annen lærer».
 
@@ -23,7 +23,7 @@ De førte gutten dit, og han bodde hos læreren i ett år. Da han kom tilbake, s
 
 Sønnen bodde også et helt år hos den tredje læreren. Da han kom hjem igjen, spurte faren: «Sønnen min, hva har du lært?» «Kjære far, i år har jeg lært hva froskene sier», svarte han. Da ble faren rasende. Han spratt opp og ropte på folkene sine. «Denne mannen er ikke sønnen min lenger. Jeg støter ham fra meg. Før ham ut i skogen og ta livet av ham!»
 
-De førte ham ut, men de fikk ikke til å drepe ham. De syntes for synd på ham og lot ham gå. De skar ut øynene og tunga på et rådyr. Slik kunne de ta med bevis til den gamle greven.
+De førte ham ut, men de klarte ikke å drepe ham. De syntes så synd på ham og lot ham gå. De skar ut øynene og tunga på et rådyr. Slik kunne de ta med bevis til den gamle greven.
 
 Den unge mannen vandret videre. Etter en stund kom han til en borg og ba om nattely. «Ja», sa borgherren. «Hvis du vil overnatte i det gamle tårnet der nede, kan du gjøre det. Men jeg advarer deg: Det er livsfarlig. Tårnet er fullt av ville hunder som bjeffer og uler hele tiden. Til bestemte tider må de få et menneske. Da spiser de det med en gang».
 

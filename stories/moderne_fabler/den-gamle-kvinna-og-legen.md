@@ -11,7 +11,7 @@ license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "7145dcb59382c67a3fc5f4c6acad83760ad45a83fcbff1cca957ba0929656397"
+content_sha256: "7c5aa71cb63d7d4ba444831c0b36e8ed4b584a496b62752f9a3d2deae33b2587"
 ---
 
 En gammel kvinne mistet synet. Hun hentet en lege for å få det tilbake. Hun inngikk en avtale med legen mens vitner så på.
@@ -20,7 +20,7 @@ Legen skulle få en sum penger hvis han kurerte blindheten hennes. Men hvis hun 
 
 De ble enige om dette. Legen smurte salve på øynene hennes gang etter gang. Hver gang han kom, tok han med seg noe av eiendelene hennes. Slik stjal han litt etter litt alt hun eide.
 
-Etter at legen tok alt hun eide, ga han henne synet tilbake og krevde betalingen.
+Etter at legen hadde tatt alt hun eide, ga han henne synet tilbake og krevde betalingen.
 
 Kvinna fikk synet tilbake. Hun så at alle tingene hennes var borte. Derfor ville hun ikke betale legen.
 
