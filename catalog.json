@@ -4034,6 +4034,32 @@
       "rights_status": "cleared",
       "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "bjornen-og-reven-eventyr",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-norske-folkeeventyr-17-nb"
+      ],
+      "path": "stories/norske_eventyr/bjornen-og-reven-eventyr.md",
+      "title": "Bjørnen og reven",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 556,
+      "content_sha256": "e2898bdd4995dde851c673ab5cad480a3076ae4801c8e4e22c05f36d6fd7da37",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=261642",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "261642",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folkeeventyr_%281852%29/17&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
