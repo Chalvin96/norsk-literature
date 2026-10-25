@@ -3242,6 +3242,58 @@
       "history_url": "https://de.wikisource.org/w/index.php?title=Frau_Holle_%281857%29&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "tommeliden",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-norske-folkeeventyr-44-nb"
+      ],
+      "path": "stories/norske_eventyr/tommeliden.md",
+      "title": "Tommeliden",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 499,
+      "content_sha256": "4904d186442acc747122505a3709545988f38cd2b266c4049682e55a1eb48b78",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=292811",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "292811",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folkeeventyr_%281852%29/44&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "vesle-ase-gasepike",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-norske-folkeeventyr-29-nb"
+      ],
+      "path": "stories/norske_eventyr/vesle-ase-gasepike.md",
+      "title": "Vesle Åse gåsepike",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 926,
+      "content_sha256": "e3bb6581c8492515be7e734abd80cde680fc1ea1e9a5dd544b78e3923c9f0974",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=292683",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "292683",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folkeeventyr_%281852%29/29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
