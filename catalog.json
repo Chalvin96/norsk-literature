@@ -6400,6 +6400,32 @@
       "history_url": "https://da.wikisource.org/w/index.php?title=Kj%C3%A6restefolkene&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "sparegrisen",
+      "source_unit_ids": [
+        "wikikilden-andersen-pengegrisen-nb"
+      ],
+      "path": "stories/klassikere/sparegrisen.md",
+      "title": "Sparegrisen",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 740,
+      "content_sha256": "24599edda5d7d438b14e48c84a2791106b97483a39518a732733b9818e8cf68a",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68310",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68310",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Pengegrisen&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }

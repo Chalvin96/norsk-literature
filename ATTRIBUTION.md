@@ -3521,3 +3521,19 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Sparegrisen
+
+- File: `stories/klassikere/sparegrisen.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68310
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68310
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
