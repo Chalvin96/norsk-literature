@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "183617"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "92888b03ce554982774a3ec1df10e5a3023b4a64c303fb0b07545722ea29585e"
+content_sha256: "ca0216a9f8207234db871c559a1e6e506a28a2173e142235633e4be35ab9bf30"
 ---
 
 Det var en gang tre bukker som skulle gå til seters og bli fete. Alle tre het Bukken Bruse. På veien måtte de over en bro over en foss. Under brua bodde et stort og fælt troll. Det hadde øyne som tinntallerkener og en nese så lang som et riveskaft.
@@ -27,17 +27,17 @@ Først kom den yngste Bukken Bruse og skulle over brua.
 
 «Nå kommer jeg og tar deg!» sa trollet.
 
-«Å nei, ikke ta meg, for jeg er så liten. Vent bare litt, så kommer den midterste Bukken Bruse. Han er mye større.»
+«Å nei, ikke ta meg, for jeg er så liten. Vent bare litt, så kommer den mellomste Bukken Bruse. Han er mye større.»
 
 «Ja vel», sa trollet.
 
-Etter en liten stund kom den midterste Bukken Bruse og skulle over brua.
+Etter en liten stund kom den mellomste Bukken Bruse og skulle over brua.
 
 «Tripp, trapp, tripp, trapp, tripp, trapp», sa det i brua.
 
 «Hvem tripper på brua mi?» skrek trollet.
 
-«Det er den midterste Bukken Bruse, som skal til seters og bli fet», sa bukken. Den hadde ikke fin stemme.
+«Det er den mellomste Bukken Bruse, som skal til seters og bli fet», sa bukken. Den hadde ikke fin stemme.
 
 «Nå kommer jeg og tar deg», sa trollet.
 
@@ -65,4 +65,4 @@ Så angrep bukken trollet. Han stakk ut øynene på trollet. Han slo sund både 
 
 Der ble bukkene så fete, så fete at de nesten ikke orket å gå hjem igjen. Hvis fettet ikke har gått av dem, er de fortsatt fete.
 
-«Snipp, snapp, snute, så er eventyret ute.»
+Snipp, snapp, snute, så er eventyret ute.

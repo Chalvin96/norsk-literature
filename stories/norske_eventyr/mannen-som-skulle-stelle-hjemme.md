@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "20560"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "176904f06454b1da5b28e1c8ebfc08e47186562d1f75af90e3cffe0011af1444"
+content_sha256: "b871fd81a164f7be4be6540fa69b21296c4c0974ca0d5ceb4e125a0609f93424"
 ---
 
 Det var en gang en mann som var så gretten og vill. Han syntes aldri kona gjorde nok hjemme. En kveld midt i slåtten kom han hjem. Han skrek, skjelte og bannet så det lyste av ham.
@@ -25,7 +25,7 @@ Tidlig neste morgen tok kona ljåen på nakken og gikk ut på enga for å slå. 
 
 Han tok tappekranen i hånden og løp opp kjellertrappa. Han ville se etter grisen, så den ikke veltet smørkjerna. Men grisen hadde alt veltet den. Den smattet på fløten som rant utover gulvet. Mannen ble så sint at han glemte øltønna. Han satte etter grisen så fort han kunne.
 
-Han tok den igjen i døra og sparket den hardt. Grisen lå igjen på stedet. Da husket mannen at han fortsatt holdt tappekranen. Men da han kom ned i kjelleren, var øltønna tom.
+Han tok den igjen i døra og sparket den hardt. Grisen ble liggende på flekken. Da husket mannen at han fortsatt holdt tappekranen. Men da han kom ned i kjelleren, var øltønna tom.
 
 Mannen gikk tilbake til melkebua. Der fant han så mye fløte at han fikk fylt smørkjerna. Han begynte å kjerne igjen, for han ville ha smør til middagen.
 

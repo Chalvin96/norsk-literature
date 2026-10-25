@@ -12,12 +12,12 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "20561"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "26b82ba6ed4334e3a2f30ca2f7b706430e81ed942be7035c1dbd272ee992f6dc"
+content_sha256: "23f45fc41b89e6db7999126650d24e36592347682b8dc5dc46f2521c06ac8bd8"
 ---
 
 Det var en gang en konge med sju sønner. Han var så glad i dem at han aldri kunne unnvære dem alle på én gang. Én av dem måtte alltid være hos ham. Da de ble voksne, skulle de seks eldste dra ut og finne seg koner. Kongen ville at den yngste skulle bli hjemme. De andre skulle ta med seg en prinsesse til ham.
 
-Kongen ga de seks sønnene de fineste klær noen hadde sett. Klærne skinte langt unna. Han ga hver av dem en hest som kostet mange hundre daler. Så dro de av sted.
+Kongen ga de seks sønnene de fineste klærne noen hadde sett. Klærne skinte langt unna. Han ga hver av dem en hest som kostet mange hundre daler. Så dro de av sted.
 
 De besøkte mange kongsgårder og så på prinsessene. Til slutt kom de til en konge med seks døtre. De hadde aldri sett så vakre prinsesser før. De seks brødrene fridde hver til sin. Da de hadde fått jentene til kjærester, dro de hjemover. De var helt opptatt av kjærestene sine. Derfor glemte de å finne en prinsesse til Askeladden.
 
@@ -79,7 +79,7 @@ Askeladden gikk inn, men han var redd. Risen var ikke der. I et rom satt prinses
 
 Askeladden krøp under senga. Like etter kom risen.
 
-«Æsj! Det lukter kristent blod her inne!» sa risen.
+«Huttetu! Det lukter kristenmannslukt her inne!» sa risen.
 
 «Ei skjære fløy inn pipa med et menneskebein i nebbet og slapp det ned», sa prinsessa. «Jeg skyndte meg å få det ut. Men lukten forsvinner nok ikke så fort.»
 
@@ -103,7 +103,7 @@ Hun samlet de vakreste blomstene hun fant. Hun strødde dem rundt steinen ved d�
 
 Så snart han lå der, kom risen.
 
-«Æsj! Det lukter kristent blod her inne!» sa risen.
+«Huttetu! Det lukter kristenmannslukt her inne!» sa risen.
 
 «Ei skjære fløy inn pipa med et menneskebein i nebbet og slapp det ned», sa prinsessa. «Jeg skyndte meg å få det ut, men det er nok det som lukter.»
 
@@ -129,7 +129,7 @@ Neste morgen dro risen tidlig til skogs igjen. Så snart han var borte, lette As
 
 Så kom risen.
 
-«Æsj! Det lukter kristent blod her inne!» sa han.
+«Huttetu! Det lukter kristenmannslukt her inne!» sa han.
 
 «Ei skjære fløy inn pipa med et menneskebein i nebbet og slapp det ned», sa prinsessa. «Jeg skyndte meg å få det ut, men det er nok det som lukter.»
 

@@ -12,12 +12,12 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "21101"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "cdf00de94ba8a4012335cb56f81cebfec084150ce436493a8ef5a5c7fbd2c89b"
+content_sha256: "4a2ff146b657a8354000112ada64de9cd6bbe6a8e8b2a999ac9c71b77bd818ac"
 ---
 
 Det var en gang en prest som var så grov. Han ropte til alle han møtte på veien: «Gå av veien, gå av veien! Her kommer presten selv!»
 
-En gang han red av sted og ropte slik, møtte han kongen. «Gå av veien, gå av veien!» ropte han på lang avstand. Men kongen fortsatte å kjøre framover. Denne gangen måtte presten vike med hesten sin.
+En gang han kjørte av sted og ropte slik, møtte han kongen. «Gå av veien, gå av veien!» ropte han på lang avstand. Men kongen fortsatte å kjøre framover. Denne gangen måtte presten vike med hesten sin.
 
 Da kongen kom opp på siden av presten, sa han: «I morgen skal du møte på kongsgården. Jeg skal stille deg tre spørsmål. Hvis du ikke kan svare, mister du både kappe og krage for hovmodet ditt.»
 
@@ -41,7 +41,7 @@ Klokkeren dro til kongsgården med prestens kappe og krage på. Kongen tok imot 
 
 «Ja, ja», sa kongen. «Si meg: Hva er jeg verd, slik jeg står her?»
 
-«Folk satte verdien av Kristus til tretti sølvpenger. Derfor tør jeg ikke sette deg høyere enn til tjue-ni», sa klokkeren.
+«Folk satte verdien av Kristus til tretti sølvpenger. Derfor tør jeg ikke sette deg høyere enn til tjueni», sa klokkeren.
 
 «Nå, nå!» sa kongen. «Siden du er så klok, si meg hva jeg tenker på nå.»
 
