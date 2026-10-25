@@ -6192,6 +6192,32 @@
       "history_url": "https://de.wikisource.org/w/index.php?title=Die_kluge_Else_%281857%29&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "nissene",
+      "source_unit_ids": [
+        "wikikilden-grimm-die-wichtelmaenner-nb"
+      ],
+      "path": "stories/klassikere/nissene.md",
+      "title": "Nissene",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 927,
+      "content_sha256": "668b41324eac2c3d64d6fbc2f2a86ceba73b6231e21b0d0e6df9c989d0e71cd0",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=3580744",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "3580744",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Die_Wichtelm%C3%A4nner_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
