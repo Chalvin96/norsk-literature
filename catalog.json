@@ -6010,6 +6010,58 @@
       "rights_status": "cleared",
       "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "dumme-menn-og-troll-til-kjerringer",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-huldre-1896-23-nb"
+      ],
+      "path": "stories/norske_eventyr/dumme-menn-og-troll-til-kjerringer.md",
+      "title": "Dumme menn og troll til kjerringer",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 728,
+      "content_sha256": "66f030ec431ba53f8b13e903e7164964b4593943a44379128100e1c05114b783",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=82492",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "82492",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/23&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "jutulen-og-johannes-blessom",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-huldre-1896-25-nb"
+      ],
+      "path": "stories/norske_eventyr/jutulen-og-johannes-blessom.md",
+      "title": "Jutulen og Johannes Blessom",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 716,
+      "content_sha256": "36584e39973d91dfc06b701467c961a0cd693058f08212cb5116a77d1634a3eb",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=100520",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "100520",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/25&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
