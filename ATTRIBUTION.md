@@ -3537,3 +3537,67 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Den gamle bestefaren og barnebarnet
+
+- File: `stories/klassikere/den-gamle-bestefaren-og-barnebarnet.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=2911792
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 2911792
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Den vesle mannen som ble ung i ilden
+
+- File: `stories/klassikere/den-vesle-mannen-som-ble-ung-i-ilden.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=2572676
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 2572676
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Gidske
+
+- File: `stories/norske_eventyr/gidske.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=292687
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 292687
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Reven og katten
+
+- File: `stories/klassikere/reven-og-katten.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=3433627
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 3433627
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
