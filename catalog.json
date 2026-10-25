@@ -5398,6 +5398,58 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/2&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "flyttedagen",
+      "source_unit_ids": [
+        "wikikilden-andersen-flyttedagen-nb"
+      ],
+      "path": "stories/klassikere/flyttedagen.md",
+      "title": "Flyttedagen",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1255,
+      "content_sha256": "ba6c916f2a4e4b2590b92e3d918b6a98e4d3f3e9cd1004c148ed5326c7ffea08",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68258",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68258",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Flyttedagen&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "folkesangens-fugl",
+      "source_unit_ids": [
+        "wikikilden-andersen-folkesangens-fugl-nb"
+      ],
+      "path": "stories/klassikere/folkesangens-fugl.md",
+      "title": "Folkesangens fugl",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 910,
+      "content_sha256": "974c58dafb837449e6dffd6cde5ad001a10241d5c4e1fa602856f22ace585181",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=79315",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "79315",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Folkesangens_Fugl&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
