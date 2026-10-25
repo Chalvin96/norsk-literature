@@ -1527,3 +1527,51 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Faderen
+
+- File: `stories/klassikere/faderen.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=59434
+
+- Author(s): Bjørnstjerne Bjørnson (1832–1910)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 59434
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Rødhette
+
+- File: `stories/klassikere/rodhette.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=1644437
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 1644437
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Ulven og de sju geitekillingene
+
+- File: `stories/klassikere/ulven-og-de-sju-geitekillingene.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=3467054
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 3467054
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional

@@ -3086,6 +3086,84 @@
       "history_url": "https://da.wikisource.org/w/index.php?title=Theepotten&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "faderen",
+      "source_unit_ids": [
+        "wikikilden-bjornson-faderen-nb"
+      ],
+      "path": "stories/klassikere/faderen.md",
+      "title": "Faderen",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 784,
+      "content_sha256": "08661a7b355d38407aeb6819965c490cb8686c36f95e71106edffa7578512fab",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=59434",
+      "authors": "Bjørnstjerne Bjørnson (1832–1910)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "59434",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Faderen&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "rodhette",
+      "source_unit_ids": [
+        "wikikilden-grimm-rothkaeppchen-nb"
+      ],
+      "path": "stories/klassikere/rodhette.md",
+      "title": "Rødhette",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1148,
+      "content_sha256": "c6e64114122c638a99625b5f26c70ed509199ad5950f424da658ac08dacd3526",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=1644437",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "1644437",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Rothk%C3%A4ppchen_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "ulven-og-de-sju-geitekillingene",
+      "source_unit_ids": [
+        "wikikilden-grimm-der-wolf-und-die-sieben-jungen-geislein-nb"
+      ],
+      "path": "stories/klassikere/ulven-og-de-sju-geitekillingene.md",
+      "title": "Ulven og de sju geitekillingene",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 902,
+      "content_sha256": "e72e24a0bf79cdb352fe1424ddac660ec52fcbd83a3da4388f8b57367915ef27",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=3467054",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "3467054",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Der_Wolf_und_die_sieben_jungen_Geislein_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
