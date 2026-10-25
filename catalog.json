@@ -5190,6 +5190,32 @@
       "rights_status": "cleared",
       "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "vindmollen",
+      "source_unit_ids": [
+        "wikikilden-andersen-veirmollen-nb"
+      ],
+      "path": "stories/klassikere/vindmollen.md",
+      "title": "Vindmøllen",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 820,
+      "content_sha256": "19c176f524e6a70df94751436a10f75d24e28f87590e00c53f2cefbf1fb249f7",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68327",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68327",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Veirm%C3%B8llen&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
