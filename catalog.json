@@ -6322,6 +6322,58 @@
       "history_url": "https://da.wikisource.org/w/index.php?title=Engelen&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "solvskillingen",
+      "source_unit_ids": [
+        "wikikilden-andersen-solvskillingen-nb"
+      ],
+      "path": "stories/klassikere/solvskillingen.md",
+      "title": "Sølvskillingen",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1485,
+      "content_sha256": "3a8ad94a61cf59dec059b192a35d686e6a09e7bee2a03abc050c3e01b5bb0410",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68324",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68324",
+      "history_url": "https://da.wikisource.org/w/index.php?title=S%C3%B8lvskillingen&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "storkene",
+      "source_unit_ids": [
+        "wikikilden-andersen-storkene-nb"
+      ],
+      "path": "stories/klassikere/storkene.md",
+      "title": "Storkene",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1460,
+      "content_sha256": "5172ec4efdf9dd1e37321308aa439bd32aaf23e180ecee42c0e399ea0d4f98a7",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68321",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68321",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Storkene&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
