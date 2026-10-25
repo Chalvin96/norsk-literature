@@ -12,10 +12,10 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "292811"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "4904d186442acc747122505a3709545988f38cd2b266c4049682e55a1eb48b78"
+content_sha256: "b701220e4b685fc7220b9106c75db30a2e89ed9cfe6ca2d15ff34912f6fd89f6"
 ---
 
-Det var en gang ei kone som hadde en eneste sønn. Han var ikke større enn en tommel, så de kalte ham Tommeliden. Da han var blitt gammel nok, sa moren at han måtte dra ut og fri. Hun syntes det var på tide at han begynte å tenke på å gifte seg. Da Tommeliden hørte dette, ble han veldig glad.
+Det var en gang ei kone som hadde en eneste sønn. Han var ikke større enn en tommelfinger, så de kalte ham Tommeliden. Da han var blitt gammel nok, sa moren at han måtte dra ut og fri. Hun syntes det var på tide at han begynte å tenke på å gifte seg. Da Tommeliden hørte dette, ble han veldig glad.
 
 De gjorde vogna klar og reiste av sted. Moren satte ham på fanget sitt. De skulle til en kongsgård, der det bodde en svært stor prinsesse. Da de hadde kommet et stykke på veien, ble Tommeliden borte. Moren lette lenge etter ham. Hun ropte på ham og gråt fordi han var borte og hun ikke kunne finne ham. «Pip, pip!» sa Tommeliden. Han hadde gjemt seg i manen på hesten. Så kom han fram. Han måtte love moren at han ikke skulle gjøre det igjen. Da de hadde kjørt et stykke til, var Tommeliden borte igjen. Moren lette etter ham, ropte og gråt, men han var borte. «Pip, pip!» sa Tommeliden. Hun hørte at han lo og fniste, men hun kunne ikke finne ham. «Pip, pip, her er jeg da!» sa Tommeliden. Han kom fram fra øret på hesten.
 

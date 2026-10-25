@@ -11,9 +11,9 @@ license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "a22ed5637ba90354be87844142a5070e2978de2ab8a63bdc7ed7d485c029ce05"
+content_sha256: "e711cc74803b7be6fcd8321f99efb627857ca073fc42dbad3e8c448e5cd567ae"
 ---
 
-En bjørn skrøt mye av hvor god han var mot andre. Han sa at han var det dyret som var snillest mot mennesker. Han hadde så stor respekt for mennesket at han ikke engang ville røre et dødt menneske.
+En bjørn skrøt mye av hvor god han var mot mennesker. Han sa at han var det dyret som var snillest mot mennesker. Han hadde så stor respekt for mennesket at han ikke engang ville røre et dødt menneske.
 
 En rev hørte dette. Han smilte. Så sa han til bjørnen: «Tenk om du spiste de døde og lot de levende være!»

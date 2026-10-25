@@ -12,7 +12,7 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "75024"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "7f3453e585a203113ae6b3de5da5fcadd662509ea2eb57fd3e17b1cffaddff23"
+content_sha256: "2c058ab4032a402a45dea04208fe54e435e1abdec2ec63150ff13322d3e767f5"
 ---
 
 Det var en gang en gammel poet, en riktig god, gammel poet. En kveld satt han hjemme mens det var fryktelig uvær ute. Regnet strømmet ned. Men den gamle poeten satt varmt og godt ved ovnen. I ovnen brant det, og eplene lå og stekte.
@@ -37,7 +37,7 @@ Den gamle poeten satte seg ved ovnen med den lille gutten på fanget. Han vred v
 
 «Det var leit!» sa den lille gutten. Han tok buen opp og så på den. «Å, den er helt tørr og har ikke fått noen skade! Strengen er stram. Nå skal jeg prøve den!» Han spente buen og la på en pil. Så siktet han og skjøt den gode, gamle poeten rett i hjertet. «Nå ser du vel at buen min ikke var ødelagt!» sa han. Han lo høyt og løp sin vei. For en uartig gutt! Slik skjøt han på den gamle poeten. Poeten hadde sluppet ham inn i det varme rommet. Poeten hadde vært snill mot gutten. Han hadde gitt gutten den gode vinen og det beste eplet.
 
-Den gode poeten lå på gulvet og gråt. Pilen hadde virkelig truffet ham rett i hjertet. Så sa han: «Fy, for en uartig gutt Amor er! Jeg skal fortelle det til alle snille barn, så de kan passe seg og aldri leke med ham. Han gjør dem vondt!»
+Den gode poeten lå på gulvet og gråt. Pila hadde virkelig truffet ham rett i hjertet. Så sa han: «Fy, for en uartig gutt Amor er! Jeg skal fortelle det til alle snille barn, så de kan passe seg og aldri leke med ham. Han gjør dem vondt!»
 
 Alle de snille barna han fortalte det til, både jenter og gutter, passet seg for den slemme Amor. Men han lurte dem likevel, for han var så utspekulert! Når studentene gikk fra forelesningene, løp han ved siden av dem. Han hadde ei bok under armen og en svart jakke på. De kjente ham ikke igjen. Derfor tok de ham under armen og trodde at han også var student. Men så stakk han pila inn i brystet deres.
 

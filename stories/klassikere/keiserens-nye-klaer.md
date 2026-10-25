@@ -12,7 +12,7 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68277"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "5c19a4e0aab49b5fd3dc8fbd8cae1494ab986650085c22d0a11bbd7cb2603b7a"
+content_sha256: "21a0596a840922a6580ce39117c55af71106e1406fce3b8a8da16be99cea28e6"
 ---
 
 For mange år siden levde det en keiser. Han var svært glad i fine, nye klær og brukte alle pengene sine på å pynte seg. Han brydde seg ikke om soldatene sine, teater eller turer i skogen. Han kjørte i skogen bare for å vise fram de nye klærne sine. Han hadde en kjole for hver time på dagen. Om en konge sa man at han var i rådet. Her sa man alltid: «Keiseren er i garderoben!»
@@ -51,7 +51,7 @@ Nå ville keiseren selv se stoffet mens det ennå lå på veven. Han gikk dit sa
 
 «Ja, er det ikke praktfullt?» sa begge de skikkelige tjenestemennene. «Vil deres majestet se mønsteret og fargene?» spurte de. Så pekte de på den tomme veven. De trodde at de andre sikkert kunne se stoffet.
 
-«Hva i all verden?» tenkte keiseren. «Jeg ser ingenting! Det er forferdelig! Er jeg dum? Dugde jeg ikke til å være keiser? Det er det verste som kunne skje meg!» Så sa keiseren: «Å, det er svært vakkert! Det får min fulle godkjenning!» Han nikket fornøyd og så på den tomme veven. Han ville ikke si at han ikke kunne se noe.
+«Hva i all verden?» tenkte keiseren. «Jeg ser ingenting! Det er forferdelig! Er jeg dum? Duger jeg ikke til å være keiser? Det er det verste som kunne skje meg!» Så sa keiseren: «Å, det er svært vakkert! Det får min fulle godkjenning!» Han nikket fornøyd og så på den tomme veven. Han ville ikke si at han ikke kunne se noe.
 
 Hele følget hans så og så, men de fikk ikke se mer enn alle de andre. Likevel sa de som keiseren: «Å, det er svært vakkert!» De rådet ham til å bruke klærne for første gang i den store paraden. Den skulle gå snart. «Det er praktfullt, nydelig og fantastisk!» gikk fra munn til munn. Alle var svært fornøyde. Keiseren ga hver av svindlerne et ridderkors til å feste i knapphullet og tittelen vevejunkere.
 
@@ -63,7 +63,7 @@ Keiseren kom selv dit sammen med de viktigste mennene ved hoffet. Begge svindler
 
 «Vil deres keiserlige majestet vennligst ta av seg klærne? Så skal vi kle Dem i de nye klærne her foran det store speilet», sa svindlerne.
 
-Keiseren tok av seg alle klærne. Svindlerne lot som om de ga ham hvert av de nye plaggene. De hadde visst sydd dem. Keiseren vendte og dreide seg foran speilet.
+Keiseren tok av seg alle klærne. Svindlerne lot som om de ga ham hvert av de nye plaggene. Plaggene skulle være ferdig sydd. Keiseren vendte og dreide seg foran speilet.
 
 «Gud, så godt de klærne kler ham! Så fint de sitter!» sa alle. «For et mønster! For noen farger! For en kostbar drakt!»
 

@@ -11,7 +11,7 @@ license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "cc17a1e002d429f533b13cbe7d13aa205d51b61a83c701bb8aa89fec40277c74"
+content_sha256: "0ce9502dc1f2248be0b11694e08958f94988a22c79394ad6cfc21eaad858eea9"
 ---
 
 En vinterdag fant en bonde en slange. Den var stiv av kulde og helt frossen. Han syntes synd på slangen. Han løftet den opp og la den på brystet under klærne.
@@ -20,4 +20,4 @@ Varmen vekket snart slangen til live. Da instinktene kom tilbake, bet den mannen
 
 Med sitt siste åndedrag ropte bonden: «Jeg får som fortjent fordi jeg syntes synd på en skurk».
 
-Selv den største godhet gjør ikke utakknemlige mennesker takknemlige.
+Selv den største godheten gjør ikke utakknemlige mennesker takknemlige.

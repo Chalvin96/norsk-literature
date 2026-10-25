@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "281272"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "cfe4e3ce85068d338c491e4ef7646fc75ffb7f14add9bcb996f885a33cebe1d3"
+content_sha256: "bea5f8fe66f42543ef725e7d19951ef754f83794ab35b833b227933159b96a05"
 ---
 
 I gamle dager bodde et fattig par i Vågå i Gudbrandsdalen. De hadde mange barn. To av sønnene var nesten voksne. De måtte stadig gå rundt i bygda og tigge. Derfor kjente de alle veiene og stiene. De visste også snarveien til Hedalen.
@@ -23,7 +23,7 @@ Det var blitt langt ut på høsten. Seterjentene hadde reist hjem fra setrene. D
 
 De skjønte at de ikke kom til å finne fram. Guttene skar granbar, tente et bål og bygde ei barhytte. De hadde med seg ei lita øks. Så rev de opp lyng og mose og laget senger av det. En stund etter at de hadde lagt seg, hørte de noen snøfte og trekke pusten tungt. Guttene la øret mot bakken og lyttet. De prøvde å finne ut om lyden kom fra dyr eller skogtroll.
 
-Så kom en enda kraftigere pust. Den sa: «Det lukter blod fra kristne her!»
+Så kom en enda kraftigere pust. Den sa: «Det lukter kristent blod her!»
 
 De hørte tunge skritt. Jorda skalv under dem. Da skjønte de at trollene var ute.
 
