@@ -4190,6 +4190,32 @@
       "history_url": "https://da.wikisource.org/w/index.php?title=Nissen_og_Madamen&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "kjetta-pa-dovre",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-norske-folkeeventyr-56-nb"
+      ],
+      "path": "stories/norske_eventyr/kjetta-pa-dovre.md",
+      "title": "Kjetta på Dovre",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 319,
+      "content_sha256": "5992d5de2b0e91574d8f4a2b0f1a5ef18b35110a0472ccd39f1a4b3c255e996c",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=289489",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "289489",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folkeeventyr_%281852%29/56&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
