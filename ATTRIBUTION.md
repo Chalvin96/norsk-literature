@@ -2127,3 +2127,67 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Askeladden som stjal sølvendene, sengeteppet og gullharpa fra trollet
+
+- File: `stories/norske_eventyr/askeladden-som-stjal-solvendene-sengeteppet-og-gullharpa-fra-trollet.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=260352
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 260352
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## De tre prinsessene i Hvittenland
+
+- File: `stories/norske_eventyr/de-tre-prinsessene-i-hvittenland.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=261449
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 261449
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Jomfru Maria som gudmor
+
+- File: `stories/norske_eventyr/jomfru-maria-som-gudmor.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=261232
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 261232
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Nissen og madama
+
+- File: `stories/klassikere/nissen-og-madama.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68289
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68289
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
