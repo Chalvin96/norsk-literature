@@ -12,10 +12,10 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68241"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "9c0fe672baedf86a4a84d05baa49204721ea13d7c1b9dc9e42e708cf253cfa6a"
+content_sha256: "09e6ba5170889c809d0ff67b715baadec829a25d2718bdff5e53fd3999563994"
 ---
 
-Det var en gang tjuefem tinnsoldater. De var alle brødre, for en gammel tinnskje hadde laget dem. De holdt geværet i armen og så rett fram. Uniformen var rød og blå og svært fin. Det første de hørte, var noen som ropte «Tinnsoldater!» En liten gutt klappet i hendene. Han hadde fått soldatene til fødselsdagen sin og stilte dem på bordet. Den ene soldaten lignet den andre. Bare én skilte seg litt ut. Han hadde ett bein, for de støpte ham sist og hadde ikke mer tinn. Likevel sto han like støtt på ett bein som de andre på sine to. Det er nettopp han det skal handle om.
+Det var en gang tjuefem tinnsoldater. De var alle brødre, for de var laget av den samme gamle tinnskjea. De holdt geværet i armen og så rett fram. Uniformen var rød og blå og svært fin. Det første de hørte, var noen som ropte «Tinnsoldater!» En liten gutt klappet i hendene. Han hadde fått soldatene til fødselsdagen sin og stilte dem på bordet. Den ene soldaten lignet den andre. Bare én skilte seg litt ut. Han hadde ett bein, for han var støpt sist, og da var det ikke mer tinn. Likevel sto han like støtt på ett bein som de andre på sine to. Det er nettopp han det skal handle om.
 
 På bordet sto det mye annet leketøy. Det fineste var et vakkert slott av papir. Gjennom de små vinduene kunne man se inn i salene. Utenfor sto små trær rundt et lite speil som skulle forestille en sjø. Svaner av voks svømte der og speilte seg. Alt var fint, men det aller fineste var en liten dame i den åpne slottsdøra. Noen hadde også klippet henne ut av papir. Hun hadde et skjørt av det fineste, tynne stoffet. Et smalt blått bånd lå over skulderen, som et belte. Midt på båndet satt en skinnende paljett, like stor som hele ansiktet hennes. Damen strakte ut begge armene, for hun var danserinne. Hun løftet det ene beinet så høyt at tinnsoldaten ikke kunne finne det. Han trodde at hun bare hadde ett bein, som ham.
 
@@ -55,11 +55,11 @@ Men tinnsoldaten tidde og holdt enda hardere i geværet. Båten suste av gårde,
 
 Strømmen ble sterkere og sterkere. Tinnsoldaten kunne allerede se dagslyset der rennebrettet tok slutt. Men han hørte også en brusende lyd som kunne skremme en tapper mann. Rennesteinen endte i en stor kanal, og vannet styrtet rett ut. For ham var det like farlig som for oss å seile ned et stort fossefall.
 
-Nå var han så nær at han ikke kunne stanse. Båten fór ut, og den stakkars tinnsoldaten holdt seg så støtt han kunne. Ingen skulle kunne si at han blunket. Båten snurret rundt tre-fire ganger og ble fylt med vann helt til kanten. Den måtte synke. Tinnsoldaten sto i vann til halsen, og båten sank dypere og dypere. Papiret løste seg mer og mer opp. Nå gikk vannet over hodet på soldaten. Da tenkte han på den fine lille danserinnen, som han aldri skulle få se igjen. Det lød i ørene hans:
+Nå var han så nær at han ikke kunne stanse. Båten fór ut, og den stakkars tinnsoldaten holdt seg så støtt han kunne. Ingen skulle kunne si at han blunket. Båten snurret rundt tre-fire ganger og ble fylt med vann helt til kanten. Den måtte synke. Tinnsoldaten sto i vann til halsen, og båten sank dypere og dypere. Papiret løste seg mer og mer opp. Nå gikk vannet over hodet på soldaten. Da tenkte han på den fine lille danserinnen, som han aldri skulle få se igjen. Det klang i ørene hans.
 
 Så gikk papiret i stykker, og tinnsoldaten falt gjennom vannet. I samme øyeblikk slukte en stor fisk ham.
 
-Det var mørkt der inne, enda mørkere enn under rennebrettet. Det var også så trangt. Men tinnsoldaten sto støtt og lå så lang han var med geværet i armen.
+Det var mørkt der inne, enda mørkere enn under rennebrettet. Det var også så trangt. Men tinnsoldaten holdt motet oppe og lå så lang han var med geværet i armen.
 
 Fisken fór omkring og gjorde de frykteligste bevegelser. Til slutt ble den helt stille. Så fór et lysglimt gjennom den. Lyset skinte klart, og noen ropte høyt: «Tinnsoldat!» Folk fanget fisken. De tok den med til torget og solgte den. Så bar de den inn på kjøkkenet. Der skar tjenestejenta den opp med en stor kniv. Hun tok soldaten mellom to fingre rundt livet og bar ham inn i stua. Alle ville se den merkelige mannen som hadde reist rundt i magen på en fisk. Men tinnsoldaten var slett ikke stolt.
 

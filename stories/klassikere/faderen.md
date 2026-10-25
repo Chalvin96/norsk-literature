@@ -12,7 +12,7 @@ authors: "Bjørnstjerne Bjørnson (1832–1910)"
 source_revision: "59434"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "08661a7b355d38407aeb6819965c490cb8686c36f95e71106edffa7578512fab"
+content_sha256: "19d1014e60c0f9accc0ab4b99d7cbc9b6ecf8d15cf354a8d63bd33d757c933c7"
 ---
 
 Den mektigste mannen i prestegjeldet het Thord Øveraas. En dag sto han på prestens kontor, høy og alvorlig. «Jeg har fått en sønn», sa han, «og vil gjerne ha ham døpt.»
@@ -29,7 +29,7 @@ Bonden sto litt. «Jeg vil gjerne ha en egen dåp for ham», sa han.
 
 Seksten år senere sto Thord i prestens stue. «Du holder deg godt, Thord», sa presten. Han så ingen forandring hos ham.
 «Jeg har heller ingen bekymringer», svarte Thord.
-Presten tiet. En stund senere spurte han: «Hva gjelder besøket ditt i kveld?»
+Presten tiet. En stund senere spurte han: «Hva er ærendet ditt i kveld?»
 «Jeg kommer på grunn av sønnen min. Han skal stå til konfirmasjon i morgen.»
 «Han er en flink gutt.»
 «Jeg ville ikke betale presten før jeg fikk vite hvilket nummer han fikk på kirkegulvet.»
@@ -52,13 +52,13 @@ Presten tok imot pengene.
 
 Fjorten dager senere rodde far og sønn i stille vær over vannet til Storliden. De skulle snakke om bryllupet.
 «Denne tofta ligger ikke støtt under meg», sa sønnen. Han reiste seg for å legge den på plass. I samme øyeblikk gled gulvbordet han sto på. Han slo ut med armene, skrek og falt i vannet.
-«Ta åra!» ropte faren. Han reiste seg og stakk den ut. Sønnen tok et par åretak, men stivnet.
+«Ta åra!» ropte faren. Han reiste seg og stakk den ut. Sønnen tok et par svømmetak, men stivnet.
 «Vent litt!» ropte faren og rodde mot ham.
 Da lente sønnen seg bakover og så lenge på faren. Så sank han.
 
 Thord ville ikke tro det. Han holdt båten stille og stirret på flekken der sønnen hadde sunket, som om han skulle komme opp igjen. Noen bobler steg opp, så enda noen. Til slutt kom én stor boble, som brast. Sjøen lå speilblank igjen.
 
-I tre dager og tre netter så folk faren ro rundt flekken uten å spise eller sove. Han dykket ned etter sønnen. Om morgenen den tredje dagen fant han ham. Han bar sønnen over bakkene hjem til gården sin.
+I tre dager og tre netter så folk faren ro rundt flekken uten å spise eller sove. Han lette etter sønnen på bunnen fra båten med en lang krok, en «sok». Om morgenen den tredje dagen fant han ham. Han bar sønnen over bakkene hjem til gården sin.
 
 Det må ha gått et år siden den dagen. Sent en høstkveld hørte presten noen tasse ved døra i forstua og famle forsiktig etter låsen. Presten åpnet døra. En høy, foroverbøyd mann kom inn. Han var tynn og hvithåret.
 Presten så lenge på ham før han kjente ham igjen. Det var Thord.

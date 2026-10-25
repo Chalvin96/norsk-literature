@@ -12,7 +12,7 @@ authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "3537411"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "643720a566976d70797f27ee2ea8b26df57c957513618a461434c9284281a7b7"
+content_sha256: "022fbfa2d34c2195ede779f7781c453887cefed7dc641e1245c867f20ba284ef"
 ---
 
 Denne historien høres ut som løgn, gutter, men den er likevel sann. Bestefaren min fortalte den til meg. Han pleide alltid å si: «Den må være sann, gutten min. Ellers kunne man ikke fortelle den.» Slik gikk det til.
@@ -25,15 +25,15 @@ Da pinnsvinet fikk øye på haren, ønsket det ham en vennlig god morgen. Men ha
 
 Pinnsvinet gikk, og haren godtok det. På veien tenkte pinnsvinet: «Haren stoler på de lange beina sine. Men jeg skal nok vinne. Han er en fin herre, men en dum kar. Han må betale likevel.» Da pinnsvinet kom hjem, sa det til kona: «Kone, kle på deg fort. Du må bli med meg til jordet.» «Hva er det?» spurte kona. «Jeg har veddet med haren om en gullmynt og ei flaske brennevin. Jeg skal løpe kappløp med ham, og du må være med.» «Å, kjære vene, mann», ropte kona. «Er du gal? Har du mistet forstanden? Hvordan kan du tenke deg å løpe kappløp med haren?» «Hold munn, kone», sa pinnsvinet. «Det er min sak. Ikke bland deg i mennenes saker. Skynd deg, kle på deg og bli med.» Hva kunne kona gjøre? Hun måtte følge med, enten hun ville eller ikke.
 
-Da de gikk sammen, sa pinnsvinet til kona: «Hør godt etter. Vi skal løpe kappløp på det lange jordet der. Haren løper i den ene fura, og jeg løper i den andre. Vi starter øverst. Du skal bare stille deg nederst i fura. Når haren når den andre enden, roper du: ‘Jeg er her først.’»
+Da de gikk sammen, sa pinnsvinet til kona: «Hør godt etter. Vi skal løpe kappløp på det lange jordet der. Haren løper i den ene fura, og jeg løper i den andre. Vi starter øverst. Du skal bare stille deg nederst i fura. Når haren når den andre enden, roper du: ‘Jeg er allerede her.’»
 
 Da de kom til jordet, viste pinnsvinet kona plassen hennes. Så gikk pinnsvinet oppover jordet. Da pinnsvinet kom til toppen, sto haren klar. «Kan vi starte?» spurte haren. «Ja», sa pinnsvinet. «Da setter vi i gang!» Hver av dem stilte seg i sin egen fure. Haren telte: «En, to, tre!» Så løp han nedover jordet som en stormvind. Pinnsvinet løp bare omtrent tre skritt. Så bøyde det seg ned i fura og satte seg rolig.
 
-Haren løp i full fart til den andre enden. Der ropte pinnsvinets kone: «Jeg er her først!» Haren stanset og ble svært forundret. Han trodde at det var pinnsvinet selv som ropte. Kona så jo akkurat ut som mannen sin.
+Haren løp i full fart til den andre enden. Der ropte pinnsvinets kone: «Jeg er allerede her!» Haren stanset og ble svært forundret. Han trodde at det var pinnsvinet selv som ropte. Kona så jo akkurat ut som mannen sin.
 
-Haren tenkte at noe ikke stemte. «En gang til! Vi løper tilbake!» ropte han. Så satte han av gårde som en stormvind. Ørene fløy rundt hodet hans. Pinnsvinets kone ble stående rolig på plassen sin. Da haren kom opp til toppen, ropte pinnsvinet: «Jeg er her først!» Haren ble rasende. «En gang til! Vi løper tilbake!» ropte han. «Det er greit for meg», svarte pinnsvinet. «Vi kan løpe så ofte du vil.» Haren løp 73 ganger til. Pinnsvinet holdt ut hver gang. Hver gang haren kom til en ende, ropte pinnsvinet eller kona: «Jeg er her først.»
+Haren tenkte at noe ikke stemte. «En gang til! Vi løper tilbake!» ropte han. Så satte han av gårde som en stormvind. Ørene fløy rundt hodet hans. Pinnsvinets kone ble stående rolig på plassen sin. Da haren kom opp til toppen, ropte pinnsvinet: «Jeg er allerede her!» Haren ble rasende. «En gang til! Vi løper tilbake!» ropte han. «Det er greit for meg», svarte pinnsvinet. «Vi kan løpe så ofte du vil.» Haren løp 73 ganger til. Pinnsvinet holdt ut hver gang. Hver gang haren kom til en ende, ropte pinnsvinet eller kona: «Jeg er allerede her.»
 
-Men den 74. gangen kom ikke haren fram. Midt på jordet falt han om. Blodet fosset ut av halsen hans, og han døde på stedet. Pinnsvinet tok gullmynten han hadde vunnet og flaska med brennevin. Så ropte det på kona. Hun kom ut av fura. De gikk glade hjem sammen. Og hvis de ikke er døde, lever de ennå.
+Men den 74. gangen kom ikke haren fram. Midt på jordet falt han om. Blodet fosset ut av halsen hans, og han døde på stedet. Pinnsvinet tok gullmynten det hadde vunnet og flaska med brennevin. Så ropte det på kona. Hun kom ut av fura. De gikk glade hjem sammen. Og hvis de ikke er døde, lever de ennå.
 
 Slik gikk det til at pinnsvinet løp haren i hjel på Buxtehude-heia. Siden den gangen har ingen hare prøvd å løpe kappløp med et pinnsvin fra Buxtehude.
 

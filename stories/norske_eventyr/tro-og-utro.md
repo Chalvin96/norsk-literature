@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "292767"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "722e6846829710ee8310db6b5775626eb78524708e94cf07458eaa60cdd225f7"
+content_sha256: "40b07587fbef5bf318a918e11520a0a2d34ac16e106820ae997c4b4311cbe633"
 ---
 
 Det var en gang to brødre. Den ene het Tro, og den andre het Utro. Tro var alltid ærlig og god mot alle. Utro var slem og full av løgn, så ingen kunne stole på det han sa.
@@ -37,7 +37,7 @@ Sent på kvelden ville Tro spise av brorens sekk. Men Utro sa nei. Han mente at 
 
 Da Utro hørte det, ble han sint. Han kastet seg over broren og stakk ut begge øynene hans. «Nå kan du finne ut om folk er tro eller utro, din blindebukk», sa han. Så løp han fra broren.
 
-Stakkars Tro. Han gikk og famlet alene gjennom den tette skogen. Han var blind og visste ikke hva han skulle gjøre. Så fikk han tak i et stort lindetre. Han tenkte at han måtte klatre opp og sitte der om natten, så ikke ville dyr skulle ta ham.
+Stakkars Tro. Han gikk og famlet alene gjennom den tette skogen. Han var blind og visste ikke hva han skulle gjøre. Så fikk han tak i et stort lindetre. Han tenkte at han måtte klatre opp og sitte der om natten, så ville dyr ikke kunne ta ham.
 
 «Når fuglene begynner å synge, blir det dag. Da får jeg prøve å famle videre», tenkte han. Så klatret han opp i lindetreet.
 
@@ -95,7 +95,7 @@ Da kongen hørte det, ble han så glad at han lovet Tro prinsessa til kone og ha
 
 Tro tok med seg et par menn til kirka. De gravde fram padda som satt under kneleskammelen ved alteret. De skar opp padda, tok ut brødet og ga det til prinsessa. Med en gang ble hun som andre folk igjen. Hun kunne både høre og snakke.
 
-Tro skulle gifte seg med prinsessa. De gjorde i stand til bryllupet, som skulle bli kjent i hele riket.
+Tro skulle gifte seg med prinsessa. De gjorde i stand bryllupet, som skulle bli kjent i hele riket.
 
 Mens de danset i bryllupet, kom en fattig gutt og ba om en matbit. Han var så fillete og elendig å se på at alle korste seg. Tro kjente ham straks igjen. Det var broren Utro.
 
@@ -109,6 +109,6 @@ Utro trengte ikke høre det to ganger. Utro tenkte at Tro hadde hatt så stor ny
 
 Han hadde ikke sittet lenge der før dyrene kom igjen. De spiste, drakk og holdt sankthansfest under treet. Da de var ferdige, foreslo reven at de skulle fortelle historier.
 
-Utro begynte å lyve, så ørene nesten falt av ham. Men bjørnen var sint. Han brummet og sa: «Noen har sladret om det vi fortalte i fjor. Derfor skal jeg ikke fortelle noen historier i kveld.»
+Utro lyttet så ivrig at ørene nesten falt av ham. Men bjørnen var sint. Han brummet og sa: «Noen har sladret om det vi fortalte i fjor. Derfor tier vi nå om det vi vet.»
 
 Så ønsket dyrene hverandre god natt og gikk hver sin vei. Utro ble ikke klokere. Det var fordi han het Utro og var utro.

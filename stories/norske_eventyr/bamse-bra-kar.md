@@ -1,6 +1,6 @@
 ---
 slug: "bamse-bra-kar"
-title: "Bamse bra-kar"
+title: "Bamse Bra-kar"
 cefr_level: "A2"
 group: "norske_eventyr"
 is_ready: true
@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "20617"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "304baeb72de4aee1bbcaedd4b0919a957d5bdc30cd4171c6c79325f475a50b6d"
+content_sha256: "b6502970b78ed9ae5a25e5c89af36a78ea885977a0fe4349b97dc081e2eff9a5"
 ---
 
 Det var en gang en bonde som dro til fjells om vinteren. Han skulle hente et lass med løv til buskapen sin. Da han kom til løvstativene, rygget han sleden med hesten tett inntil. Så gikk han opp i stativet og begynte å velte bunter med løv ned på sleden.
@@ -67,7 +67,7 @@ En stund senere møtte bonden reven.
 
 «Hva gir du for skyssen?» spurte bonden.
 
-«Du kan få mat og drikke, alt du vil», sa reven. «Du får alltid like mye fra meg som fra Bamse Bra-kar. Han pleier å ta godt betalt for skyss. Han setter seg på hesteryggen.»
+«Du kan få mat og drikke, alt du vil», sa reven. «Du får alltid like mye fra meg som fra Bamse Bra-kar. Han pleier å kreve mye når han får skyss og kaster seg opp på hesteryggen.»
 
 «Ja, du skal få skyss over fjellet», sa bonden. «Møt meg her i morgen på denne tiden.» Han skjønte at Mikkel gjorde narr av ham. Reven planla nok et påfunn.
 

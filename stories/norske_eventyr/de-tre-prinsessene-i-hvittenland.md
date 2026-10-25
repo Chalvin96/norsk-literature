@@ -12,14 +12,14 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "261449"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "79e9e21c3b00a480ce8e58d8dfac2f2f7120fbc2350b9881ded15c51422fcd3e"
+content_sha256: "5fd271e30af2d1013b361f7c9ff278cf564105774bf6e0fd94c67dfabb4bf090"
 ---
 
 Det var en gang en fisker som bodde nær slottet. Han fisket til kongens bord. En dag var han ute og fisket, men han fikk ingenting. Han prøvde alt og fisket med snøre og krok, men ikke en eneste fisk beit på. Da det led langt på dagen, dukket et hode opp av vannet. «Hvis jeg får det kona di bærer under beltet, skal du få nok fisk», sa det.
 
-Mannen sa straks ja. Han visste ikke at kona var gravid. Etter det fikk han fisk hver dag, så mye han ville ha. Om kvelden kom han hjem. Han fortalte hvordan han hadde fått all fisken. Da begynte kona å jamre seg og gråte. Hun ba Gud hjelpe og berge henne fra løftet mannen hadde gitt. Hun bar et barn under beltet, sa hun.
+Mannen sa straks ja. Han visste ikke at kona var gravid. Resten av dagen fikk han så mye fisk han ville ha. Om kvelden kom han hjem. Han fortalte hvordan han hadde fått all fisken. Da begynte kona å jamre seg og gråte. Hun ba Gud hjelpe og berge henne fra løftet mannen hadde gitt. Hun bar et barn under beltet, sa hun.
 
-Det ble snart fortalt på slottet at kona var så bedrøvet. Kongen fikk høre det og spurte hvorfor hun var lei seg. Han lovet å ta barnet til seg og prøve å redde det. Tida gikk, og da tiden var inne, fødte kona en gutt. Kongen tok gutten til seg og oppdro ham som sin egen sønn. Slik fortsatte det til gutten ble voksen.
+Det ble snart fortalt på slottet at kona var så bedrøvet. Kongen fikk høre det og spurte hvorfor hun var lei seg. Han lovet å ta barnet til seg og prøve å redde det. Tida gikk, og da tida var inne, fødte kona en gutt. Kongen tok gutten til seg og oppdro ham som sin egen sønn. Slik fortsatte det til gutten ble voksen.
 
 En dag ba gutten om å få bli med faren sin ut og fiske. Han hadde så inderlig lyst, sa han. Kongen ville helst ikke tillate det. Men til slutt fikk gutten lov. Han ble med faren sin, og det gikk godt hele dagen. Om kvelden kom de til land. Da oppdaget sønnen at han hadde glemt lommetørkleet sitt. Han ville hoppe ut i båten for å hente det.
 
@@ -57,7 +57,7 @@ Da kongen kom fram, vendte han skiene slik som dyrenes herre hadde sagt. Skiene 
 
 Kongen takket og satte seg på skiene. Da han kom fram til ham som rådde over fiskene i havet, vendte han skiene. De dro hjem igjen, akkurat som de forrige. Så spurte kongen etter Hvittenland.
 
-Mannen blåste på hornet og kalte inn fiskene. Ingen visste noe. Til slutt kom en svært gammel gjedde. Det var vanskelig å få den til å komme. Da mannen spurte den, sa den: «Jo, jeg kjenner stedet godt. Jeg har vært kokk der i ti år. I morgen skal jeg dit igjen. Da skal dronninga som kongen mistet, gifte seg med en annen.»
+Mannen blåste på hornet og kalte inn fiskene. Ingen visste noe. Til slutt kom en svært gammel gjedde. Det var vanskelig å få den til å komme. Da mannen spurte den, sa den: «Jo, jeg kjenner stedet godt. Jeg har vært kokk der i ti år. I morgen skal jeg dit igjen. Da skal dronninga som mistet kongen sin, gifte seg med en annen.»
 
 «Siden det er slik, skal jeg gi deg et råd», sa mannen. «Her borte på ei myr står det tre brødre. De har stått der i hundre år og slåss om en hatt, ei kappe og et par støvler. Den som har alle tre tingene, kan gjøre seg usynlig og ønske seg så langt av sted han vil. Si til dem at du vil prøve tingene og siden dømme mellom dem.»
 

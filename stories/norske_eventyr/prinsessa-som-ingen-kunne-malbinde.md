@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "182820"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "7be6c77e354552614e0d093c67c0a58aaf644044d3a66b02236ed2fa2413a6f9"
+content_sha256: "a6fbe2db2e74a86e02dd107b04d83982b64b096f70e8f5960a9a9866875c5156"
 ---
 
 Det var en gang en konge med ei datter. Hun var så kvikk og vrien i ord at ingen kunne målbinde henne. Kongen ga et løfte. Den som klarte det, skulle få prinsessa og halve kongeriket.
@@ -151,9 +151,9 @@ Så kom Askeladden.
 
 «Her er maken», sa han og tok fram det andre hornet.
 
-«Jeg tror du har dratt ut for å målbinde meg», sa hun.
+«Du er visst utgått for å målbinde meg?» sa hun.
 
-«Jeg har ikke gått ut, men skosålen er utslitt», svarte gutten og dro fram sålen.
+«Jeg er ikke utgått, men denne sålen er utgått», svarte gutten og dro fram sålen. Ordet «utgått» kan bety både «dratt ut» og «utslitt».
 
 Da hadde Askeladden målbundet prinsessa.
 

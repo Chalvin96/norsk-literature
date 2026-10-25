@@ -12,7 +12,7 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68323"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "23f2018c5567647c115a94b0d53bb5304f6b6c9e7fcf5f2c04169f9b3ccf3481"
+content_sha256: "8954de0bcb20dadf886bb8b0fdd0fd48d4fbbef956bb5b3ad59057d9bed75fd1"
 ---
 
 Det var en gang en fattig prins. Han hadde et lite kongerike. Likevel var det stort nok til at han kunne gifte seg der. Det var det han ville.
@@ -39,9 +39,9 @@ Prinsessen kjente på den og var nær ved å gråte.
 
 «La oss se i det andre skrinet før vi blir sinte!» mente keiseren. Så tok de fram nattergalen. Den sang så vakkert at ingen straks kunne si noe vondt om den.
 
-«Superbe! Charmant!» sa hoffdamene. De snakket alle fransk, den ene verre enn den andre.
+«Praktfullt! Sjarmerende!» sa hoffdamene. De snakket alle fransk, den ene verre enn den andre.
 
-«Den fuglen minner meg om den avdøde keiserinnens spilledåse,» sa en gammel hoffmann. «Akk ja! Det er akkurat samme tone. Det er samme fremføring!»
+«Den fuglen minner meg om den avdøde keiserinnens spilledåse», sa en gammel hoffmann. «Akk ja! Det er akkurat samme tone. Det er samme fremføring!»
 
 «Ja!» sa keiseren og gråt som et lite barn.
 
@@ -73,11 +73,11 @@ En av hoffdamene måtte løpe inn, men hun tok på seg tresko.
 
 «Gud bevare oss!» sa hoffdamen.
 
-«Ja, det kan ikke være mindre,» svarte svinegjeteren.
+«Ja, det kan ikke være mindre», svarte svinegjeteren.
 
 «Han er frekk!» sa prinsessen og gikk. Men da hun hadde gått et lite stykke, ringte bjellene så vakkert.
 
-«Hør,» sa prinsessen. «Spør ham om han vil ha ti kyss av hoffdamene mine!»
+«Hør», sa prinsessen. «Spør ham om han vil ha ti kyss av hoffdamene mine!»
 
 «Nei takk!» sa svinegjeteren. «Ti kyss av prinsessen, ellers beholder jeg gryta.»
 
@@ -105,7 +105,7 @@ Svinegjeteren, som egentlig var prinsen, lot ikke en dag gå uten å arbeide. De
 
 «Det er bare tull!» sa prinsessen. «Hvis jeg kan kysse ham, kan dere også! Husk at jeg gir dere mat og lønn.» Så måtte hoffdamen gå inn til ham igjen.
 
-«Hundre kyss av prinsessen,» sa han, «ellers beholder jeg ranglen.»
+«Hundre kyss av prinsessen», sa han, «ellers beholder jeg ranglen.»
 
 «Stå foran!» sa hun. Alle hoffdamene stilte seg foran henne, og så kysset han prinsessen.
 
@@ -123,4 +123,4 @@ Svinegjeteren gikk bak et tre. Han tørket ansiktet og fjernet det brune og svar
 
 «Jeg har begynt å forakte deg!» sa han. «Du ville ikke ha en ærlig prins. Du forsto deg ikke på rosen og nattergalen. Men du kysset svinegjeteren for et leketøy! Nå kan du ha det så godt!»
 
-Så gikk han inn i sitt eget kongerike. Han lukket døra for henne. Da kunne hun riktig synge:
+Så gikk han inn i sitt eget kongerike. Han lukket døra for henne. Da kunne hun riktig synge.

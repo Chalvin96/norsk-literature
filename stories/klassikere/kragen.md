@@ -12,7 +12,7 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68257"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "cf25a9dd4a042e189ee6937ea018cc16a70698f39fe82a79911780d1f01bb397"
+content_sha256: "5cbc76c6559a59dcf31c2f4656c6ec33d1afd6f7f6d9584c2d82a3a1df5eaeab"
 ---
 
 Det var en gang en fin kavaler. Hele innboet hans var en støvelknekt og en kam. Men han hadde verdens fineste krage. Nå skal vi høre en historie om kragen. Han var blitt så gammel at han tenkte på å gifte seg. Så traff han et strømpebånd i vasken.
@@ -29,7 +29,7 @@ Strømpebåndet var så sjenert at det syntes det var merkelig å svare på.
 
 «Du må ikke snakke til meg», sa strømpebåndet. «Jeg synes ikke jeg har gitt deg noen grunn til det.»
 
-«Jo, når man er så vakker som deg», sa kragen. «Det er grunn nok!»
+«Jo, når man er så vakker som du», sa kragen. «Det er grunn nok!»
 
 «Kom ikke så nær meg», sa strømpebåndet. «Du ser så mandig ut!»
 
@@ -41,9 +41,9 @@ Strømpebåndet var så sjenert at det syntes det var merkelig å svare på.
 
 «Frue!» sa kragen. «Lille enke! Nå blir jeg helt varm. Jeg blir en annen. Jeg kommer helt ut av foldene mine. Du brenner hull i meg! Å, jeg frir til deg!»
 
-«Sss!» sa strykejernet. Det gikk stolt over kragen. Jernet trodde selv det var en dampkjele som skulle ut på jernbanen og trekke vogner.
+«Din fille!» sa strykejernet. Det gikk stolt over kragen. Jernet trodde selv det var en dampkjele som skulle ut på jernbanen og trekke vogner.
 
-«Sss!» sa det igjen. Kragen frynset litt i kantene. Da kom papirsaksa for å klippe bort frynsene.
+«Din fille!» sa det igjen. Kragen frynset litt i kantene. Da kom papirsaksa for å klippe bort frynsene.
 
 «Å!» sa kragen. «Du er vel førstedanserinnen! Så fint du kan strekke beina. Det er det vakreste jeg har sett. Ingen kan gjøre det etter deg!»
 

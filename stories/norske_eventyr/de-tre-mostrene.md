@@ -12,10 +12,10 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "261497"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "e759510cdf8abf7c310242da48e31bffc43ba2d2dbba4c2978e04dadf35b087d"
+content_sha256: "8da9886f83558aa9a3e380871c5986fd17b3a02f699a5b36b45d3313d6144d7b"
 ---
 
-Det var en gang en fattig mann som bodde i ei stue langt inne i skogen. Han levde av jakt. Han hadde bare én datter, og hun var svært vakker. Moren døde tidlig, og jenta var da halvvoksen. Da sa hun at hun ville dra ut blant folk. Hun ville også lære å tjene sitt eget brød.
+Det var en gang en fattig mann som bodde i ei stue langt inne i skogen. Han levde av jakt. Han hadde bare én datter, og hun var svært vakker. Mora hadde dødd tidlig. Nå var jenta halvvoksen. Da sa hun at hun ville dra ut blant folk. Hun ville også lære å tjene sitt eget brød.
 
 «Ja, datter», sa faren. «Du har riktignok ikke lært annet av meg enn å plukke fjær av fugl og steke den. Men du får prøve å tjene til brødet ditt likevel.»
 
@@ -23,7 +23,7 @@ Så gikk jenta ut for å be om tjeneste. Etter en stund kom hun til kongsgården
 
 «Har du sagt det, må du gjøre det», sa dronningen. «Men du kan få litt mer tid.»
 
-Stakkars jenta våget ikke si at hun aldri hadde spunnet før. Hun ba om et rom for seg selv. Det fikk hun. De bar en rokk og lin dit. Der satt hun og gråt. Hun var lei seg og visste ikke hva hun skulle gjøre. Hun prøvde med rokken. Hun vred og snudde på den, men visste ikke hvordan hun skulle bruke den. Hun hadde aldri engang sett en spinnrok.
+Stakkars jenta våget ikke si at hun aldri hadde spunnet før. Hun ba om et rom for seg selv. Det fikk hun. De bar en rokk og lin dit. Der satt hun og gråt. Hun var lei seg og visste ikke hva hun skulle gjøre. Hun prøvde med rokken. Hun vred og snudde på den, men visste ikke hvordan hun skulle bruke den. Hun hadde aldri engang sett en spinnrokk.
 
 Mens hun satt slik, kom en gammel kone inn til henne. «Hva er det som plager deg, barnet mitt?» spurte hun.
 
@@ -33,7 +33,7 @@ Mens hun satt slik, kom en gammel kone inn til henne. «Hva er det som plager de
 
 Jenta tenkte at hun like gjerne kunne fortelle det. Så fortalte hun at de andre tjenestejentene hadde funnet på at hun hadde lovet å spinne ett pund lin på tjuefire timer.
 
-«Og jeg, stakkars meg, har aldri i mitt liv sett en spinnrok. Jeg kan enda mindre spinne så mye på ett døgn.»
+«Og jeg, stakkars meg, har aldri i mitt liv sett en spinnrokk. Jeg kan enda mindre spinne så mye på ett døgn.»
 
 «Ja, det gjør ikke noe, barn», sa konen. «Hvis du vil kalle meg moster på den store dagen din, skal jeg spinne for deg. Så kan du gå og legge deg.»
 
@@ -59,7 +59,7 @@ Så kom enda en gammel kone til henne. Hun lovet å sy for jenta hvis jenta vill
 
 Om morgenen våknet hun. Moster hadde sydd bunken om til skjorter. Jenta fant skjortene på bordet. Ingen hadde noen gang sett så vakre sømmer. Skjortene hadde navn på seg og var helt ferdige.
 
-Da dronningen fikk se arbeidet, ble hun så glad for sømmene at hun slo hendene sammen. «Jeg har aldri hatt eller sett så vakre sømmer», sa hun. Etter dette var jenta like kjær for henne som hennes eget barn.
+Da dronningen fikk se arbeidet, ble hun så glad for sømmene at hun slo hendene sammen. «Jeg har aldri hatt eller sett så vakre sømmer», sa hun. Etter dette holdt dronningen like mye av jenta som av sitt eget barn.
 
 «Hvis du nå vil ha prinsen, skal du få ham», sa dronningen til jenta. «Du trenger aldri å leie noen til å gjøre arbeid. Du kan sy, spinne og veve alt selv.»
 
@@ -75,7 +75,7 @@ Like etter kom enda en gammel, stygg kjerring inn. Hun hadde en bak så tykk og 
 
 Men hun hadde knapt satt seg før enda en gammel, stygg kjerring kom inn. Øynene hennes var så store som tallerkener. De var så røde og rant så mye at det var fælt å se på.
 
-Bruda reiste seg igjen og hilste: «God dag, moster!» Prinsen ba også henne sette seg ved bordet. Men han var ikke glad. Han tenkte: «Gud hjelpe meg med alle tantene bruda mi har!»
+Bruda reiste seg igjen og hilste: «God dag, moster!» Prinsen ba også henne sette seg ved bordet. Men han var ikke glad. Han tenkte: «Gud hjelpe meg med alle mostrene bruda mi har!»
 
 Etter å ha sittet en stund klarte han ikke å holde seg lenger. «Hvordan kan bruda mi, som er så vakker, ha så fæle og vanskapte mostre?» spurte han.
 
