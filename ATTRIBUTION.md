@@ -3991,3 +3991,269 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Apen og fiskerne
+
+- File: `stories/moderne_fabler/apen-og-fiskerne.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## De reisende ved sjøen
+
+- File: `stories/moderne_fabler/de-reisende-ved-sjoen.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## De to hundene
+
+- File: `stories/moderne_fabler/de-to-hundene.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## De to reisende og øksa
+
+- File: `stories/moderne_fabler/de-to-reisende-og-oksa.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## De tre håndverkerne
+
+- File: `stories/moderne_fabler/de-tre-handverkerne.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Den gamle jakthunden
+
+- File: `stories/moderne_fabler/den-gamle-jakthunden.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Den gamle kona og vinkrukka
+
+- File: `stories/moderne_fabler/den-gamle-kona-og-vinkrukka.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Den gamle løven
+
+- File: `stories/moderne_fabler/den-gamle-loven.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Den syke glenten
+
+- File: `stories/moderne_fabler/den-syke-glenten.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Det lekne eselet
+
+- File: `stories/moderne_fabler/det-lekne-eselet.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Elvene og havet
+
+- File: `stories/moderne_fabler/elvene-og-havet.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Enka og sauen
+
+- File: `stories/moderne_fabler/enka-og-sauen.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Gjeteren og havet
+
+- File: `stories/moderne_fabler/gjeteren-og-havet.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Hjortehinda med ett øye
+
+- File: `stories/moderne_fabler/hjortehinda-med-ett-oye.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Musa, frosken og hauken
+
+- File: `stories/moderne_fabler/musa-frosken-og-hauken.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Svanen og gåsa
+
+- File: `stories/moderne_fabler/svanen-og-gasa.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Ulven og sauen
+
+- File: `stories/moderne_fabler/ulven-og-sauen.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Ulven og vakthunden
+
+- File: `stories/moderne_fabler/ulven-og-vakthunden.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Villsvinet og reven
+
+- File: `stories/moderne_fabler/villsvinet-og-reven.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
