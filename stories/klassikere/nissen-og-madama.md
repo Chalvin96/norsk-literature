@@ -12,7 +12,7 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68289"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "6f7f4547e566faa8b613bedecde28bdd85d69c7f9b73e16e3e33f6229e428726"
+content_sha256: "99c5c3932916b3f10726a5dfe592b69e3c41dd08b54953258805aac7fca7f426"
 ---
 
 Du kjenner nissen, men kjenner du madama, gartnerens kone? Hun hadde lest mye og kunne mange vers utenat. Hun kunne også skrive vers selv, uten vansker. Bare rimene, som hun kalte «klinkning», var litt vanskelige. Hun var flink til å skrive og tale. Hun kunne ha blitt prest, eller i det minste prestekone.
@@ -23,13 +23,13 @@ Seminaristen Kisserup var søskenbarn av gartneren. Han var på besøk hos gartn
 
 «Tøv!» sa gartneren. «Ikke putt sånt i hodet på henne! En kone skal være kropp, en ordentlig kropp. Hun skal passe gryta, så grøten ikke svir seg.»
 
-«Det svidde tar jeg bort med en glødende vedbit,» sa madama. «Og et lite kyss tar det brente bort fra deg. Man skulle tro du bare tenkte på kål og poteter. Likevel er du glad i blomstene!» Så kysset hun ham. «Blomstene er ånden!» sa hun.
+«Det svidde tar jeg bort med en glødende vedbit», sa madama. «Og et lite kyss tar det brente bort fra deg. Man skulle tro du bare tenkte på kål og poteter. Likevel er du glad i blomstene!» Så kysset hun ham. «Blomstene er ånden!» sa hun.
 
 «Pass gryta di!» sa han og gikk ut i hagen. Hagen var gryta hans, og den passet han på.
 
 Men seminaristen satt hos madama og snakket med henne. Han holdt nærmest en hel preken på sin egen måte. Han brukte de fine ordene hennes: «Jorda er vakker».
 
-«Vi skulle gjøre jorda underdanig, het det. Slik ble vi herrer,» sa han. «Én blir det gjennom ånden, en annen gjennom kroppen. Noen kommer til verden som et utropstegn fullt av undring. Andre kommer som en tankestrek. Da kan man spørre: Hva skulle han her? Én blir biskop, en annen bare en fattig seminarist. Men alt er klokt ordnet. Jorda er vakker og alltid kledd til søndag! Madamas dikt var tankevekkende, fullt av følelser og geografi.»
+«Vi skulle gjøre jorda underdanig, het det. Slik ble vi herrer», sa han. «Én blir det gjennom ånden, en annen gjennom kroppen. Noen kommer til verden som et utropstegn fullt av undring. Andre kommer som en tankestrek. Da kan man spørre: Hva skulle han her? Én blir biskop, en annen bare en fattig seminarist. Men alt er klokt ordnet. Jorda er vakker og alltid kledd til søndag! Madamas dikt var tankevekkende, fullt av følelser og geografi.»
 
 «De har ånd, herr Kisserup!» sa madama. «Mye ånd, det forsikrer jeg Dem om! Jeg forstår meg selv bedre når jeg snakker med Dem.»
 
@@ -45,9 +45,9 @@ Nissen blåste på ilden, og den blusset opp. «Surre-rurre-rup!» Gryta kokte o
 
 Katten nøs. Den var forkjølet, enda den alltid gikk med pels.
 
-«Jeg har åpnet døra til spiskammeret,» sa nissen. «Der står det fløte på glass, tykk som melgrøt. Du kan slikke fløten. Hvis du ikke vil, gjør jeg det!»
+«Jeg har åpnet døra til spiskammeret», sa nissen. «Der står det fløte på glass, tykk som melgrøt. Du kan slikke fløten. Hvis du ikke vil, gjør jeg det!»
 
-«Jeg får skylda og juling uansett. Da får jeg også slikke fløten,» sa katten.
+«Jeg får skylda og juling uansett. Da får jeg også slikke fløten», sa katten.
 
 «Først fløten, så julingen!» sa nissen. «Men nå skal jeg inn på rommet til seminaristen. Jeg skal henge bukseselene hans på speilet og legge sokkene i vaskefatet. Da tror han at punchen har vært for sterk, og at han er svimmel. I natt satt jeg på vedstabelen ved hundehuset. Jeg liker å erte lenkehunden. Jeg lot beina henge og dingle. Hunden nådde dem ikke, uansett hvor høyt den hoppet. Det ergret den. Den bjeffet og bjeffet, og jeg dinglet med beina. For et spetakkel! Seminaristen våknet av det. Han sto opp tre ganger og kikket ut. Men han så meg ikke, selv om han hadde briller på. Han sover alltid med brillene på.»
 

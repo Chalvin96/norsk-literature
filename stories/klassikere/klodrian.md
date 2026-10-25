@@ -12,10 +12,10 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68292"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "abd7b2448811d9d5095cc4f1e8dcaf85dc223a0ae3b55f2d5730753e1fa33d33"
+content_sha256: "823cb7191a2fd893fb3ed5724858afb0a06e328acb336f369a29295323e2d084"
 ---
 
-Ute på landet lå det en gammel gård. Der bodde en gammel herremann med to sønner. De var så kloke at halvparten ville vært nok. De ville fri til kongens datter. Hun hadde kunngjort at hun ville gifte seg med den beste taleren. Derfor våget de å fri.
+Ute på landet lå det en gammel gård. Der bodde en gammel herremann med to sønner. De var så kloke at halvparten ville ha vært nok. De ville fri til kongens datter. Hun hadde kunngjort at hun ville gifte seg med den beste taleren. Derfor våget de å fri.
 
 De to brødrene forberedte seg i åtte dager. Det var den lengste tiden de hadde. Det holdt, for de hadde forkunnskaper, og de var nyttige. Den ene kunne hele den latinske ordboka utenat. Han kunne også byens aviser fra tre år, både forlengs og baklengs. Den andre kjente alle laugslovene og alt en oldermann måtte vite. Derfor kunne han snakke om staten, mente han. Han kunne også brodere seler, for han var fin og fingernem.
 

@@ -12,7 +12,7 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68281"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "aed337d4da4534874297ab8d49e3bb6a72d2f5444525bb7172e1e3061ebf140e"
+content_sha256: "1e6a096b7a4978e13173847ee58ececa22c5b0dc4169a1c59c67068e461e09d7"
 ---
 
 Har du noen gang sett et virkelig gammelt treskap? Det er helt svart av alder. Slyngninger og løvverk dekker det. Et slikt skap sto i en dagligstue. Familien hadde arvet det fra oldemoren. Rosene og tulipanene gikk fra øverst til nederst på skapet. De merkeligste mønstrene slynget seg mellom dem. Små hjorter stakk hodene fram med mange tagger. Midt på skapet viste utskjæringen en hel mann. Han så komisk ut, og han gliste. Det kunne ikke kalles å le. Han hadde geitebein, små horn i panna og et langt skjegg.
@@ -37,7 +37,7 @@ Gjeterjenta gråt og så på den kjære skorsteinsfeieren sin.
 
 «Bare vi kommer trygt ned fra bordet», sa hun. «Jeg blir ikke glad før vi er ute i den vide verden.»
 
-Han trøstet henne. Han viste henne hvor hun skulle sette den lille foten på de utskårne kantene. De gikk ned langs det forgylte løvverket på bordbeinet. Han brukte også stigen sin. Slik kom de ned på gulvet. Da de så bort på det gamle skapet, sto alt i opprør. Hjortene hadde stukket hodene enda lenger fram. De løftet takkerne og vred på halsene. Geitebukkebeins-overogundergeneralkrigskommandersersjanten hoppet høyt og ropte til kineseren:
+Han trøstet henne. Han viste henne hvor hun skulle sette den lille foten på de utskårne kantene. De gikk ned langs det forgylte løvverket på bordbeinet. Han brukte også stigen sin. Slik kom de ned på gulvet. Da de så bort på det gamle skapet, sto alt i opprør. Hjortene hadde stukket hodene enda lenger fram. De løftet taggene og vred på halsene. Geitebukkebeins-overogundergeneralkrigskommandersersjanten hoppet høyt og ropte til kineseren:
 
 «Nå løper de! Nå løper de!»
 
@@ -89,4 +89,4 @@ Familien lot noen lime ryggen hans. De satte inn en nagle i nakken hans. Han var
 
 «Du har visst blitt hovmodig etter at noen knuste deg», sa Geitebukkebeins-overogundergeneralkrigskommandersersjanten. «Jeg synes ikke det er noe å være så stolt av. Skal jeg få henne eller ikke?»
 
-Skorsteinsfeieren og gjeterjenta så rørende på den gamle kineseren. De var redde for at han skulle nikke. Men han kunne ikke. Det var ubehagelig for ham å fortelle en fremmed at han alltid hadde en klinke i nakken. De to porselensfigurene holdt sammen. De velsignet bestefarens klinke og var glade i hverandre til de gikk i stykker.
+Skorsteinsfeieren og gjeterjenta så rørende på den gamle kineseren. De var redde for at han skulle nikke. Men han kunne ikke. Det var ubehagelig for ham å fortelle en fremmed at han alltid hadde en nagle i nakken. De to porselensfigurene holdt sammen. De velsignet bestefarens nagle og var glade i hverandre til de gikk i stykker.

@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "292796"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "e0a7a02387a4b297dc7c2ca97641850aade4c7b496a3b58baa4e2da6035e71f4"
+content_sha256: "cb86e13f9afa86d1447f4c140575f9e8b2b4c63099f9034c3a7b4c8468c3dfd4"
 ---
 
 Det var en gang en mann med tre sønner: Per, Pål og Askeladden. Han hadde ikke annet enn sønnene, for han var så fattig at han ikke eide en nål. Derfor sa han ofte at de måtte dra ut i verden og tjene sitt eget brød. Hjemme ville de bare sulte i hjel.
@@ -135,4 +135,4 @@ Vannet fosset ut av hullet. Etter en liten stund var brønnen full til randen.
 
 Askeladden hadde felt eika som skygget for kongens vinduer. Han hadde også laget en brønn i kongsgården. Derfor fikk han prinsessa og halve riket, slik kongen hadde lovet.
 
-Det var bra for Per og Pål at de hadde mistet ørene. Ellers ville de hele tiden fått høre alle si at Askeladden ikke hadde undret seg så dumt likevel.
+Det var bra for Per og Pål at de hadde mistet ørene. Ellers ville de hele tiden ha fått høre alle si at Askeladden ikke hadde undret seg så dumt likevel.
