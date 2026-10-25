@@ -1415,3 +1415,115 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Bymusikantene fra Bremen
+
+- File: `stories/klassikere/bymusikantene-fra-bremen.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=3487286
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 3487286
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Den søte grøten
+
+- File: `stories/klassikere/den-sote-groten.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=3445434
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 3445434
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Den uartige gutten
+
+- File: `stories/klassikere/den-uartige-gutten.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=75024
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 75024
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Keiserens nye klær
+
+- File: `stories/klassikere/keiserens-nye-klaer.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68277
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68277
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Prinsessen på erten
+
+- File: `stories/klassikere/prinsessen-pa-erten.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68298
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68298
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Snømannen
+
+- File: `stories/klassikere/snomannen.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68317
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68317
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Tekannen
+
+- File: `stories/klassikere/tekannen.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68325
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68325
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
