@@ -2807,3 +2807,51 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Sneglen og rosehekken
+
+- File: `stories/klassikere/sneglen-og-rosehekken.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68318
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68318
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Sommerfuglen
+
+- File: `stories/klassikere/sommerfuglen.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68319
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68319
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Sommernarren
+
+- File: `stories/klassikere/sommernarren.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68320
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68320
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional

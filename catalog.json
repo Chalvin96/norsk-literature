@@ -5216,6 +5216,84 @@
       "history_url": "https://da.wikisource.org/w/index.php?title=Veirm%C3%B8llen&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "sneglen-og-rosehekken",
+      "source_unit_ids": [
+        "wikikilden-andersen-sneglen-og-rosenhaekken-nb"
+      ],
+      "path": "stories/klassikere/sneglen-og-rosehekken.md",
+      "title": "Sneglen og rosehekken",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 738,
+      "content_sha256": "c93cc474037cf418d0931f03b9b7ccc84dad30912b2c17667dfc92b71610a18d",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68318",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68318",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Sneglen_og_Rosenh%C3%A6kken&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "sommerfuglen",
+      "source_unit_ids": [
+        "wikikilden-andersen-sommerfuglen-nb"
+      ],
+      "path": "stories/klassikere/sommerfuglen.md",
+      "title": "Sommerfuglen",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 750,
+      "content_sha256": "34ed6746caa6fbcb4f8d725742e2eeb24a375aad25ea320f086e1df7f7e032a2",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68319",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68319",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Sommerfuglen&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "sommernarren",
+      "source_unit_ids": [
+        "wikikilden-andersen-sommergjaekken-nb"
+      ],
+      "path": "stories/klassikere/sommernarren.md",
+      "title": "Sommernarren",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1260,
+      "content_sha256": "a93a759e06b11671e135fedc0bb6f2c8a1f9d2bf6b5ed2ee89a6afceb87d1da9",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68320",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68320",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Sommergj%C3%A6kken&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
