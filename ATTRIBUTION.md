@@ -1955,3 +1955,143 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## De tre mostrene
+
+- File: `stories/norske_eventyr/de-tre-mostrene.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=261497
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 261497
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## De tre søstrene som ble tatt inn i berget
+
+- File: `stories/norske_eventyr/de-tre-sostrene-som-ble-tatt-inn-i-berget.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=292819
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 292819
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Dukken i gresset
+
+- File: `stories/norske_eventyr/dukken-i-gresset.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=261720
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 261720
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Hanen og høna i nøtteskogen
+
+- File: `stories/norske_eventyr/hanen-og-hona-i-notteskogen.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=261644
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 261644
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Høna som skulle til Dovrefjell for at ikke hele verden skulle forgå
+
+- File: `stories/norske_eventyr/hona-som-skulle-til-dovrefjell-for-at-ikke-hele-verden-skulle-forga.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=292812
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 292812
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Pål Andrestuen
+
+- File: `stories/norske_eventyr/pal-andrestuen.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=261717
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 261717
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Ravnen og svanen
+
+- File: `stories/moderne_fabler/ravnen-og-svanen.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Reven som gjeter
+
+- File: `stories/norske_eventyr/reven-som-gjeter.md`
+
+- Source: https://no.wikisource.org/w/index.php?oldid=261725
+
+- Author(s): Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.no)
+
+- Source revision: 261725
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Reven som mistet halen
+
+- File: `stories/moderne_fabler/reven-som-mistet-halen.md`
+
+- Source: https://www.gutenberg.org/ebooks/21
+
+- Author(s): Aesop
+
+- License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
