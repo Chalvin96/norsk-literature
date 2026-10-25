@@ -11,10 +11,10 @@ license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "542f820ccee2665503188ba881a61ff1c27cd64fc845c603eb8b30f3e3b5432e"
+content_sha256: "850c29b753dcb5fa7f43690e396549d4dbdc5ca3370030a757832c08d46bd0cf"
 ---
 
-To kamphaner sloss voldsomt om å herske på gårdsplassen. Til slutt jaget den ene den andre på flukt. Den tapende hanen smøg seg unna og gjemte seg i et stille hjørne.
+To kamphaner sloss voldsomt om å herske på gårdsplassen. Til slutt jaget den ene den andre på flukt. Den tapende hanen snek seg unna og gjemte seg i et stille hjørne.
 
 Vinneren fløy opp på en høy mur. Der slo han med vingene og gol stolt av all sin kraft. En ørn svevde gjennom lufta, kastet seg over ham og bar ham bort i klørne.
 

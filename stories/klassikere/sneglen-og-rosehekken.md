@@ -1,6 +1,6 @@
 ---
 slug: "sneglen-og-rosehekken"
-title: "Sneglen og rosehekken"
+title: "Sneglen og rosenhekken"
 cefr_level: "A2"
 group: "klassikere"
 is_ready: true
@@ -12,16 +12,16 @@ authors: "Hans Christian Andersen (1805–1875)"
 source_revision: "68318"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "c93cc474037cf418d0931f03b9b7ccc84dad30912b2c17667dfc92b71610a18d"
+content_sha256: "302235af5f4aa0c22f36d739834c9ff567fd164fba06cb0ce52fa8e3bfe139c3"
 ---
 
-Rundt hagen sto et gjerde av hasselbusker. Utenfor lå det åkrer og enger med kuer og sauer. Midt i hagen sto en blomstrende rosehekk. Under den satt en snegl. Den hadde mye inni seg. Den hadde seg selv.
+Rundt hagen sto et gjerde av hasselbusker. Utenfor lå det åkrer og enger med kuer og sauer. Midt i hagen sto en blomstrende rosenhekk. Under den satt en snegl. Den hadde mye inni seg. Den hadde seg selv.
 
-«Vent til min tid kommer!» sa den. «Jeg skal gjøre mer enn å sette roser, bære nøtter eller gi melk, slik kuer og sauer gjør».»
+«Vent til min tid kommer!» sa den. «Jeg skal gjøre mer enn å sette roser, bære nøtter eller gi melk, slik kuer og sauer gjør».
 
-«Jeg venter meg svært mye av deg», sa rosehekken. «Tør jeg spørre når det skjer?»
+«Jeg venter meg svært mye av deg», sa rosenhekken. «Tør jeg spørre når det skjer?»
 
-«Jeg tar meg god tid», sa sneglen. «Du har det så travelt! Slik bygger du ikke store forventninger.»
+«Jeg tar meg god tid», sa sneglen. «Du har det så travelt! Slik skaper du ikke store forventninger.»
 
 Neste år lå sneglen omtrent på samme sted, i solskinnet under rosebusken. Rosebusken satte knopper og foldet ut roser, alltid friske og nye. Sneglen krøp halvt fram, strakte ut følehornene og trakk dem inn igjen.
 
@@ -33,15 +33,15 @@ Så begynte et nytt år. Rosene kom fram, og sneglen kom fram.
 
 «Nå er du en gammel rosebusk», sa den. «Du må snart visne bort. Du har gitt verden alt du hadde i deg. Om det betydde noe, var et spørsmål jeg ikke hadde tid til å tenke på. Men det er tydelig at du ikke har gjort noe for din indre vekst. Ellers ville noe annet ha kommet fram fra deg. Kan du forsvare det? Snart er du bare en pinne! Forstår du det jeg sier?»
 
-«Du skremmer meg», sa rosehekken. «Det har jeg aldri tenkt på.»
+«Du skremmer meg», sa rosenhekken. «Det har jeg aldri tenkt på.»
 
 «Nei, du har nok aldri brukt mye tid på å tenke! Har du noen gang prøvd å finne grunnen til at du blomstret? Og har du sett på måten det skjedde på? Nettopp slik, og ikke på noen annen måte?»
 
-«Nei», sa rosehekken. «Jeg blomstret av lykke, for jeg kunne ikke gjøre noe annet. Sola var så varm, og lufta var så frisk. Jeg drakk den klare duggen og det kraftige regnet. Jeg pustet, jeg levde! En kraft kom opp i meg fra jorda, og en kraft kom ovenfra. Jeg kjente en lykke som alltid var ny og stor. Derfor måtte jeg alltid blomstre. Det var livet mitt. Jeg kunne ikke gjøre noe annet!»
+«Nei», sa rosenhekken. «Jeg blomstret av lykke, for jeg kunne ikke gjøre noe annet. Sola var så varm, og lufta var så frisk. Jeg drakk den klare duggen og det kraftige regnet. Jeg pustet, jeg levde! En kraft kom opp i meg fra jorda, og en kraft kom ovenfra. Jeg kjente en lykke som alltid var ny og stor. Derfor måtte jeg alltid blomstre. Det var livet mitt. Jeg kunne ikke gjøre noe annet!»
 
 «Du har levd et svært behagelig liv», sa sneglen.
 
-«Det er sant! Jeg fikk alt», sa rosehekken. «Men du fikk enda mer! Du er en av dem som tenker dypt. Du har fått store evner og kommer til å overraske verden.»
+«Det er sant! Jeg fikk alt», sa rosenhekken. «Men du fikk enda mer! Du er en av dem som tenker dypt. Du har fått store evner og kommer til å overraske verden.»
 
 «Det har jeg slett ikke tenkt å gjøre», sa sneglen. «Verden angår ikke meg! Jeg har ingenting med verden å gjøre. Jeg har nok med meg selv og nok inni meg selv.»
 
@@ -57,6 +57,6 @@ Rosebusken blomstret uskyldig, og sneglen lå lat i huset sitt. Verden angikk ik
 
 Årene gikk.
 
-Sneglen ble jord i jorda, og rosebusken ble jord i jorda. Også minnerosen i salmeboka hadde visnet bort. Men nye rosehekker blomstret i hagen, og nye snegler vokste fram. De krøp inn i husene sine og spyttet. Verden angikk ikke dem.
+Sneglen ble jord i jorda, og rosebusken ble jord i jorda. Også minnerosen i salmeboka hadde visnet bort. Men nye rosenhekker blomstret i hagen, og nye snegler vokste fram. De krøp inn i husene sine og spyttet. Verden angikk ikke dem.
 
 Skal vi lese historien om igjen fra begynnelsen? Den blir ikke annerledes.

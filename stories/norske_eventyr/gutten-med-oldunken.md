@@ -12,7 +12,7 @@ authors: "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)
 source_revision: "21381"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
-content_sha256: "8e1b02a17ddb2d80b3b388e6b5aa76c757ad0ab6cb86bc9c6c14e9ceaf77fc5b"
+content_sha256: "794e4552ae33a64231ad2c28ad673566951944aa502fcc68b1b77561fa65aa7b"
 ---
 
 Det var en gang en gutt som hadde arbeidet lenge hos en mann nordpå. Denne mannen var svært flink til å brygge øl. Ølet smakte så godt at ingen kunne lage maken. Da gutten skulle dra, ville mannen betale lønna han hadde tjent. Gutten ville ikke ha annet enn en dunk med juleøl. Han fikk den og dro av gårde.
@@ -101,4 +101,4 @@ Men de sa at gutten måtte redde henne, selv om det skulle koste land og rike. G
 
 Døden ga ham lov. Men gutten passet nøye på å ikke lese Herrens bønn. Han leste alt annet. Fadervår kom aldri på tunga hans. Til slutt trodde han at han virkelig hadde lurt Døden.
 
-Men Døden syntes gutten brukte for lang tid. En natt gikk han dit og hang opp en stor tavle med Fadervår skrevet på. Han hengte den over senga til gutten. Da gutten våknet, begynte han å lese teksten. Han skjønte ikke riktig hva han leste før han kom til «amen». Men da var det for sent.
+Men Døden syntes gutten brukte for lang tid. En natt gikk han dit og hengte opp en stor tavle med Fadervår skrevet på. Han hengte den over senga til gutten. Da gutten våknet, begynte han å lese teksten. Han skjønte ikke riktig hva han leste før han kom til «amen». Men da var det for sent.
