@@ -5142,6 +5142,54 @@
       "rights_status": "cleared",
       "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "eselet-og-muldyret",
+      "source_unit_ids": [
+        "pg21-ass-mule-nb"
+      ],
+      "path": "stories/moderne_fabler/eselet-og-muldyret.md",
+      "title": "Eselet og muldyret",
+      "language": "nb",
+      "group": "moderne_fabler",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 138,
+      "content_sha256": "9580aba75378476f1da34ea4127d6466e6c8977fe2704d9f1f9e9de1417d210f",
+      "source_url": "https://www.gutenberg.org/ebooks/21",
+      "authors": "Aesop",
+      "license": "Public domain in USA; other jurisdictions require review",
+      "license_url": "https://www.gutenberg.org/policy/permission",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "geitegjeteren-og-villgeitene",
+      "source_unit_ids": [
+        "pg21-goatherd-wild-goats-nb"
+      ],
+      "path": "stories/moderne_fabler/geitegjeteren-og-villgeitene.md",
+      "title": "Geitegjeteren og villgeitene",
+      "language": "nb",
+      "group": "moderne_fabler",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 179,
+      "content_sha256": "176a38365347668c1054dfae5e90941a06b0e813254c4349b81bed4448313d09",
+      "source_url": "https://www.gutenberg.org/ebooks/21",
+      "authors": "Aesop",
+      "license": "Public domain in USA; other jurisdictions require review",
+      "license_url": "https://www.gutenberg.org/policy/permission",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
