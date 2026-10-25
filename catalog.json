@@ -6062,6 +6062,32 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/25&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "askeladden-som-fikk-prinsessen-til-a-lyve",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-huldre-1896-29-nb"
+      ],
+      "path": "stories/norske_eventyr/askeladden-som-fikk-prinsessen-til-a-lyve.md",
+      "title": "Askeladden som fikk prinsessen til å lyve",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 433,
+      "content_sha256": "1b00bf58c2c04fb46ff7244c9fd0332f319a4c036ca92a1c981455ef931de2fc",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=128305",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "128305",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
