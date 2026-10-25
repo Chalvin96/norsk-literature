@@ -3216,6 +3216,32 @@
       "history_url": "https://da.wikisource.org/w/index.php?title=Svinedrengen&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "mor-hulda",
+      "source_unit_ids": [
+        "wikikilden-grimm-frau-holle-nb"
+      ],
+      "path": "stories/klassikere/mor-hulda.md",
+      "title": "Mor Hulda",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 959,
+      "content_sha256": "383ca129fecc230ea90e45dda7d6816b20acc66fbedbb5d5db601b55bf106167",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=2006148",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "2006148",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Frau_Holle_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
