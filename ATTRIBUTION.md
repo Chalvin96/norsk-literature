@@ -3345,3 +3345,51 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Fru Trude
+
+- File: `stories/klassikere/fru-trude.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=2080777
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 2080777
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Hans i lykken
+
+- File: `stories/klassikere/hans-i-lykken.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=1644517
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 1644517
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Kloke Else
+
+- File: `stories/klassikere/kloke-else.md`
+
+- Source: https://de.wikisource.org/w/index.php?oldid=3525662
+
+- Author(s): Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- Source revision: 3525662
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional

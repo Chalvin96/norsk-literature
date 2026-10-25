@@ -6114,6 +6114,84 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/31&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "fru-trude",
+      "source_unit_ids": [
+        "wikikilden-grimm-frau-trude-nb"
+      ],
+      "path": "stories/klassikere/fru-trude.md",
+      "title": "Fru Trude",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 269,
+      "content_sha256": "30557f6d877a978ca650833770f5af4444d3065a4823d852693f1bab38dd4da3",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=2080777",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "2080777",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Frau_Trude_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "hans-i-lykken",
+      "source_unit_ids": [
+        "wikikilden-grimm-hans-im-glueck-nb"
+      ],
+      "path": "stories/klassikere/hans-i-lykken.md",
+      "title": "Hans i lykken",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1533,
+      "content_sha256": "d85014e02aac929453159bc0f3eb417f0ca9f16dcb3cf8a302883dd5f6ca6754",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=1644517",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "1644517",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Hans_im_Gl%C3%BCck_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "kloke-else",
+      "source_unit_ids": [
+        "wikikilden-grimm-die-kluge-else-nb"
+      ],
+      "path": "stories/klassikere/kloke-else.md",
+      "title": "Kloke Else",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1103,
+      "content_sha256": "0b4fc01963cb9d168c4920477ffa47fa8a07cd9979f4b3cffb7a98e1fe6a6712",
+      "source_url": "https://de.wikisource.org/w/index.php?oldid=3525662",
+      "authors": "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "3525662",
+      "history_url": "https://de.wikisource.org/w/index.php?title=Die_kluge_Else_%281857%29&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
