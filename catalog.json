@@ -4632,6 +4632,58 @@
       "history_url": "https://da.wikisource.org/w/index.php?title=Stoppenaalen&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "pannekaka",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-huldre-1896-09-nb"
+      ],
+      "path": "stories/norske_eventyr/pannekaka.md",
+      "title": "Pannekaka",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 879,
+      "content_sha256": "a9e05fdae50fcaa0127ab363aa93125a4ea570220970bb4a83aeaa57c1eb694b",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=65313",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "65313",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/9&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "skarvene-fra-udrost",
+      "source_unit_ids": [
+        "wikikilden-asbjornsen-huldre-1896-07-nb"
+      ],
+      "path": "stories/norske_eventyr/skarvene-fra-udrost.md",
+      "title": "Skarvene fra Udrøst",
+      "language": "nb",
+      "group": "norske_eventyr",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1680,
+      "content_sha256": "307f90acd34769d4a598a4a6020c8c825fdd227562495749ed8c7e40c87b2a13",
+      "source_url": "https://no.wikisource.org/w/index.php?oldid=65269",
+      "authors": "Peter Christen Asbjørnsen (1812–1885) and Jørgen Moe (1813–1882)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.no",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "65269",
+      "history_url": "https://no.wikisource.org/w/index.php?title=Norske_Folke-_og_Huldre-eventyr/7&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
