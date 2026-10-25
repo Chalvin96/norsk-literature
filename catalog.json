@@ -7646,6 +7646,30 @@
       "rights_status": "cleared",
       "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "villeslet-og-loven",
+      "source_unit_ids": [
+        "pg21-wild-ass-and-the-lion-nb"
+      ],
+      "path": "stories/moderne_fabler/villeslet-og-loven.md",
+      "title": "Villeslet og løven",
+      "language": "nb",
+      "group": "moderne_fabler",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 109,
+      "content_sha256": "94a5385ec1210a2ab5459767d35df75657462b31d9827c04eb0b41b1bcac9f7f",
+      "source_url": "https://www.gutenberg.org/ebooks/21",
+      "authors": "Aesop",
+      "license": "Public domain in USA; other jurisdictions require review",
+      "license_url": "https://www.gutenberg.org/policy/permission",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
