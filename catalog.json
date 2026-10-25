@@ -6686,6 +6686,30 @@
       "history_url": "https://no.wikisource.org/w/index.php?title=H%C3%A5rsl%C3%A5_som_aldri_vilde_hjem_g%C3%A5&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "mannen-og-slangen",
+      "source_unit_ids": [
+        "pg21-laborer-snake-nb"
+      ],
+      "path": "stories/moderne_fabler/mannen-og-slangen.md",
+      "title": "Mannen og slangen",
+      "language": "nb",
+      "group": "moderne_fabler",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 134,
+      "content_sha256": "4c970aa8dd9282b1b69ad9d27e6a894fd1f7d825b2b1afcfb97aafae240551c2",
+      "source_url": "https://www.gutenberg.org/ebooks/21",
+      "authors": "Aesop",
+      "license": "Public domain in USA; other jurisdictions require review",
+      "license_url": "https://www.gutenberg.org/policy/permission",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "license_evidence_url": "https://www.gutenberg.org/ebooks/21",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
