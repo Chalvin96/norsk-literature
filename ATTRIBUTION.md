@@ -1575,3 +1575,35 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
 - Review status: ai_reviewed_provisional
+
+## Den standhaftige tinnsoldaten
+
+- File: `stories/klassikere/den-standhaftige-tinnsoldaten.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68241
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68241
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional
+
+## Svinegjeteren
+
+- File: `stories/klassikere/svinegjeteren.md`
+
+- Source: https://da.wikisource.org/w/index.php?oldid=68323
+
+- Author(s): Hans Christian Andersen (1805–1875)
+
+- License: Creative Commons Attribution-Share Alike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.da)
+
+- Source revision: 68323
+
+- Changes: Machine translation into Bokmål; not native-editor approved.
+
+- Review status: ai_reviewed_provisional

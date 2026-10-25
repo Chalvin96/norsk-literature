@@ -3164,6 +3164,58 @@
       "history_url": "https://de.wikisource.org/w/index.php?title=Der_Wolf_und_die_sieben_jungen_Geislein_%281857%29&action=history",
       "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
       "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "den-standhaftige-tinnsoldaten",
+      "source_unit_ids": [
+        "wikikilden-andersen-den-standhaftige-tinsoldat-nb"
+      ],
+      "path": "stories/klassikere/den-standhaftige-tinnsoldaten.md",
+      "title": "Den standhaftige tinnsoldaten",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1308,
+      "content_sha256": "9c0fe672baedf86a4a84d05baa49204721ea13d7c1b9dc9e42e708cf253cfa6a",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68241",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68241",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Den_standhaftige_Tinsoldat&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
+    },
+    {
+      "id": "svinegjeteren",
+      "source_unit_ids": [
+        "wikikilden-andersen-svinedrengen-nb"
+      ],
+      "path": "stories/klassikere/svinegjeteren.md",
+      "title": "Svinegjeteren",
+      "language": "nb",
+      "group": "klassikere",
+      "cefr_level": "A2",
+      "level_status": "provisional",
+      "is_ready": true,
+      "word_count": 1204,
+      "content_sha256": "23f2018c5567647c115a94b0d53bb5304f6b6c9e7fcf5f2c04169f9b3ccf3481",
+      "source_url": "https://da.wikisource.org/w/index.php?oldid=68323",
+      "authors": "Hans Christian Andersen (1805–1875)",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.da",
+      "review_status": "ai_reviewed_provisional",
+      "publication_status": "approved",
+      "rights_status": "cleared",
+      "source_revision": "68323",
+      "history_url": "https://da.wikisource.org/w/index.php?title=Svinedrengen&action=history",
+      "license_evidence_url": "https://no.wikisource.org/wiki/Hjelp:Opphavsrett",
+      "changes": "Machine translation into Bokmål; not native-editor approved."
     }
   ]
 }
