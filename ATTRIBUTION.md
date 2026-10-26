@@ -240,7 +240,7 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Review status: awaiting_translation
 
-## Alice in Wonderland
+## Alice i Eventyrland
 
 - File: `stories/klassikere/pg11-alice-wonderland.md`
 
@@ -250,9 +250,9 @@ Each story keeps its own source license. The repository license does not overrid
 
 - License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
 
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
+- Changes: Translated into contemporary Bokmål with shorter sentences and adapted wordplay. Initial translation by Claude Opus 5.5; focused editorial corrections by Claude Sonnet 5.5; independent whole-book review by GLM-5.3. AI-reviewed provisional; not native-editor approved or CEFR-certified.
 
-- Review status: awaiting_translation
+- Review status: ai_reviewed_provisional
 
 ## Treasure Island
 
