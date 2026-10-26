@@ -21,6 +21,9 @@ source_revision: "25945223"
 translation_status: "source_text_ungraded"
 level_status: "ungraded"
 content_sha256: "90845815e4d2d12409512d4ecc7a44425935cb0582faf2f80e1c8a36444c1c2e"
+audio_url: "https://media.umebocchi.my.id/audio/stories/vafler/67e1e166d71101c83f1c3a7529a566bf.mp3"
+sentence_timings: [["s-d6e9955eb43f", 190, 6366], ["s-dc2e8ee93708", 6386, 11951], ["s-477f94530dc6", 12161, 18437], ["s-6cb04e6b8555", 18477, 21560], ["s-d4ccc38ad179", 22571, 32880], ["s-3afad683e32e", 33800, 40724], ["s-ead4c4060b03", 40784, 46587], ["s-8546befd1b50", 46807, 51910], ["s-73e70c3d0e22", 51950, 54311], ["s-fd4160b9af21", 54471, 62075], ["s-2e9ee4b4c228", 62115, 66497], ["s-74f703e55ce0", 66537, 71040], ["s-565f42e788dc", 72280, 80546], ["s-24684e63851a", 80576, 83168], ["s-cc5fc811b318", 83198, 87871], ["s-9093ebfe403a", 87891, 92814], ["s-77215af3c57f", 92834, 101560], ["s-9adbac18788a", 102521, 107528], ["s-3e4a44070fa2", 109492, 114119], ["s-8af56c9b484e", 115771, 122416]]
+sentence_spans: [["s-d6e9955eb43f", 0, 71], ["s-dc2e8ee93708", 72, 132], ["s-477f94530dc6", 133, 237], ["s-6cb04e6b8555", 238, 294], ["s-d4ccc38ad179", 296, 471], ["s-3afad683e32e", 473, 582], ["s-ead4c4060b03", 583, 664], ["s-8546befd1b50", 665, 752], ["s-73e70c3d0e22", 753, 788], ["s-fd4160b9af21", 789, 924], ["s-2e9ee4b4c228", 925, 1003], ["s-74f703e55ce0", 1004, 1091], ["s-565f42e788dc", 1093, 1215], ["s-24684e63851a", 1216, 1258], ["s-cc5fc811b318", 1259, 1324], ["s-9093ebfe403a", 1325, 1400], ["s-77215af3c57f", 1401, 1536], ["s-9adbac18788a", 1538, 1616], ["s-3e4a44070fa2", 1617, 1704], ["s-8af56c9b484e", 1706, 1832]]
 ---
 
 Vafler (entall vaffel) er et bakverk med liknende basis som pannekaken. De vanligste ingrediensene er hvetemel, melk, egg og sukker. Ofte tilsettes også litt smeltet fett i form av margarin eller smør, dessuten også krydderet kardemomme. Noen tilsetter også litt bakepulver eller vaniljesukker.

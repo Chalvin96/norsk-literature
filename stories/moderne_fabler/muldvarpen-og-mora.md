@@ -12,6 +12,9 @@ authors: "Aesop"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
 content_sha256: "2d9a754c958562a860b4432d25a821ba044502b9ae5ef3ac25fdc400a97b6579"
+audio_url: "https://media.umebocchi.my.id/audio/stories/muldvarpen-og-mora/c0f84eb215731b72c57ddbea1879613e.mp3"
+sentence_timings: [["s-68cceac231b0", 692, 3389], ["s-dbecaa204ab4", 3429, 7400], ["s-3c1f6f60b278", 8801, 11425], ["s-10222b6bb989", 11446, 14090], ["s-471668d0552c", 14130, 17495], ["s-d88310a79a83", 17515, 20240], ["s-8dfcbf7134c8", 21271, 24433], ["s-517c1291b0db", 24453, 26440]]
+sentence_spans: [["s-68cceac231b0", 0, 35], ["s-dbecaa204ab4", 36, 96], ["s-3c1f6f60b278", 98, 134], ["s-10222b6bb989", 135, 168], ["s-471668d0552c", 169, 212], ["s-d88310a79a83", 213, 262], ["s-8dfcbf7134c8", 264, 320], ["s-517c1291b0db", 321, 353]]
 ---
 
 En muldvarp var blind fra fødselen. En dag sa muldvarpen: «Jeg er sikker på at jeg kan se, mor!»

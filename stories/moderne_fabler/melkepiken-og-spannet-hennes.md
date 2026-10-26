@@ -20,6 +20,9 @@ authors: "Aesop"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
 content_sha256: "912bbd6253f5ba09cc6bea9438ceb7adc7c9338d8c685a3b23272772926bea13"
+audio_url: "https://media.umebocchi.my.id/audio/stories/melkepiken-og-spannet-hennes/c19a245d8fff41d054d9775196350154.mp3"
+sentence_timings: [["s-f8685dd1c98d", 431, 4653], ["s-43f2352cde40", 4673, 7040], ["s-06065ab001f5", 7850, 11665], ["s-7da2e6800654", 11705, 15530], ["s-aaf4a243def7", 15550, 19595], ["s-5aa3a09ef0d5", 19615, 24040], ["s-9658bd0d24fa", 25111, 28027], ["s-891691129d68", 28047, 30473], ["s-8789b0d17b97", 30503, 33880], ["s-e46422c5c507", 34921, 39650], ["s-6f3152441df2", 39680, 45280]]
+sentence_spans: [["s-f8685dd1c98d", 0, 63], ["s-43f2352cde40", 64, 100], ["s-06065ab001f5", 102, 180], ["s-7da2e6800654", 181, 253], ["s-aaf4a243def7", 254, 325], ["s-5aa3a09ef0d5", 326, 411], ["s-9658bd0d24fa", 413, 455], ["s-891691129d68", 456, 497], ["s-8789b0d17b97", 498, 557], ["s-e46422c5c507", 559, 626], ["s-6f3152441df2", 627, 723]]
 ---
 
 En bondedatter bar et spann med melk fra jordet til gårdshuset. Mens hun gikk, begynte hun å drømme.
