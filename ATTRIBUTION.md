@@ -452,10 +452,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-## Cover-image credits
-
-See `COVERS.md` for the source page, license, creator, and transformations for every cover derivative.
-
 ## De to sekkene
 
 - File: `stories/moderne_fabler/de-to-sekkene.md`
