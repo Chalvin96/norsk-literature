@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "1ca208e401a0b6b4b3728895b023a01c6e7dabaaf780629fc75feae1a4404914"
 audio_url: "https://media.umebocchi.my.id/audio/stories/reven-og-druene/e08cbc7e6837bd0b8a7a6d44b90fdbd4.mp3"
 sentence_timings: [["s-b6e25bd14368", 511, 5167], ["s-790871cdd924", 5207, 8551], ["s-ba85dd38c528", 8581, 11675], ["s-a9365fdba222", 11695, 15440], ["s-60459ba6f5c5", 16401, 18706], ["s-9d4ddd15ed3b", 18726, 22495], ["s-620b33e8efa1", 22515, 24520]]

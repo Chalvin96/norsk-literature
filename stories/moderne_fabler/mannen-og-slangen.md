@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "4c970aa8dd9282b1b69ad9d27e6a894fd1f7d825b2b1afcfb97aafae240551c2"
 audio_url: "https://media.umebocchi.my.id/audio/stories/mannen-og-slangen/e9baec8b332c5be2cf1e6d8308ebecb7.mp3"
 sentence_timings: [["s-3f20660a9f3c", 802, 4090], ["s-c4b989ba6c4a", 4130, 7037], ["s-6a2bfb14bcde", 7097, 8480], ["s-b19b4ba0a4cc", 9271, 12480], ["s-881fb48b0355", 14032, 18289], ["s-138f91d431cf", 18329, 21455], ["s-bfe4b6cf603f", 21475, 24240], ["s-96b37010473d", 25201, 29592], ["s-536d026e3329", 29612, 33000], ["s-604707a5afbc", 33961, 40630], ["s-e4384672b02e", 40650, 44356], ["s-a418addc8279", 44376, 47360], ["s-aab2171c501e", 48362, 51760]]

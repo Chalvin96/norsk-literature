@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "556de775515b77e8b298bd7651d82bd5db8b7a7f06b643a6044f8ea08447f745"
 audio_url: "https://media.umebocchi.my.id/audio/stories/musa-frosken-og-hauken/f443da7969d481a3ed18526f60521904.mp3"
 sentence_timings: [["s-bfc5825a5a3a", 730, 3462], ["s-44102414c9ac", 3502, 7365], ["s-e07babc969c0", 7385, 9906], ["s-8d9facc51bbe", 9936, 12868], ["s-bc83d9ef8066", 12908, 16791], ["s-3ec7a885f87d", 16851, 20193], ["s-67937b4a597f", 20233, 22735], ["s-6150999ccd74", 22775, 26597], ["s-cd5fe81513a4", 26637, 29739], ["s-fe01d84437cf", 29759, 31160], ["s-55c1b029cb04", 32611, 35622], ["s-ed17273a8d85", 35642, 39725], ["s-12ba162446c9", 39775, 42627], ["s-4d4330908bc6", 42677, 46629], ["s-233d5cf56df2", 46679, 50031], ["s-710ce7b4f884", 50091, 53434], ["s-e503a645b426", 53474, 56275], ["s-3b6bf161c637", 56325, 59557], ["s-4a819fd3fe0b", 59597, 62619], ["s-5f05be4ec0cd", 62659, 63840], ["s-c47abfd30676", 64490, 67040]]

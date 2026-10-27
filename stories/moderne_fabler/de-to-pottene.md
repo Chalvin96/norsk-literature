@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "b797de7560661636ec51aa5dcc9e84d0624cf8fec75046c8f582921966348e1c"
 audio_url: "https://media.umebocchi.my.id/audio/stories/de-to-pottene/f2408a462b70cf0e9a2f6836e02fee40.mp3"
 sentence_timings: [["s-960bd8f956af", 341, 3892], ["s-bfbd4e2273f5", 3912, 6640], ["s-82b641ec11ff", 7691, 12128], ["s-f18543fa3f39", 12178, 13571], ["s-d8df5e374422", 13591, 16436], ["s-2688a10c096d", 16576, 19000], ["s-a5f9f7761b3f", 20345, 22640]]

@@ -10,7 +10,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
 authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "3445434"
-level_status: "provisional"
 content_sha256: "11cb33549c2f9bc25e403390fa045a6a48fce0324c37c34f743e403e67c7bf8f"
 audio_url: "https://media.umebocchi.my.id/audio/stories/den-sote-groten/0c23dabc10d701a4f53ae960d8c71a5e.mp3"
 sentence_timings: [["s-88030e99f471", 431, 3369], ["s-5ea57fdaa6a3", 3409, 5735], ["s-017baf258443", 5785, 7720], ["s-0472da54a435", 8961, 11143], ["s-624191a17c71", 11173, 13485], ["s-929423cb4d5e", 13505, 16268], ["s-e828f1d9cc5a", 16308, 18950], ["s-1ef9b292539e", 18970, 22233], ["s-179a03c6d62b", 22403, 24896], ["s-f91d56f7d5d9", 24926, 29080], ["s-6c7bb3d5d4a2", 30051, 32508], ["s-7a6476bee6b9", 32548, 34894], ["s-0fc24aa27399", 35094, 36880], ["s-450259143a0f", 38061, 40104], ["s-6e2ca0a429f1", 40144, 43749], ["s-df2aa4771a57", 43790, 46594], ["s-a7e2af4a3bd2", 46614, 49498], ["s-9ea62f3d362d", 49538, 50720], ["s-513b4b2db3e3", 51660, 53663], ["s-b663457aab42", 53683, 56466], ["s-529fbbdb2952", 56526, 59310], ["s-77a5d0267e39", 59340, 61793], ["s-74e600fe1a91", 61853, 64416], ["s-b03038926827", 64436, 67800], ["s-5042472e22b8", 69061, 71624], ["s-7bcad7e2c4a3", 71694, 73407], ["s-bbfd8493fe5a", 73457, 76291], ["s-86cc5d26a086", 76331, 79275], ["s-7727bb61af7e", 79315, 82920]]

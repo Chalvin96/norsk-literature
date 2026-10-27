@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "3c5f99436e87ef133613f2fd6f35969a259ad0eea7c86469d0a6caefcf778005"
 audio_url: "https://media.umebocchi.my.id/audio/stories/ulven-og-lammet/dd5da714f0340981d5d579a80831aa5a.mp3"
 sentence_timings: [["s-6e2765bba93b", 621, 4808], ["s-673b0323c30b", 4838, 8594], ["s-dbcc19b81c18", 8634, 12640], ["s-f40f67391d88", 13561, 16549], ["s-c1568647e4fd", 16739, 19196], ["s-fded086ae83f", 21522, 25120], ["s-92d1afec6f0a", 26142, 29400], ["s-b9b81fe3a916", 30572, 33192], ["s-fbac170a41cd", 33232, 35360], ["s-dab6fc1ceba3", 36353, 38778], ["s-64b58affe656", 39981, 41866], ["s-73afac8646d9", 41886, 43671], ["s-cffe1c3f4c6d", 43711, 46960], ["s-86a3e9c103d6", 47790, 50946], ["s-60f97e9d4dd4", 50966, 53231], ["s-ea4de8b36898", 53271, 58120], ["s-9f9a5d9407fb", 59032, 62280]]

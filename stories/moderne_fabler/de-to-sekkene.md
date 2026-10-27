@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "1af6c9b694a7dbfedf3e2266a4a2f9eb178d171d4e14b8124fdc8f0a16f7fa0e"
 audio_url: "https://media.umebocchi.my.id/audio/stories/de-to-sekkene/13f27d88506b2bf1e448123c204ddde9.mp3"
 sentence_timings: [["s-e1c873225fa0", 821, 7287], ["s-8457b8359e43", 7327, 10651], ["s-176d916f8558", 10681, 15475], ["s-97648520c5bc", 15515, 20160]]

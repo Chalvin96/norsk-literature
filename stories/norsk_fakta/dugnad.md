@@ -9,7 +9,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.no"
 authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25524491"
-level_status: "ungraded"
 content_sha256: "b4956bc912d2c30bdbc3b4a9bd865d33e4308206df70a72aef57356a6992eff4"
 audio_url: "https://media.umebocchi.my.id/audio/stories/dugnad/b4dfc38c256fb23cf2cb1c48ca5a783b.mp3"
 sentence_timings: [["s-add6e4bfe01c", 140, 6004], ["s-b176b177e7a4", 6594, 20173], ["s-a993ec988352", 20323, 23295], ["s-2df8942a3100", 23335, 31680], ["s-984939aad886", 32980, 33476], ["s-2294fe7e5705", 34551, 40696], ["s-1422e71e955f", 43000, 46563], ["s-8f4e6fcf065e", 46583, 51468], ["s-bce0f0415092", 51588, 59034], ["s-fbc41e59946b", 59094, 65200], ["s-f3c2c625f0a7", 65990, 74465], ["s-c33a254a5288", 74485, 86613], ["s-4ed12b3475c5", 86673, 95498], ["s-01cad7adab94", 95638, 98080], ["s-eb06196d6073", 99470, 99976], ["s-75c87ec9ab4a", 101841, 111606], ["s-3dcecebca4a4", 111646, 121372], ["s-41318ccbabe3", 121562, 131218], ["s-b757640f7134", 131258, 134480], ["s-4f0f2eefe61a", 135756, 137359], ["s-f8920df2d157", 138790, 143082], ["s-c50e3e9dcfba", 143112, 158468], ["s-7e82093042e2", 158528, 167671], ["s-d26f68c59f13", 167711, 170072], ["s-97653f3771ed", 170112, 180857], ["s-0334e87dbdf7", 181057, 189760], ["s-20a783273754", 190251, 198992], ["s-963d328cfb35", 199182, 205000], ["s-d1367a3ad23f", 206241, 218720]]

@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "8253c008043c31d5d2df548ea6249b8d83b06dd554027d1ec84ac9e37119b0e1"
 audio_url: "https://media.umebocchi.my.id/audio/stories/mannen-hesten-oksen-og-hunden/bd1a6f3a5dc43c3ba3f9fd890425d679.mp3"
 sentence_timings: [["s-19d092497ef7", 682, 4573], ["s-3f0863379e5c", 4613, 7200], ["s-176b335a52c4", 7840, 11267], ["s-b6cd76aecf04", 11297, 13952], ["s-1ac7998647f0", 13982, 15756], ["s-8877051f7877", 15786, 17760], ["s-b70348be16a3", 19051, 21763], ["s-6115e782b2d0", 21803, 25307], ["s-21d5650deb5a", 25337, 28049], ["s-75414219f44b", 28089, 32253], ["s-ab4b934ae8cb", 32413, 36197], ["s-4e48a53b0801", 36227, 39160], ["s-3731aaa33bc0", 39890, 43826], ["s-5987ff634d91", 43866, 47691], ["s-1030521fc66a", 47751, 51056], ["s-33a233dad2ee", 51236, 53840], ["s-c01ed4ec9e51", 54840, 61267], ["s-80a22439afcb", 61287, 64430], ["s-d3e4dc36e85a", 64450, 66833], ["s-4ec537018888", 66853, 70597], ["s-a9f45710327a", 70627, 73720]]

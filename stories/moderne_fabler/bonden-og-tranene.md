@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "c5e2da3ad4c9bc8b28ffae709c2eba871c257ddfdc8d0205372a8186dfcfc7b8"
 audio_url: "https://media.umebocchi.my.id/audio/stories/bonden-og-tranene/b9af37ecf8020caa682cada915b3275c.mp3"
 sentence_timings: [["s-bb6e1a1a9309", 431, 3926], ["s-15c7e77621ba", 3946, 7431], ["s-92483c66e99c", 7471, 10355], ["s-39c6a52a06d4", 10375, 12398], ["s-7d47a3d3bcdf", 12418, 13720], ["s-d2f423b9442b", 14751, 18345], ["s-166587ca9cd4", 18385, 21089], ["s-72d8c9b14771", 21119, 24433], ["s-a2ea8c5793d2", 24453, 27377], ["s-576edd9ae65b", 27407, 29920], ["s-c94814e30cb0", 31234, 34000]]

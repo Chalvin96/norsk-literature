@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "15dadba686cdb3148df7eebc05d9877d7e4b848c8723a2d7b77b9c27cd544d79"
 audio_url: "https://media.umebocchi.my.id/audio/stories/bymusa-og-landmusa/b6c44798505cd4e851959a204a81a78c.mp3"
 sentence_timings: [["s-eec9eb5a78ee", 190, 7346], ["s-b5d596ed5682", 7526, 12750], ["s-a2f4360dca0c", 12790, 17033], ["s-9fcde6f459b9", 17073, 19655], ["s-4a0af694ba31", 19695, 21917], ["s-3534669a5894", 21947, 25800], ["s-1ea79bd019cf", 26790, 31724], ["s-6f671af8f337", 31774, 39190], ["s-36e9001ab309", 39220, 43214], ["s-8de7965da934", 43254, 46757], ["s-30e256e52f54", 46797, 51000], ["s-e9a7308142e8", 52381, 56088], ["s-b558066ada3b", 56128, 59333], ["s-374615adae22", 59353, 63440], ["s-5efe05707735", 64431, 69250], ["s-9c6c90badfcc", 69400, 72016], ["s-401ce297d357", 72036, 74000], ["s-289870f59da2", 74740, 77863], ["s-b145d7834f34", 77903, 85270], ["s-1fc3a17dbc27", 85310, 88673], ["s-cc66eb18c8a2", 88693, 93378], ["s-53ca2a757470", 93408, 95960]]

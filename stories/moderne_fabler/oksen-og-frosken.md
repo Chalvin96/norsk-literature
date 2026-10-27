@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "0c9b09335dc2eb72b46aa72182848e623aacb495d470da97f9e26dc419cc8912"
 audio_url: "https://media.umebocchi.my.id/audio/stories/oksen-og-frosken/5c5a384ea8b7e46a3f909d6de1bc52cf.mp3"
 sentence_timings: [["s-8023cfab1a96", 331, 1946], ["s-7e0043e61533", 2889, 6579], ["s-753cd81ef580", 7420, 10892], ["s-2941a90f2c22", 10933, 13040], ["s-961040d6808c", 14211, 15844], ["s-875c98b19ccd", 15884, 20554], ["s-b392266b94f8", 20594, 23640], ["s-81b6973a293d", 24370, 26309], ["s-2ead16c7db90", 26350, 28680], ["s-5c8406b44e45", 29932, 32748], ["s-2b45a780d1ae", 32768, 34392], ["s-3269fea6890e", 34432, 37800]]

@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "f3e539e981468f36c8723f1cc0bc7bb69bf276b69ab15cf867ad802a178d7bf2"
 audio_url: "https://media.umebocchi.my.id/audio/stories/de-reisende-ved-sjoen/72c5716b13998f09c5cb988cda2fc9eb.mp3"
 sentence_timings: [["s-84aabb0241e1", 381, 2864], ["s-36d2f2507689", 3014, 6169], ["s-d0d75012ed9d", 6209, 8873], ["s-f0ae5591b299", 9033, 10976], ["s-4e0f78045ffd", 10996, 13960], ["s-610d76c8a036", 14931, 17365], ["s-7d72f49b43e1", 17405, 19709], ["s-143fb22fbb01", 19759, 21833], ["s-1d692e6d2893", 21853, 25600], ["s-6d86959af629", 26831, 31033], ["s-f72aa5965798", 31053, 33560], ["s-798204750e7a", 34652, 38040]]

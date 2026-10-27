@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "cb1de614280da1f1cdf5f6929d31d80c71856bb88c882903754429596d69a2e8"
 audio_url: "https://media.umebocchi.my.id/audio/stories/loven-pa-gardsplassen/f1f730c5c9a0c394be0bbe0b629265aa.mp3"
 sentence_timings: [["s-556631d11e57", 791, 3424], ["s-c050f63490df", 3444, 6168], ["s-5cf9716dcc25", 7139, 11094], ["s-f287ddbb9a6d", 11124, 14518], ["s-d5cdddd50333", 14558, 15960], ["s-b3c3c3c38476", 17061, 19987], ["s-9728731214c5", 20007, 22752], ["s-62de392d3629", 22792, 26680], ["s-660875387ae3", 27651, 30164], ["s-758713523de2", 30204, 34131], ["s-481ab1a1efb6", 34161, 36995], ["s-de60523cbf6e", 37025, 40200]]

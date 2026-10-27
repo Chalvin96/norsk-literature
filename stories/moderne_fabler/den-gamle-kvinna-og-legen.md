@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "7c5aa71cb63d7d4ba444831c0b36e8ed4b584a496b62752f9a3d2deae33b2587"
 audio_url: "https://media.umebocchi.my.id/audio/stories/den-gamle-kvinna-og-legen/ff5c2c7a8a5415d2cb0ab268971b68c9.mp3"
 sentence_timings: [["s-10af43a0121b", 712, 3287], ["s-53f516c48ac4", 3327, 6173], ["s-6607137fe79c", 6203, 9560], ["s-13029b564731", 10581, 14492], ["s-f01b46b47b3c", 14522, 17560], ["s-24efe0da53ce", 18661, 20203], ["s-b52c334ece26", 20243, 23809], ["s-f57b00c7c31d", 23829, 27976], ["s-775c4821a479", 28016, 30280], ["s-f480bd9d0ba9", 31311, 37200], ["s-58da5a25d267", 38372, 40247], ["s-02762822fb2e", 40307, 42834], ["s-e5dc51770c2d", 42854, 44880], ["s-8d3dadf57194", 45922, 48169], ["s-1fd79f940fba", 48209, 51560], ["s-81f9f4190013", 52571, 56869], ["s-bb4966f02d8d", 56889, 59894], ["s-c341a93c091d", 59934, 62900], ["s-7525f031b711", 64541, 67324], ["s-bf712aaabee6", 67354, 70207], ["s-83ab77a8b614", 70247, 76314], ["s-3f9bb000896a", 76334, 79177], ["s-a1c07e787f08", 79207, 81640]]

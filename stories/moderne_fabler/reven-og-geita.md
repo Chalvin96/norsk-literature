@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "f4b103a78b8567969360217e8fcbe0a9a1c1732e4ddd5530d19cfb3955614690"
 audio_url: "https://media.umebocchi.my.id/audio/stories/reven-og-geita/bd53dabd18be69815a0f73f1263e8b9b.mp3"
 sentence_timings: [["s-e46f137ef7e7", 321, 3293], ["s-eec04259a4ea", 3323, 5240], ["s-c9fd49c3149a", 6281, 9284], ["s-4aab4462e591", 9334, 12168], ["s-cefbe28abb74", 12208, 15893], ["s-21d239b8f0cc", 15913, 17575], ["s-7ee30bcea4cf", 17595, 21760], ["s-5951012434bd", 22701, 26887], ["s-0cf69ddf14fa", 26917, 32275], ["s-f44e955252a1", 32335, 35320], ["s-ea0281f9af52", 36261, 43596], ["s-a7eddf2e6307", 43786, 45560], ["s-959c054c6f01", 46541, 50989], ["s-7f422b017713", 51019, 55157], ["s-446224b8b61f", 55197, 56880], ["s-21d45472d997", 57820, 60764], ["s-a4272c4a3ad7", 60804, 64768], ["s-349058bf3d85", 64788, 71876], ["s-647de60c7551", 71896, 75600], ["s-d25436841816", 76250, 77800]]

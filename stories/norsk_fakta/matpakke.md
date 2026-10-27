@@ -9,7 +9,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.no"
 authors: "Wikipedia contributors; see linked revision history"
 source_revision: "21454802"
-level_status: "ungraded"
 content_sha256: "8bdfe1147a4e9b029f9e957d75d280f7c97d48b2b3e75357d142327a8f9e87b8"
 audio_url: "https://media.umebocchi.my.id/audio/stories/matpakke/8fc1a3eba54ee43c967c5ff1124a8126.mp3"
 sentence_timings: [["s-cde7dbf51283", 682, 8819], ["s-e6352683d41f", 10139, 10514], ["s-7fc15cf7f277", 12191, 22360], ["s-77aa322d2259", 23521, 30047], ["s-c4dade506e8e", 30097, 35311], ["s-6d395c8de18a", 35341, 39155], ["s-0d11132cd2b9", 39245, 44720], ["s-ec4fd60ef58f", 45971, 50789], ["s-fc1ecfed5668", 50819, 57280], ["s-49a0bd7d7084", 58080, 63400]]

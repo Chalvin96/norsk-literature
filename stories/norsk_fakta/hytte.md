@@ -9,7 +9,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.no"
 authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25289408"
-level_status: "ungraded"
 content_sha256: "d153a3c2362a2a622c7f76bc7f60918766afc58d07adc79ebc396590ca6882af"
 audio_url: "https://media.umebocchi.my.id/audio/stories/hytte/576e921e16a5cbddcdfaef2216d29b02.mp3"
 sentence_timings: [["s-c1e8d2051428", 381, 19920], ["s-dc28652b51ab", 20710, 32109], ["s-9b216e4e3eaa", 32129, 41316], ["s-16e073375972", 41356, 46080], ["s-4d7ce9a6c0fe", 46850, 54705], ["s-f32a1086a0c4", 54735, 61309], ["s-458b562a3475", 61349, 71675], ["s-f8df700137b1", 71715, 79680], ["s-0248ebb2f214", 80480, 90964], ["s-9ecb4a803d28", 91004, 98887], ["s-695b4bc6e915", 99117, 106450], ["s-9d8b60956ef8", 107151, 117535], ["s-184cfb3d51ad", 117555, 123677], ["s-90ccc34aa374", 123697, 130760], ["s-09037877cdfa", 131550, 138688], ["s-72591cd23175", 138718, 145735], ["s-33b0883c5a80", 145775, 150280], ["s-95aa193f1223", 151450, 160225], ["s-9bd46bac1332", 160425, 167849], ["s-7fb41ff928f0", 167889, 173012], ["s-33c0ef36a01d", 173032, 181016], ["s-78dec780bee9", 181056, 187880]]

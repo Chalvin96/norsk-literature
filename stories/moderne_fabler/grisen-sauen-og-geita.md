@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "e6d56508fe5210782eadff6ac088775f17320142bc1ed49760616ff15b41f3a5"
 audio_url: "https://media.umebocchi.my.id/audio/stories/grisen-sauen-og-geita/0251b8a26762cb1324c8d7f66b93fcf6.mp3"
 sentence_timings: [["s-8727611c1694", 422, 5400], ["s-f685419013b4", 6432, 9251], ["s-053a06f51305", 9271, 12080], ["s-bf71724e0219", 13031, 15888], ["s-4bf117584370", 15928, 20640], ["s-4d2bf2bf176f", 22011, 28031], ["s-50eb8810cb3f", 28071, 31516], ["s-28cd9e6868de", 31546, 33760]]

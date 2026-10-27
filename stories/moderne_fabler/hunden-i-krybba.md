@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "f785cb091a7d525666539feaa48c032644290a06f0e48bcc185e0a8bd8ef63de"
 audio_url: "https://media.umebocchi.my.id/audio/stories/hunden-i-krybba/3bbbfbb0bdc3d9649873f6e6626472b5.mp3"
 sentence_timings: [["s-d4f033e94ee1", 501, 2806], ["s-1ce786371e65", 2846, 6655], ["s-e8f345950ffd", 6695, 8760], ["s-56bee26329d5", 9601, 13089], ["s-da93654ef12b", 13109, 15034], ["s-0be463cf3083", 15054, 17760]]

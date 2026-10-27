@@ -9,7 +9,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.no"
 authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25309323"
-level_status: "ungraded"
 content_sha256: "8fd12338e8890f93257dd5242624fc8193c968d6e9ada9a23e5733062d988470"
 audio_url: "https://media.umebocchi.my.id/audio/stories/kvikk-lunsj/7012754cf0f2bdadae484ce9e2d27577.mp3"
 sentence_timings: [["s-f835fc9245f0", 450, 16268], ["s-1f366e22047d", 16458, 24752], ["s-8073e9cd9a97", 24922, 34457], ["s-491f7018f1d3", 34497, 39960], ["s-ad985f0a7f7f", 41000, 46405], ["s-996544035fb1", 46435, 50189], ["s-b9d4c6b80341", 50249, 57916], ["s-30d1ca00e5b0", 57976, 62680], ["s-afb8e52ed830", 64041, 77490], ["s-9b024232866c", 77710, 86136], ["s-cf759e90708a", 86366, 90760], ["s-c70fc9f11987", 92098, 92717], ["s-8d6434bd562e", 93871, 99240], ["s-2ba80e3bee2f", 100271, 107840], ["s-4ea8318be28f", 108760, 113146], ["s-7c3c91c801e0", 113186, 118792], ["s-4d7c18e50a01", 118952, 125480], ["s-d77448269e7a", 126466, 127096], ["s-45e8124c9e9b", 128100, 129997], ["s-6adecf9f953d", 131120, 143047], ["s-255299d43e09", 143518, 146349], ["s-581798df2d1e", 146840, 160178], ["s-d50cef3f2f00", 160198, 164280]]

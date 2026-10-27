@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "7a15f606030e73dc15803b4a0e692d42c80f569a525906e71557ab6c8e41c343"
 audio_url: "https://media.umebocchi.my.id/audio/stories/hunden-og-skyggen/cf5f038c1f4fb7f41f6a5a049d900089.mp3"
 sentence_timings: [["s-77e712b30a13", 761, 4366], ["s-94ef6a985975", 4386, 7050], ["s-874712ce2ae4", 7080, 9975], ["s-ac75b4fa8dde", 10155, 13560], ["s-0904d73826bb", 14661, 17908], ["s-20827dbd1dc4", 17948, 21496], ["s-74af63685027", 21536, 23480], ["s-ef65ad0751c9", 24511, 27146], ["s-044bf74ab772", 27186, 30753], ["s-8260d6bec8c9", 30773, 33117], ["s-3bbcaf1654a7", 33137, 34440]]

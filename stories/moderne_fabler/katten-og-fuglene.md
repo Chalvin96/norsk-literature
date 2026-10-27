@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "7bdb14a36d7752919d2994a717ae8c9a958bfe25ec11f6b8fbb754f9495d1496"
 audio_url: "https://media.umebocchi.my.id/audio/stories/katten-og-fuglene/8994c25ee6dee29834744373997f02d4.mp3"
 sentence_timings: [["s-a6d21310b65c", 791, 5567], ["s-0cb853814768", 5587, 8250], ["s-c419243bbdf8", 8271, 10754], ["s-4ce771e82c94", 10774, 13677], ["s-c57e097cdea5", 13717, 15720], ["s-84e5634eaa61", 17012, 21071], ["s-ff9af0923097", 21091, 25360], ["s-42fcc9a6fec2", 26662, 29789], ["s-99a4bb7e4c23", 29829, 34240]]

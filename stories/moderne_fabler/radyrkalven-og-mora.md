@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "732cfbc8483ddb527f25f23f60468a27919f6a2a6feea40b87d6c65b5fe61c48"
 audio_url: "https://media.umebocchi.my.id/audio/stories/radyrkalven-og-mora/08fb7732af690cef7663b54dc77015f1.mp3"
 sentence_timings: [["s-fcaeb3529017", 601, 6330], ["s-b275126b23ff", 6370, 10737], ["s-090ad80ba7f6", 10777, 12920], ["s-1988ab25f5a2", 13560, 17807], ["s-8d3621ee7c92", 17857, 19830], ["s-4eca2642514d", 19850, 24037], ["s-a417391e5346", 24067, 25840], ["s-a0d7fd70c511", 26560, 29120]]

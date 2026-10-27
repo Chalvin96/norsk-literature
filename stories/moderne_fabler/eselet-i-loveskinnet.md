@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "60a9224c0a66de178a59996cdd6f34486a02c9e19b4973e0b4c2f9310ed417d3"
 audio_url: "https://media.umebocchi.my.id/audio/stories/eselet-i-loveskinnet/05683f3189cae00a98b1368742523b11.mp3"
 sentence_timings: [["s-b0b05b87fb22", 351, 3068], ["s-2cd10450db20", 3108, 7599], ["s-26687ac03384", 9311, 12386], ["s-849126a54ff2", 12416, 15130], ["s-2dcbc6243d5a", 15170, 20057], ["s-ebcec075b78d", 20077, 22120]]

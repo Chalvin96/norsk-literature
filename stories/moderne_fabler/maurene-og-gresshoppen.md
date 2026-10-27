@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "eddc554014e3e566706a9d6f4e46b833c2f31f9caa0f2aa703f39ad44576294b"
 audio_url: "https://media.umebocchi.my.id/audio/stories/maurene-og-gresshoppen/d3124f482569ceeaaeb08ef131273456.mp3"
 sentence_timings: [["s-cae4a36695ea", 481, 3586], ["s-a03c982d97cc", 3626, 6029], ["s-b9035eced0a6", 6079, 7992], ["s-92ac190895f7", 8032, 10236], ["s-aa6b9ebe09b1", 10276, 12880], ["s-b123b319b50e", 14143, 18680], ["s-f54236a03b43", 20003, 22252], ["s-9f5b5d365320", 22282, 24280], ["s-91560b23eec5", 25471, 30132], ["s-ef28df623874", 30272, 33560]]

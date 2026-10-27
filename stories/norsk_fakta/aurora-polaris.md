@@ -9,7 +9,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.no"
 authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25856704"
-level_status: "ungraded"
 content_sha256: "873ff93987109dac4cb9122dcf69a3c5fea9ac14000ad44c65f8f6c56ae83e37"
 audio_url: "https://media.umebocchi.my.id/audio/stories/aurora-polaris/8df082e178b0c51a0adcfc253d23fbe3.mp3"
 sentence_timings: [["s-63313ffecb63", 230, 14510], ["s-6b7ddc541105", 14550, 23176], ["s-d23d5be6612e", 23216, 29440], ["s-6a677a89eafa", 31141, 40468], ["s-d08b09594ca2", 40498, 48294], ["s-7b1efa5c0611", 48314, 55880], ["s-b691e5184ed2", 57352, 63733], ["s-c32a13864637", 63783, 67280], ["s-9666fc8646ec", 68080, 72449], ["s-30fd557c2e5e", 72479, 77760], ["s-76e7c2775646", 78460, 78915], ["s-0e37bd134548", 79830, 86869], ["s-edfbacfac0bd", 87620, 93417], ["s-5e488e909cac", 93437, 95920], ["s-fe5df3d0635f", 96711, 100759], ["s-63e66021854e", 102362, 108037], ["s-69043b18ad54", 109991, 114559], ["s-c39bde246e57", 116147, 117158], ["s-5bcb29e77219", 118440, 125808], ["s-cf954173ad71", 125838, 131353], ["s-48f4dc42287c", 131393, 138160], ["s-c393736d5a08", 139210, 142003], ["s-595d7095c6cd", 142063, 151911], ["s-4062761f31de", 151941, 160219], ["s-656fdc379245", 162481, 168320], ["s-c9f055e91c77", 169111, 172760], ["s-059b04289344", 174121, 178488], ["s-288ce30154ec", 178658, 185560]]

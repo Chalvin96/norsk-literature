@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "91dfceb5a3f75095f03338870aac8061784d98c6b6967bf03ac962b5184d10fb"
 audio_url: "https://media.umebocchi.my.id/audio/stories/den-rampete-hunden/3c91c16365ed0dc1c4ae1322ec31964b.mp3"
 sentence_timings: [["s-a00c84d238d1", 381, 3725], ["s-d9eba8571387", 3745, 6889], ["s-550e50608c6a", 6949, 9653], ["s-ef2bcc256928", 9673, 12977], ["s-7898c2c8e44e", 12997, 15160], ["s-e049a9854dc0", 16300, 19483], ["s-a3c895a9abc7", 19513, 24767], ["s-1b7cd4ceb647", 24807, 27469], ["s-37194f04074a", 27499, 31793], ["s-ed1b2f6b26d5", 31813, 35355], ["s-3af98dc4ab5c", 35375, 37697], ["s-8fec3c449c51", 37737, 41080], ["s-a6970970805a", 42364, 45160]]

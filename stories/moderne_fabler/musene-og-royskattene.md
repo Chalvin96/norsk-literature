@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "8e5b2c8b97e65fcebbe8c8e3e86a5179fd1d7069158b5adcf92d9f7a6e3dd22a"
 audio_url: "https://media.umebocchi.my.id/audio/stories/musene-og-royskattene/bf93c710b8e65d0d2aa69cd48a2c64b3.mp3"
 sentence_timings: [["s-39843ed6d066", 411, 4551], ["s-2f2b035c41e3", 4601, 6315], ["s-c14f00119ebe", 6375, 8560], ["s-d81c7c052778", 9540, 13624], ["s-c639c39929f8", 13674, 17727], ["s-7a291a1c4018", 17767, 20590], ["s-48f3c605f9ee", 20610, 24894], ["s-d09be1a43f84", 25064, 29718], ["s-264fd7c025ef", 29758, 32120], ["s-0175395e5b3e", 33361, 38028], ["s-4ab7cddf8a79", 38068, 40371], ["s-476e762f9865", 40391, 43275], ["s-17dfd0ba004f", 43315, 46680], ["s-1930119f8b2e", 47650, 51286], ["s-32cc01f4bf33", 51326, 54750], ["s-119d33fafc93", 54780, 58816], ["s-4f9c4271b378", 58856, 61720], ["s-01ff9f6c52e9", 62773, 65360]]
