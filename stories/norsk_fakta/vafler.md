@@ -9,7 +9,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.no"
 authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25945223"
-level_status: "ungraded"
 content_sha256: "90845815e4d2d12409512d4ecc7a44425935cb0582faf2f80e1c8a36444c1c2e"
 audio_url: "https://media.umebocchi.my.id/audio/stories/vafler/67e1e166d71101c83f1c3a7529a566bf.mp3"
 sentence_timings: [["s-d6e9955eb43f", 190, 6366], ["s-dc2e8ee93708", 6386, 11951], ["s-477f94530dc6", 12161, 18437], ["s-6cb04e6b8555", 18477, 21560], ["s-d4ccc38ad179", 22571, 32880], ["s-3afad683e32e", 33800, 40724], ["s-ead4c4060b03", 40784, 46587], ["s-8546befd1b50", 46807, 51910], ["s-73e70c3d0e22", 51950, 54311], ["s-fd4160b9af21", 54471, 62075], ["s-2e9ee4b4c228", 62115, 66497], ["s-74f703e55ce0", 66537, 71040], ["s-565f42e788dc", 72280, 80546], ["s-24684e63851a", 80576, 83168], ["s-cc5fc811b318", 83198, 87871], ["s-9093ebfe403a", 87891, 92814], ["s-77215af3c57f", 92834, 101560], ["s-9adbac18788a", 102521, 107528], ["s-3e4a44070fa2", 109492, 114119], ["s-8af56c9b484e", 115771, 122416]]

@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "0660fe5903ebed558bcc1f57f244788ee49a1f1607d93cc59e5531c63468e9da"
 audio_url: "https://media.umebocchi.my.id/audio/stories/nordavinden-og-solen/4a17c722e37dc8ff0ce0cc6750788f4d.mp3"
 sentence_timings: [["s-1414b8f0bf46", 791, 5910], ["s-9a0abca7ed7b", 5950, 11400], ["s-b1e28b4d8c5e", 12521, 16366], ["s-2eb6aee86dc0", 16406, 21272], ["s-f08e06a50b4c", 21292, 25738], ["s-0459f1c5b745", 28211, 31925], ["s-5cdcd5f1127f", 32025, 38692], ["s-167849669bed", 38742, 45280], ["s-dff98b813134", 46585, 48800]]

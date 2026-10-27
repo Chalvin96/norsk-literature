@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "73c929fe6e0ecf2b3c02ec2af3a9df64150871db573b44f1023fcbf727e64f92"
 audio_url: "https://media.umebocchi.my.id/audio/stories/herren-og-hundene-hans/650da06c79c6c0c18675f21821de1ab9.mp3"
 sentence_timings: [["s-91b875e92d2d", 511, 3826], ["s-ac7c43240e83", 3866, 8573], ["s-274ce90b7574", 8643, 9935], ["s-a4e4ccf423c7", 9955, 13000], ["s-7bb09e1844d7", 13800, 17165], ["s-c837de1349bf", 17185, 20831], ["s-446c0bfa5294", 20871, 24817], ["s-14764e514527", 24837, 27120], ["s-92e6e45ea529", 28132, 31579]]

@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "d80c101ab9d8c3eb8ccece5c4333d9faca98d0c8de517976de8dcfed8928397b"
 audio_url: "https://media.umebocchi.my.id/audio/stories/enka-og-sauen/a7319664463bfc97c5e2a2bd271f2d20.mp3"
 sentence_timings: [["s-130ef1622c3c", 340, 3044], ["s-a46bf762de28", 3104, 6989], ["s-e586ee84677e", 7009, 10173], ["s-bf1868b387b6", 10193, 14338], ["s-922abd541056", 14398, 16200], ["s-8a067a5482b6", 17231, 19283], ["s-8092741cc2f9", 19303, 21626], ["s-52e5c8342b48", 21806, 24070], ["s-861d3f5da0ec", 24100, 26132], ["s-8208d31fe2da", 26152, 28215], ["s-f0f0d7412fff", 28255, 29937], ["s-a718a9c336a2", 29957, 32040], ["s-cfdd1a8776bf", 33314, 36320]]

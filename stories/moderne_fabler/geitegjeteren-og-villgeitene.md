@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "176a38365347668c1054dfae5e90941a06b0e813254c4349b81bed4448313d09"
 audio_url: "https://media.umebocchi.my.id/audio/stories/geitegjeteren-og-villgeitene/e6d92defd48fe62a3c0c042095ba7677.mp3"
 sentence_timings: [["s-05d9fd730ef3", 521, 3689], ["s-e473a589bdc9", 3889, 8160], ["s-777b5d66f55c", 9251, 11042], ["s-dae4ad06fa73", 11062, 14146], ["s-33ce743a8e70", 14186, 17569], ["s-b850253f3f3b", 17589, 22294], ["s-f7924fa2ac2f", 22314, 24557], ["s-00a52b68687f", 24577, 27800], ["s-0f602f9ac97d", 29001, 33345], ["s-568118869546", 33366, 36769], ["s-1d8bcd619129", 36809, 42075], ["s-36159125c543", 42115, 46440], ["s-d84a6909b191", 47521, 52888], ["s-cf0fc42c4b4d", 52948, 57234], ["s-0928a416d7a7", 57274, 61360], ["s-099dc1f0fe4b", 62583, 65840]]

@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "ba8d8913650456abf3a62255266aba86196dfd7a6b001e7edba19011011aca79"
 audio_url: "https://media.umebocchi.my.id/audio/stories/kraka-og-krukken/a9df62ab24c7f23bd3764d43408dfbce.mp3"
 sentence_timings: [["s-197962c90173", 951, 4725], ["s-009b4917f4ee", 4765, 8729], ["s-7618f499fc56", 8789, 15556], ["s-86e506fc2e15", 15576, 19880], ["s-8c9e604c4708", 21431, 25568], ["s-229725ef6e64", 25598, 29254], ["s-00a3e060f25b", 29294, 33160], ["s-d89b99206bf0", 33953, 35520]]

@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "60bdd13acd36a4d848d93ea3ee5be020a4f31c55aac6d0f7916b6a690da26c83"
 audio_url: "https://media.umebocchi.my.id/audio/stories/skilpadda-og-ornen/bd59334b6f6a6846fbacaaa0ce55090d.mp3"
 sentence_timings: [["s-a68eb781fdcb", 431, 4966], ["s-90a5174c1985", 4996, 7169], ["s-20040a309bee", 7209, 10913], ["s-e7bf9817978c", 10953, 13837], ["s-a31fbb231884", 13997, 16720], ["s-2c3f9e7403b9", 17690, 20885], ["s-5594dc245e7a", 20925, 23789], ["s-87eaeb982eea", 23819, 27474], ["s-07b2161e4c3a", 27504, 28956], ["s-bedca8abfc0f", 28976, 31760], ["s-dfecf83f761a", 32791, 36891], ["s-3410b53e0fe7", 36911, 38675], ["s-994f03837e83", 38835, 40520], ["s-0d1ec4fef138", 41592, 45560]]

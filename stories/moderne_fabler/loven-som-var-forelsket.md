@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "aa7bcf73e746d8b531fddddc09c69fdff629f9072c2b60e68222a851752246cc"
 audio_url: "https://media.umebocchi.my.id/audio/stories/loven-som-var-forelsket/1129ba6f8abaa35c2f553e82264e05d9.mp3"
 sentence_timings: [["s-6b77575e1498", 412, 3159], ["s-26bedad57f93", 4722, 7911], ["s-807938c6b2ed", 7951, 11360], ["s-1079a845d6ed", 12361, 17209], ["s-698ca5fbb5c8", 17229, 21256], ["s-78f5549603ce", 21296, 23720], ["s-16abab629849", 24685, 25800], ["s-28eb0665925d", 26791, 29526], ["s-cea7ba891e84", 29546, 31230], ["s-546d288df605", 31270, 33274], ["s-269648f73cb7", 33294, 36560]]

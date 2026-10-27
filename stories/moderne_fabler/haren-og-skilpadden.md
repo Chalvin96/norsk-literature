@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "a701f6f1d29f9501b8d90f85be55bf88dafb5beb64b406e3b6eba9c27bd16458"
 audio_url: "https://media.umebocchi.my.id/audio/stories/haren-og-skilpadden/061d06e59bcbb0c313331530be8fa92b.mp3"
 sentence_timings: [["s-977c45485fdd", 480, 4862], ["s-b711bf8139dd", 4902, 10565], ["s-b8204994ef95", 10605, 14607], ["s-b716915e9bdb", 14627, 18549], ["s-cf642dfd682e", 18579, 21711], ["s-534393b1da5f", 21731, 28394], ["s-40f0b0ccd6f5", 28414, 32056], ["s-496b89be200f", 32076, 34677], ["s-c2f844dc0372", 34717, 40200], ["s-d5890f6fe212", 41121, 45440]]

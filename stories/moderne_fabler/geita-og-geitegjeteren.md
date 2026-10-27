@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "1d2995ac0791fee52cd6e828587f769b1de95a8789a10f9d86e76c465d466f31"
 audio_url: "https://media.umebocchi.my.id/audio/stories/geita-og-geitegjeteren/f5b544cfc369699cd9ba3cfffc4333c8.mp3"
 sentence_timings: [["s-6f8958b551b6", 581, 5230], ["s-b29f761197ef", 5420, 8556], ["s-177b9bbba1dc", 8576, 10600], ["s-6617f77e7549", 11961, 16668], ["s-77973c4c5fd8", 16698, 19853], ["s-c8eaa235e6c1", 19873, 22617], ["s-efe36dfc12e6", 22657, 24840], ["s-e1e16f5eccfe", 25580, 27960]]

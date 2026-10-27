@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "ad3430a3c3f8c3b6558d3a34f20c3ce26035f454d3e70229cb8bc0dd5a43ea8a"
 audio_url: "https://media.umebocchi.my.id/audio/stories/stridshesten-og-molleren/73e3cf0870b6c37c9926e7d4c951f270.mp3"
 sentence_timings: [["s-6416f0a6fcf8", 841, 3505], ["s-e536b1f3543e", 3545, 7571], ["s-d0c035763c86", 7601, 10675], ["s-594416889e1a", 10715, 14320], ["s-bfc93236734c", 15301, 17643], ["s-f255027cb0d2", 17684, 20567], ["s-880e8afc767f", 20597, 23751], ["s-077002211272", 23791, 26915], ["s-400c8c42084b", 26935, 30640], ["s-0758e42d0dcb", 31481, 34431], ["s-2ecaeae72886", 34491, 36960]]

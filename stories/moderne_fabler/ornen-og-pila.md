@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "769f4d8efb26eb2673fd1b2f2844db2a37aad254bcb3e74709576bfb4179a3de"
 audio_url: "https://media.umebocchi.my.id/audio/stories/ornen-og-pila/05d01cdf099a88ed33f1380cf7dc3f2c.mp3"
 sentence_timings: [["s-de61af81ecef", 791, 3325], ["s-54e2f09851e3", 3355, 5588], ["s-7b02719b52f2", 5628, 8092], ["s-b0604f6eaae0", 8132, 11136], ["s-a9b9be938b59", 11156, 14040], ["s-fcc8ba7aefca", 15061, 18029], ["s-769085f0ef1e", 18049, 20757], ["s-042b40008066", 20807, 22000], ["s-3c09b61c56ed", 22871, 25671], ["s-51f2026f4939", 25691, 28320]]

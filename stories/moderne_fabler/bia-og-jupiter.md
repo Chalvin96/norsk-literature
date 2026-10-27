@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "eb6da88de4dd3dce0fd2fe807188239c5ffdcccd1d0e77c3dd53f1b3d46d6bdc"
 audio_url: "https://media.umebocchi.my.id/audio/stories/bia-og-jupiter/145c7209f6762d8d52a6d36b53439fa6.mp3"
 sentence_timings: [["s-b35f47e9afa9", 441, 4246], ["s-47946035aa22", 4286, 7230], ["s-a63c9039d537", 7280, 10354], ["s-14082e9e09a0", 10554, 12517], ["s-135ada43063c", 12547, 14800], ["s-0cc0daef5962", 15761, 19291], ["s-6ab71b69bc47", 19331, 22800], ["s-6d612de553fc", 23972, 27853], ["s-2d605989ca91", 27883, 30160], ["s-d5e8bd704074", 31521, 35167], ["s-dacccfc1e104", 35197, 37631], ["s-04043e6c35ad", 37661, 41338], ["s-248df49995b5", 41368, 42800], ["s-fb23f6891697", 43742, 47120]]

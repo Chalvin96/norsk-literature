@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "0cce999f668e449de2264fcd2e5e0030512615b25c259692bccde3e99d5c4ad6"
 audio_url: "https://media.umebocchi.my.id/audio/stories/oksene-og-slakterne/71cc804906aaaf0c0b8acd1fa67b5f77.mp3"
 sentence_timings: [["s-6a479e082258", 511, 4412], ["s-c13ff2ba5ceb", 4432, 7480], ["s-c9f09dcc8590", 8842, 12393], ["s-4ddbfdaaf2e1", 12413, 14520], ["s-0a0133ac95eb", 15881, 20348], ["s-464dd064eddf", 20368, 24434], ["s-1016c9a2663e", 24474, 26197], ["s-10219c469dcd", 26217, 28480], ["s-7d3a0f5597ae", 29571, 34288], ["s-a989741bd8f0", 34318, 37012], ["s-4d0ebdfb07f8", 37052, 39115], ["s-2e2cda249b95", 39155, 42720], ["s-5c6017eaddda", 43693, 46320]]

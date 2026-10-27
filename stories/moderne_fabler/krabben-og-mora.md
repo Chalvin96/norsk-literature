@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "a72f812c1ac5d96888ee08d79198693e13dfbde6c5ecf1d4ab34e38abac8177f"
 audio_url: "https://media.umebocchi.my.id/audio/stories/krabben-og-mora/e0f81472986c39743d7ee0742793bade.mp3"
 sentence_timings: [["s-fb81ead1128c", 320, 2342], ["s-c9d9ee2586b1", 2382, 4785], ["s-5fc71ff2a507", 4805, 6486], ["s-f4d3e034fa4c", 6566, 8629], ["s-16a1d1b7fc1d", 8659, 11752], ["s-5eafa421861f", 11772, 14735], ["s-1c6a60721c88", 14755, 17478], ["s-a84a0a763c0f", 17498, 19960], ["s-adb5df167fb0", 20741, 23560]]

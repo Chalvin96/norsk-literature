@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "2992636694fd4f0d23724b3a4ff34f6d0feda77e93b83f8b3346211f7b7b5010"
 audio_url: "https://media.umebocchi.my.id/audio/stories/eselet-hanen-og-loven/150ce65616f18c3c098911ec19dc1632.mp3"
 sentence_timings: [["s-5b2c65c4b664", 571, 4385], ["s-9c94820cff0c", 4415, 7728], ["s-e6b781f190e9", 7768, 11092], ["s-43e00c99681e", 11112, 13174], ["s-c5f7f4b42763", 13214, 17018], ["s-36fbca29b251", 17058, 18880], ["s-d52b234c4727", 20161, 23225], ["s-0756d932a15d", 23265, 25648], ["s-a3c258844c25", 25688, 28652], ["s-8039434ef5e6", 28862, 32157], ["s-436fa173e4d8", 32197, 34800], ["s-7d66b70013d2", 35510, 37880]]

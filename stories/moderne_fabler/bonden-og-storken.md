@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "aa965f9d6d28b46fad63df060e7c3fbe747a79da7e92c38957d5f789473d8de3"
 audio_url: "https://media.umebocchi.my.id/audio/stories/bonden-og-storken/9ee172312ea743b887c204855895737d.mp3"
 sentence_timings: [["s-f160fcaf15c3", 791, 4105], ["s-cdfa9e4172aa", 4145, 6468], ["s-ebe137f35adb", 6528, 9331], ["s-1ebb0485d80e", 9371, 11594], ["s-2f06f774bd6e", 11654, 14617], ["s-1a5c94e37bec", 14697, 17040], ["s-f1ad0131f0e3", 18321, 21123], ["s-b0a0bf635693", 21163, 23224], ["s-05fd47abffb2", 23264, 26827], ["s-2c91736b7b33", 26867, 30750], ["s-99d996e16c08", 30790, 33393], ["s-d8e9ebcbf0bb", 33433, 35714], ["s-248781c2bb5a", 35754, 38116], ["s-2d3bd4156f15", 38156, 39998], ["s-29024d81cda5", 40018, 42840], ["s-1ef4c6e4432e", 43490, 47428], ["s-3f6bec13a7db", 47458, 52117], ["s-a46167fbf3cc", 52147, 53920], ["s-ddab01d0a640", 54994, 57000]]

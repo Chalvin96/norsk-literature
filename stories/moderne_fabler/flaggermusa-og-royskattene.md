@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "a1fc000a40736745d6ef3bb08eceda2530cdee0ff30a544e64590d895f2674ef"
 audio_url: "https://media.umebocchi.my.id/audio/stories/flaggermusa-og-royskattene/8414fb563b7ca20afb45c41d26172669.mp3"
 sentence_timings: [["s-22a066e1e089", 471, 2544], ["s-05acaebec726", 2574, 6411], ["s-3f0b901b3d62", 6451, 8054], ["s-b869069aef17", 8244, 11720], ["s-0608a4c063a4", 12781, 16786], ["s-710b78894350", 16826, 19090], ["s-1496702f592e", 19110, 22715], ["s-e63650ebff5b", 22755, 24617], ["s-4fd0060a614f", 24637, 26560], ["s-3803f183cb46", 27511, 30466], ["s-0592d0f51ec8", 30516, 35757], ["s-a823e64a8782", 35777, 37560], ["s-524bddfa196e", 38573, 41160]]

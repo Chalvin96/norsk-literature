@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "368af4e5457f302a5489594047ef9f243621ca420321e5ba33716a2460bf7b8e"
 audio_url: "https://media.umebocchi.my.id/audio/stories/loven-og-musen/f25f46719072c8cd6f933102f2051cd9.mp3"
 sentence_timings: [["s-aacec99a7604", 370, 4164], ["s-d35d8bfc9fc9", 4204, 8709], ["s-a29d62c60aa5", 8729, 17178], ["s-4942da313447", 17218, 19480], ["s-1a0bf319d09a", 20581, 24466], ["s-fe44c77eba70", 24506, 27931], ["s-9e4fae1ad5ea", 27971, 31355], ["s-d25fa12acd27", 31375, 34720], ["s-8c5a572d7087", 36061, 40808], ["s-d41efea8cb8e", 40838, 45916], ["s-9520f3aedd47", 45956, 48240]]

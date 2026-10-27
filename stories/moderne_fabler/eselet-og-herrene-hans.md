@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "359d27402349d07e025961b103f91bc8aa9b4c883ec5ae1c3ac977a8116760e5"
 audio_url: "https://media.umebocchi.my.id/audio/stories/eselet-og-herrene-hans/ebb88e7ba279728adaf1921cec9545b9.mp3"
 sentence_timings: [["s-03236cc61400", 631, 3786], ["s-2ee391cabe91", 3826, 7392], ["s-c538c7d2f624", 7422, 10857], ["s-a55dffd4b071", 10897, 12560], ["s-1e98d06bd07a", 13841, 17786], ["s-aeae8fc95359", 17826, 21671], ["s-09db1c8ce8be", 21711, 26457], ["s-51d3afa0321c", 26497, 28640], ["s-28e0c13c32ab", 29631, 34026], ["s-15167bd26ab8", 34067, 37331], ["s-e5393f48aa79", 37391, 40856], ["s-5b1befd8bd0c", 40876, 44080], ["s-850a8858c311", 44800, 48125], ["s-6340d7e9cf14", 48175, 52150], ["s-03ee23ac0862", 52190, 54353], ["s-dec67b844445", 54393, 57197], ["s-c288d8832e6b", 57267, 59440]]

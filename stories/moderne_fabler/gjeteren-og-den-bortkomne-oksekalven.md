@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "8ca50586ce82636de708fc2931db135a41e2c36a87a0e2d6153295c6caa3ad7b"
 audio_url: "https://media.umebocchi.my.id/audio/stories/gjeteren-og-den-bortkomne-oksekalven/803bace481f3ee1687b836f5a9fab34e.mp3"
 sentence_timings: [["s-6235a8b7b45f", 431, 3084], ["s-da6a5f3004df", 3114, 5907], ["s-7432bf85f090", 5937, 8130], ["s-073fb767dea1", 8150, 11614], ["s-05ec198b288a", 11654, 13716], ["s-337d8c9dfaec", 13756, 17000], ["s-924578d04475", 18591, 21023], ["s-69e721477b2c", 21083, 24085], ["s-a50bbbbcf1c8", 24125, 27607], ["s-71407beeb3cf", 27627, 31791], ["s-dbb1051851a8", 31821, 35453], ["s-36932de8f38d", 35493, 37435], ["s-03f99bf5fe9d", 37455, 39636], ["s-3cddad7fdc64", 39796, 42218], ["s-054b8d91351b", 42238, 44560]]

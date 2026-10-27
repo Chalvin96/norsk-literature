@@ -9,7 +9,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.no"
 authors: "Wikipedia contributors; see linked revision history"
 source_revision: "25846448"
-level_status: "ungraded"
 content_sha256: "fc38df31febed5eb9de8a2d113ebfecc183a081d30da7266ad24cbf90818cf27"
 audio_url: "https://media.umebocchi.my.id/audio/stories/midnattssol/f690524f690fdc029c63abc1e56d49c5.mp3"
 sentence_timings: [["s-eacbbbbd8c69", 420, 9769], ["s-15ae7625a45c", 9809, 22760], ["s-641e17affab8", 23791, 30051], ["s-ad3ea0565e6e", 30091, 35200], ["s-187930a17122", 35980, 45750], ["s-da1ae44b0edf", 45790, 56600], ["s-71b87f4f42aa", 57550, 71640], ["s-a659ac17b437", 72651, 78068], ["s-b57a4d789842", 78088, 81994], ["s-82bc112fa59c", 82034, 86280], ["s-2aa618b01c13", 87180, 92166], ["s-ff5fc6d7cdad", 92226, 101537], ["s-1dce8b484ff5", 101597, 104600], ["s-068a262e55d9", 105553, 108080], ["s-6d36f3f4eb66", 109436, 110898], ["s-db7008468a44", 111960, 120643], ["s-06cddec25086", 120673, 131368], ["s-f55df6840390", 131408, 146374], ["s-6d44f2df8e88", 146394, 159239], ["s-ac95ffeca92b", 159259, 162460], ["s-895bc5b9941b", 164283, 169840], ["s-071ea6d08188", 170770, 187468], ["s-f4f2033d868c", 187498, 196072], ["s-880bc2bc3060", 196463, 205317], ["s-2d988c6376eb", 205377, 211920], ["s-133a1dad99ba", 212560, 214397], ["s-659f20afb18e", 215740, 227570], ["s-8ad29bdd5b14", 227600, 238960]]

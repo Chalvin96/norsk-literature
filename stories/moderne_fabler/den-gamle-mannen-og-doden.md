@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "02da9820923abf5e837789677077d90018f4b50e3d863af8e88312109a627602"
 audio_url: "https://media.umebocchi.my.id/audio/stories/den-gamle-mannen-og-doden/cd946e6bdb2c8e188b2ad4921ed517e1.mp3"
 sentence_timings: [["s-62d33e53673e", 631, 4185], ["s-8d4a1cf9dd95", 4225, 7430], ["s-c6dcd0d6f5da", 7450, 10774], ["s-87395552aa46", 10794, 15440], ["s-7e473f105783", 16411, 20166], ["s-dc14d3a1ebcc", 20206, 22929], ["s-9b25066b5bc7", 22949, 25253], ["s-1caf1f8c9e89", 25293, 28217], ["s-c6e085db1378", 28237, 30720]]

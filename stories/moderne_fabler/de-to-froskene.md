@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "6b867927983be9b46e364a8d8d94937bbcb64bc4b53cf7ebd5efe231f892e324"
 audio_url: "https://media.umebocchi.my.id/audio/stories/de-to-froskene/9d925fd3104067514434427eabee76e5.mp3"
 sentence_timings: [["s-28566a810d28", 691, 3263], ["s-d029ce67a423", 3303, 7427], ["s-65c4b083dcba", 7467, 9429], ["s-502083dead90", 9449, 13913], ["s-d71a4a90b03c", 13953, 19558], ["s-0f44a112522f", 19598, 21440], ["s-1f7a86634cfe", 22281, 26613], ["s-131252e322aa", 26643, 29320], ["s-059b1dae23ea", 30060, 32280]]

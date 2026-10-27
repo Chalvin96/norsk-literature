@@ -10,7 +10,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
 authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "2080777"
-level_status: "provisional"
 content_sha256: "c2eecda7523876bf94311b75dd7dfb05fffc329d81ddda4981a9b869377fa256"
 audio_url: "https://media.umebocchi.my.id/audio/stories/fru-trude/1147a26a88ab0f94cad1802712df709a.mp3"
 sentence_timings: [["s-bf21c7748272", 690, 3941], ["s-a64f9a68dae0", 3961, 7683], ["s-6a4af2819b4b", 7733, 9483], ["s-a3af1dfcc6a7", 9513, 14145], ["s-99d330b42da9", 14185, 15965], ["s-5f2e3735cdcd", 16015, 18246], ["s-28c052e0dd2d", 18296, 20867], ["s-bb7abf0f46a7", 20887, 23408], ["s-2d43c9e2c719", 23438, 26269], ["s-cc953104f027", 26309, 30590], ["s-783ed48a4273", 30630, 34151], ["s-0edfb6e58290", 34181, 36292], ["s-cd7b68c16cf5", 36312, 38853], ["s-fa330bb72eef", 38873, 43555], ["s-bcde456c49cf", 43575, 46095], ["s-ea31450b3f7d", 46115, 47716], ["s-8db39aa33442", 47746, 49977], ["s-72f1513c908f", 50017, 51977], ["s-2dfa9e1817b4", 52017, 53618], ["s-d8c7b10f6e0e", 53658, 55118], ["s-942079c95588", 55158, 56519], ["s-0bd4bfb784ca", 56559, 58900], ["s-f3a6fa8537b4", 58940, 60000], ["s-526e8944261c", 60780, 64883], ["s-8abd82895383", 64923, 67264], ["s-2142342f5a44", 67304, 71867], ["s-719717468e0c", 71947, 73948], ["s-e0d4cb02fc8c", 74008, 77010], ["s-6872470af334", 77030, 79992], ["s-feaf6e534dbb", 80012, 81893], ["s-d8b7808eb30c", 81913, 86256], ["s-651d389edc3d", 86296, 90939], ["s-131b8689eac6", 90969, 93200]]

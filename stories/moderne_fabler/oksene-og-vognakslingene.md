@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "9473c25225fe3b02bd4f8bcb5b616412866d833ab6db8f84c8d28b719ccf71f2"
 audio_url: "https://media.umebocchi.my.id/audio/stories/oksene-og-vognakslingene/48d9d30bf091c46256c888d2d62c433d.mp3"
 sentence_timings: [["s-49fbd38617b5", 811, 5246], ["s-f5d7d96a0ff8", 5286, 8609], ["s-9d596ab85363", 8649, 11973], ["s-be7995958023", 11993, 14015], ["s-99abbed5d862", 14035, 17118], ["s-ae18e26bcb42", 17178, 18760], ["s-fb49cc7a495d", 19500, 22280]]

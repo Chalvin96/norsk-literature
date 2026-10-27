@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "35a9279440c9ac51fcd1eff9e5457e4cc83b9c5b399a8ded2d58e456cfdccafb"
 audio_url: "https://media.umebocchi.my.id/audio/stories/etiopieren/36c0c22820609d54a05fc1f1fe8dca65.mp3"
 sentence_timings: [["s-8f19f9c07338", 481, 2846], ["s-fbe093348364", 2886, 6614], ["s-8b70c41efd3d", 6654, 9600], ["s-7730546cf627", 11071, 14946], ["s-02541ed13a8c", 14976, 18792], ["s-f15f8cc06207", 18822, 21435], ["s-f55c1c56e6d6", 21455, 24880], ["s-581145ab0f72", 25963, 29360]]

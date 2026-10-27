@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "b57990d642690c6d23291d13b735a62a267ac745eb315941491d9e9b321130f8"
 audio_url: "https://media.umebocchi.my.id/audio/stories/harene-og-froskene/49155725cad46bfbbba8f0937011913a.mp3"
 sentence_timings: [["s-aa6d77d8bd19", 691, 3645], ["s-c09bc67fd6d1", 3685, 6610], ["s-18bac0a70755", 6650, 10235], ["s-761a3082d49a", 10255, 13640], ["s-90a4f2096240", 14581, 19007], ["s-2c4144e24b9f", 19067, 22893], ["s-58932259bc1f", 22913, 26578], ["s-448692a8d617", 26618, 28080], ["s-3039947190bd", 29021, 32466], ["s-55efef9cd22c", 32496, 35812], ["s-0c651ad9b5ff", 35832, 37895], ["s-4ffa18ad0428", 37925, 40960]]

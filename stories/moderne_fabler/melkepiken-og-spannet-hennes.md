@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "912bbd6253f5ba09cc6bea9438ceb7adc7c9338d8c685a3b23272772926bea13"
 audio_url: "https://media.umebocchi.my.id/audio/stories/melkepiken-og-spannet-hennes/c19a245d8fff41d054d9775196350154.mp3"
 sentence_timings: [["s-f8685dd1c98d", 431, 4653], ["s-43f2352cde40", 4673, 7040], ["s-06065ab001f5", 7850, 11665], ["s-7da2e6800654", 11705, 15530], ["s-aaf4a243def7", 15550, 19595], ["s-5aa3a09ef0d5", 19615, 24040], ["s-9658bd0d24fa", 25111, 28027], ["s-891691129d68", 28047, 30473], ["s-8789b0d17b97", 30503, 33880], ["s-e46422c5c507", 34921, 39650], ["s-6f3152441df2", 39680, 45280]]

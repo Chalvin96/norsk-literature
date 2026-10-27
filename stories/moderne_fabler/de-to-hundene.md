@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "013082c275561cdc917ef93aa970b91e49725f4b3eeb49409a0f812f7a7be131"
 audio_url: "https://media.umebocchi.my.id/audio/stories/de-to-hundene/0da8295b41fc1ab8eaa37fc3b6da7fa3.mp3"
 sentence_timings: [["s-e77730e0c4f8", 370, 2142], ["s-cb554f7e5e11", 2172, 5165], ["s-8a6968bb50a4", 5205, 8108], ["s-53d2105e5887", 8278, 11872], ["s-68b1af38b75b", 11912, 15075], ["s-3781eb09c308", 15265, 18198], ["s-6bef842d1c03", 18238, 19480], ["s-f0d7bf786369", 20911, 23107], ["s-cd0d1fb3f2ab", 23137, 24911], ["s-e20a2f4f15b9", 25101, 28320], ["s-5535947efe5e", 29401, 33208], ["s-ac47938920a2", 33248, 35252], ["s-0607144e769a", 35282, 37175], ["s-5ed470362a3d", 37215, 39640], ["s-2835b11236e6", 40562, 43480]]

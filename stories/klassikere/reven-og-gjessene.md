@@ -10,7 +10,6 @@ license: "Creative Commons Attribution-Share Alike 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
 authors: "Jacob Grimm (1785–1863) and Wilhelm Grimm (1786–1859)"
 source_revision: "3433621"
-level_status: "provisional"
 content_sha256: "52887485d09719c188b53ece81bbf8ac2ad7c880cd1b2051249bd78ddf0de3ec"
 audio_url: "https://media.umebocchi.my.id/audio/stories/reven-og-gjessene/f0632dea749aeb70b959967eb5517d0c.mp3"
 sentence_timings: [["s-2b89898c37a5", 681, 4909], ["s-37f4cb642a5c", 4939, 7533], ["s-4413475fe10c", 7563, 9277], ["s-6fa6accffcb5", 9477, 11200], ["s-24380fefc3ad", 12291, 16548], ["s-abe8bda771e7", 16568, 18411], ["s-d0e27f6a2455", 18432, 20335], ["s-5ecaf1fcf994", 20365, 22539], ["s-f7cf54d4465f", 22559, 22959], ["s-f1880e4fa2e4", 24351, 26884], ["s-44e5d1d35221", 26914, 32211], ["s-b706615a5c41", 32231, 35114], ["s-d55af9d5262d", 35324, 37357], ["s-710af26fedb7", 37567, 39480], ["s-a2aa7806fb67", 40340, 42002], ["s-7fe16bd70bc0", 42042, 44384], ["s-e24e3d8899fc", 44424, 46566], ["s-00d0bb3b6046", 46596, 49589], ["s-0b80ef120091", 49609, 51791], ["s-c89f4c72d480", 51811, 53092], ["s-290ddd70a9b5", 53292, 57296], ["s-ccd156740b32", 57506, 59459], ["s-2c9f2c49370a", 59479, 61000], ["s-11b31107ca3d", 61981, 65912], ["s-58b45eaea51c", 65932, 69000]]

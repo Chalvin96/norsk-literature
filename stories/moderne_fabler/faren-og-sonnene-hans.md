@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "a7e8657b130e18fa0f188cb953fafa6933b36d44ee05c6b857cddc83288f18b3"
 audio_url: "https://media.umebocchi.my.id/audio/stories/faren-og-sonnene-hans/f74f318ffeb797e4d55295eeeae03b02.mp3"
 sentence_timings: [["s-5a396d5dc5f1", 631, 4545], ["s-6c0d847d9b5e", 4575, 9831], ["s-26945eae0c97", 9872, 14957], ["s-c42e7d104e46", 14997, 17160], ["s-be51e6a4f7c5", 18261, 22149], ["s-3f7074f40f2a", 22190, 24334], ["s-540cd69b2227", 24504, 27040], ["s-c595b3928c12", 28021, 32692], ["s-8f7bbe223eec", 32712, 34676], ["s-7bb0a7e3a737", 34696, 36240], ["s-6d9152219fd1", 37541, 46810], ["s-551b0a439df3", 46840, 51976], ["s-579017fea914", 52016, 55840]]

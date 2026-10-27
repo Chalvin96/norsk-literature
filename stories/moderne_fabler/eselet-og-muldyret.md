@@ -9,7 +9,6 @@ source_url: "https://www.gutenberg.org/ebooks/21"
 license: "Public domain in USA; other jurisdictions require review"
 license_url: "https://www.gutenberg.org/policy/permission"
 authors: "Aesop"
-level_status: "provisional"
 content_sha256: "9580aba75378476f1da34ea4127d6466e6c8977fe2704d9f1f9e9de1417d210f"
 audio_url: "https://media.umebocchi.my.id/audio/stories/eselet-og-muldyret/ec865279686977a8ef777e74167035ed.mp3"
 sentence_timings: [["s-8075520c5530", 771, 5927], ["s-d15c8a58147f", 5967, 8069], ["s-14d415fe100d", 8109, 11814], ["s-d34b7316f468", 11834, 14417], ["s-9d2bf94fe474", 14457, 17280], ["s-5cf9379e8c59", 18491, 23150], ["s-99ee902753c1", 23170, 25635], ["s-f12e09bf3c2e", 25655, 28120], ["s-540af8a5bfe2", 29301, 33348], ["s-aa7c80e030d6", 33388, 36673], ["s-cb9791eda41f", 36713, 40720], ["s-c2402fe54518", 41911, 46809], ["s-6b215cb63ac5", 46829, 50154], ["s-a60f615313e0", 50174, 53560]]
