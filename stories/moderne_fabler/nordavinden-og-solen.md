@@ -20,6 +20,9 @@ authors: "Aesop"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
 content_sha256: "0660fe5903ebed558bcc1f57f244788ee49a1f1607d93cc59e5531c63468e9da"
+audio_url: "https://media.umebocchi.my.id/audio/stories/nordavinden-og-solen/4a17c722e37dc8ff0ce0cc6750788f4d.mp3"
+sentence_timings: [["s-1414b8f0bf46", 791, 5910], ["s-9a0abca7ed7b", 5950, 11400], ["s-b1e28b4d8c5e", 12521, 16366], ["s-2eb6aee86dc0", 16406, 21272], ["s-f08e06a50b4c", 21292, 25738], ["s-0459f1c5b745", 28211, 31925], ["s-5cdcd5f1127f", 32025, 38692], ["s-167849669bed", 38742, 45280], ["s-dff98b813134", 46585, 48800]]
+sentence_spans: [["s-1414b8f0bf46", 0, 61], ["s-9a0abca7ed7b", 62, 157], ["s-b1e28b4d8c5e", 159, 207], ["s-2eb6aee86dc0", 208, 282], ["s-f08e06a50b4c", 283, 371], ["s-0459f1c5b745", 373, 414], ["s-5cdcd5f1127f", 415, 513], ["s-167849669bed", 514, 613], ["s-dff98b813134", 615, 646]]
 ---
 
 Nordavinden og solen diskuterte hvem av dem som var sterkest. De ble enige om at den som først fikk en mann på vandring til å ta av seg klærne, skulle vinne.

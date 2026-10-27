@@ -12,6 +12,9 @@ authors: "Aesop"
 translation_status: "ai_reviewed_provisional"
 level_status: "provisional"
 content_sha256: "aa7bcf73e746d8b531fddddc09c69fdff629f9072c2b60e68222a851752246cc"
+audio_url: "https://media.umebocchi.my.id/audio/stories/loven-som-var-forelsket/1129ba6f8abaa35c2f553e82264e05d9.mp3"
+sentence_timings: [["s-6b77575e1498", 412, 3159], ["s-26bedad57f93", 4722, 7911], ["s-807938c6b2ed", 7951, 11360], ["s-1079a845d6ed", 12361, 17209], ["s-698ca5fbb5c8", 17229, 21256], ["s-78f5549603ce", 21296, 23720], ["s-16abab629849", 24685, 25800], ["s-28eb0665925d", 26791, 29526], ["s-cea7ba891e84", 29546, 31230], ["s-546d288df605", 31270, 33274], ["s-269648f73cb7", 33294, 36560]]
+sentence_spans: [["s-6b77575e1498", 0, 52], ["s-26bedad57f93", 54, 109], ["s-807938c6b2ed", 110, 169], ["s-1079a845d6ed", 171, 237], ["s-698ca5fbb5c8", 238, 306], ["s-78f5549603ce", 307, 347], ["s-16abab629849", 349, 366], ["s-28eb0665925d", 368, 406], ["s-cea7ba891e84", 407, 432], ["s-546d288df605", 433, 469], ["s-269648f73cb7", 470, 527]]
 ---
 
 En løve krevde å få tømmerhoggerens datter til kone.
