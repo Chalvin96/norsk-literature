@@ -14,8 +14,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Bymusa og landmusa
 
 - File: `stories/moderne_fabler/bymusa-og-landmusa.md`
@@ -27,8 +25,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## De to froskene
 
@@ -42,8 +38,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Eika og sivene
 
 - File: `stories/moderne_fabler/eika-og-sivene.md`
@@ -55,8 +49,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Eselet i løveskinnet
 
@@ -70,8 +62,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Faren og sønnene hans
 
 - File: `stories/moderne_fabler/faren-og-sonnene-hans.md`
@@ -83,8 +73,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Gjetergutten og ulven
 
@@ -98,8 +86,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Gutten og hasselnøttene
 
 - File: `stories/moderne_fabler/gutten-og-hasselnottene.md`
@@ -111,8 +97,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Haren og skilpadden
 
@@ -126,8 +110,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Hunden og skyggen
 
 - File: `stories/moderne_fabler/hunden-og-skyggen.md`
@@ -139,8 +121,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Kråka og krukken
 
@@ -154,8 +134,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Løven og musen
 
 - File: `stories/moderne_fabler/loven-og-musen.md`
@@ -167,8 +145,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Mauren og duen
 
@@ -182,8 +158,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Maurene og gresshoppen
 
 - File: `stories/moderne_fabler/maurene-og-gresshoppen.md`
@@ -195,8 +169,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Melkepiken og spannet hennes
 
@@ -210,8 +182,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Nordavinden og solen
 
 - File: `stories/moderne_fabler/nordavinden-og-solen.md`
@@ -223,386 +193,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
-
-## Around the World in 80 Days
-
-- File: `stories/klassikere/pg103-around-world-80-days.md`
-
-- Source: https://www.gutenberg.org/ebooks/103
-
-- Author(s): Jules Verne (1828–1905)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Alice in Wonderland
-
-- File: `stories/klassikere/pg11-alice-wonderland.md`
-
-- Source: https://www.gutenberg.org/ebooks/11
-
-- Author(s): Lewis Carroll (1832–1898)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Treasure Island
-
-- File: `stories/klassikere/pg120-treasure-island.md`
-
-- Source: https://www.gutenberg.org/ebooks/120
-
-- Author(s): Robert Louis Stevenson (1850–1894)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Jane Eyre
-
-- File: `stories/klassikere/pg1260-jane-eyre.md`
-
-- Source: https://www.gutenberg.org/ebooks/1260
-
-- Author(s): Charlotte Brontë (1816–1855)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Pride and Prejudice
-
-- File: `stories/klassikere/pg1342-pride-prejudice.md`
-
-- Source: https://www.gutenberg.org/ebooks/1342
-
-- Author(s): Jane Austen (1775–1817)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Great Expectations
-
-- File: `stories/klassikere/pg1400-great-expectations.md`
-
-- Source: https://www.gutenberg.org/ebooks/1400
-
-- Author(s): Charles Dickens (1812–1870)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Romeo and Juliet
-
-- File: `stories/klassikere/pg1513-romeo-juliet.md`
-
-- Source: https://www.gutenberg.org/ebooks/1513
-
-- Author(s): William Shakespeare (1564–1616)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Hamlet
-
-- File: `stories/klassikere/pg1524-hamlet.md`
-
-- Source: https://www.gutenberg.org/ebooks/1524
-
-- Author(s): William Shakespeare (1564–1616)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Peter Pan
-
-- File: `stories/klassikere/pg16-peter-pan.md`
-
-- Source: https://www.gutenberg.org/ebooks/16
-
-- Author(s): J. M. Barrie (1860–1937)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Sherlock Holmes
-
-- File: `stories/klassikere/pg1661-sherlock-holmes.md`
-
-- Source: https://www.gutenberg.org/ebooks/1661
-
-- Author(s): Arthur Conan Doyle (1859–1930)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## The Secret Garden
-
-- File: `stories/klassikere/pg17396-secret-garden.md`
-
-- Source: https://www.gutenberg.org/ebooks/17396
-
-- Author(s): Frances Hodgson Burnett (1849–1924)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## The Picture of Dorian Gray
-
-- File: `stories/klassikere/pg174-dorian-gray.md`
-
-- Source: https://www.gutenberg.org/ebooks/174
-
-- Author(s): Oscar Wilde (1854–1900)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## The Call of the Wild
-
-- File: `stories/klassikere/pg215-call-of-the-wild.md`
-
-- Source: https://www.gutenberg.org/ebooks/215
-
-- Author(s): Jack London (1876–1916)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## The Jungle Book
-
-- File: `stories/klassikere/pg236-jungle-book.md`
-
-- Source: https://www.gutenberg.org/ebooks/236
-
-- Author(s): Rudyard Kipling (1865–1936)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Moby-Dick
-
-- File: `stories/klassikere/pg2701-moby-dick.md`
-
-- Source: https://www.gutenberg.org/ebooks/2701
-
-- Author(s): Herman Melville (1819–1891)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Dracula
-
-- File: `stories/klassikere/pg345-dracula.md`
-
-- Source: https://www.gutenberg.org/ebooks/345
-
-- Author(s): Bram Stoker (1847–1912)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## The Time Machine
-
-- File: `stories/klassikere/pg35-time-machine.md`
-
-- Source: https://www.gutenberg.org/ebooks/35
-
-- Author(s): H. G. Wells (1866–1946)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Anne of Green Gables
-
-- File: `stories/klassikere/pg45-anne-green-gables.md`
-
-- Source: https://www.gutenberg.org/ebooks/45
-
-- Author(s): L. M. Montgomery (1874–1942)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## A Christmas Carol
-
-- File: `stories/klassikere/pg46-christmas-carol.md`
-
-- Source: https://www.gutenberg.org/ebooks/46
-
-- Author(s): Charles Dickens (1812–1870)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Little Women
-
-- File: `stories/klassikere/pg514-little-women.md`
-
-- Source: https://www.gutenberg.org/ebooks/514
-
-- Author(s): Louisa May Alcott (1832–1888)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## The Invisible Man
-
-- File: `stories/klassikere/pg5230-invisible-man.md`
-
-- Source: https://www.gutenberg.org/ebooks/5230
-
-- Author(s): H. G. Wells (1866–1946)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## The Wizard of Oz
-
-- File: `stories/klassikere/pg55-wizard-of-oz.md`
-
-- Source: https://www.gutenberg.org/ebooks/55
-
-- Author(s): L. Frank Baum (1856–1919)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## The Great Gatsby
-
-- File: `stories/klassikere/pg64317-great-gatsby.md`
-
-- Source: https://www.gutenberg.org/ebooks/64317
-
-- Author(s): F. Scott Fitzgerald (1896–1940)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Oliver Twist
-
-- File: `stories/klassikere/pg730-oliver-twist.md`
-
-- Source: https://www.gutenberg.org/ebooks/730
-
-- Author(s): Charles Dickens (1812–1870)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## The Adventures of Tom Sawyer
-
-- File: `stories/klassikere/pg74-tom-sawyer.md`
-
-- Source: https://www.gutenberg.org/ebooks/74
-
-- Author(s): Mark Twain (1835–1910)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Wuthering Heights
-
-- File: `stories/klassikere/pg768-wuthering-heights.md`
-
-- Source: https://www.gutenberg.org/ebooks/768
-
-- Author(s): Emily Brontë (1818–1848)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
-
-## Frankenstein
-
-- File: `stories/klassikere/pg84-frankenstein.md`
-
-- Source: https://www.gutenberg.org/ebooks/84
-
-- Author(s): Mary Wollstonecraft Shelley (1797–1851)
-
-- License: Public domain in Norway; Project Gutenberg marks the source edition public domain in the USA (https://www.regjeringen.no/no/tema/kultur-idrett-og-frivillighet/opphavsrett/innsiktsartikler/Opphavsrett1/id2000944/)
-
-- Changes: Gutenberg envelope removed; complete source book retained as one story unit.
-
-- Review status: awaiting_translation
 
 ## Reven og druene
 
@@ -616,8 +206,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Reven og geita
 
 - File: `stories/moderne_fabler/reven-og-geita.md`
@@ -629,8 +217,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Reven og kråka
 
@@ -644,8 +230,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Ulven og lammet
 
 - File: `stories/moderne_fabler/ulven-og-lammet.md`
@@ -657,8 +241,6 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Stavkirke
 
@@ -674,8 +256,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Brunost
 
 - File: `stories/norsk_fakta/brunost.md`
@@ -689,8 +269,6 @@ Each story keeps its own source license. The repository license does not overrid
 - Source revision: 25216091
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Hurtigruten
 
@@ -706,8 +284,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Matpakke
 
 - File: `stories/norsk_fakta/matpakke.md`
@@ -721,8 +297,6 @@ Each story keeps its own source license. The repository license does not overrid
 - Source revision: 21454802
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Friluftsliv
 
@@ -738,8 +312,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Aurora polaris
 
 - File: `stories/norsk_fakta/aurora-polaris.md`
@@ -753,8 +325,6 @@ Each story keeps its own source license. The repository license does not overrid
 - Source revision: 25856704
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Midnattssol
 
@@ -770,8 +340,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Vafler
 
 - File: `stories/norsk_fakta/vafler.md`
@@ -785,8 +353,6 @@ Each story keeps its own source license. The repository license does not overrid
 - Source revision: 25945223
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Dugnad
 
@@ -802,8 +368,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Allemannsretten
 
 - File: `stories/norsk_fakta/allemannsretten.md`
@@ -817,8 +381,6 @@ Each story keeps its own source license. The repository license does not overrid
 - Source revision: 25611231
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Bunad
 
@@ -834,8 +396,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Fjord
 
 - File: `stories/norsk_fakta/fjord.md`
@@ -849,8 +409,6 @@ Each story keeps its own source license. The repository license does not overrid
 - Source revision: 25906327
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Askeladden som kappåt med trollet
 
@@ -866,8 +424,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Herreper
 
 - File: `stories/norske_eventyr/wikikilden-herreper.md`
@@ -882,8 +438,6 @@ Each story keeps its own source license. The repository license does not overrid
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Soria Moria slott
 
 - File: `stories/norske_eventyr/wikikilden-soria-moria.md`
@@ -897,8 +451,6 @@ Each story keeps its own source license. The repository license does not overrid
 - Source revision: 20669
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Cover-image credits
 
@@ -916,8 +468,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den gamle mannen og døden
 
 - File: `stories/moderne_fabler/den-gamle-mannen-og-doden.md`
@@ -929,8 +479,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den rampete hunden
 
@@ -944,8 +492,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den reisende og hunden
 
 - File: `stories/moderne_fabler/den-reisende-og-hunden.md`
@@ -957,8 +503,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den stolte kaia
 
@@ -972,8 +516,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den syke løven
 
 - File: `stories/moderne_fabler/den-syke-loven.md`
@@ -985,8 +527,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den tørste dua
 
@@ -1000,8 +540,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Fjellet som skulle føde
 
 - File: `stories/moderne_fabler/fjellet-som-skulle-fode.md`
@@ -1013,8 +551,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Krabben og mora
 
@@ -1028,8 +564,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Mannen, hesten, oksen og hunden
 
 - File: `stories/moderne_fabler/mannen-hesten-oksen-og-hunden.md`
@@ -1041,8 +575,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Muldvarpen og mora
 
@@ -1056,8 +588,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Musene og røyskattene
 
 - File: `stories/moderne_fabler/musene-og-royskattene.md`
@@ -1069,8 +599,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Musenes rådsmøte
 
@@ -1084,8 +612,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Ridderen som var skallet
 
 - File: `stories/moderne_fabler/ridderen-som-var-skallet.md`
@@ -1097,8 +623,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Tyven og mora
 
@@ -1112,8 +636,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## De to pottene
 
 - File: `stories/moderne_fabler/de-to-pottene.md`
@@ -1125,8 +647,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Fårikål
 
@@ -1142,8 +662,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Holmenkollen
 
 - File: `stories/norsk_fakta/holmenkollen.md`
@@ -1157,8 +675,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 25752583
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Hytte
 
@@ -1174,8 +690,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Isbjørn
 
 - File: `stories/norsk_fakta/isbjorn.md`
@@ -1189,8 +703,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 26001333
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Julebord
 
@@ -1206,8 +718,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
 
-- Review status: source_text_ungraded
-
 ## Kvikk Lunsj
 
 - File: `stories/norsk_fakta/kvikk-lunsj.md`
@@ -1221,8 +731,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 25309323
 
 - Changes: Prose extraction at paragraph boundaries; tables, images, captions, references, templates and navigation omitted.
-
-- Review status: source_text_ungraded
 
 ## Bamse bra-kar
 
@@ -1238,8 +746,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## De tre bukkene Bruse som skulle til seters og bli fete
 
 - File: `stories/norske_eventyr/de-tre-bukkene-bruse-som-skulle-til-seters-og-bli-fete.md`
@@ -1253,8 +759,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 183617
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den syvende far i huset
 
@@ -1270,8 +774,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Mannen som skulle stelle hjemme
 
 - File: `stories/norske_eventyr/mannen-som-skulle-stelle-hjemme.md`
@@ -1285,8 +787,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 20560
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Presten og klokkeren
 
@@ -1302,8 +802,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Gudbrand i Lia
 
 - File: `stories/norske_eventyr/gudbrand-i-lia.md`
@@ -1317,8 +815,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 20868
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Prinsessa som ingen kunne målbinde
 
@@ -1334,8 +830,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Smørbukk
 
 - File: `stories/norske_eventyr/smorbukk.md`
@@ -1349,8 +843,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 20624
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Risen som ikke hadde noe hjerte på seg
 
@@ -1366,8 +858,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Småguttene som traff trollene på Hedalsskogen
 
 - File: `stories/norske_eventyr/smaguttene-som-traff-trollene-pa-hedalsskogen.md`
@@ -1381,8 +871,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 281272
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Kjerringa mot strømmen
 
@@ -1398,8 +886,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Kverna som står og maler på havets bunn
 
 - File: `stories/norske_eventyr/kverna-som-star-og-maler-pa-havets-bunn.md`
@@ -1413,8 +899,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 20622
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Bymusikantene fra Bremen
 
@@ -1430,8 +914,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den søte grøten
 
 - File: `stories/klassikere/den-sote-groten.md`
@@ -1445,8 +927,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3445434
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den uartige gutten
 
@@ -1462,8 +942,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Keiserens nye klær
 
 - File: `stories/klassikere/keiserens-nye-klaer.md`
@@ -1477,8 +955,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68277
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Prinsessen på erten
 
@@ -1494,8 +970,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Snømannen
 
 - File: `stories/klassikere/snomannen.md`
@@ -1509,8 +983,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68317
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Tekannen
 
@@ -1526,8 +998,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Faderen
 
 - File: `stories/klassikere/faderen.md`
@@ -1541,8 +1011,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 59434
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Rødhette
 
@@ -1558,8 +1026,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Ulven og de sju geitekillingene
 
 - File: `stories/klassikere/ulven-og-de-sju-geitekillingene.md`
@@ -1573,8 +1039,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3467054
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den standhaftige tinnsoldaten
 
@@ -1590,8 +1054,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Svinegjeteren
 
 - File: `stories/klassikere/svinegjeteren.md`
@@ -1605,8 +1067,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68323
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Mor Hulda
 
@@ -1622,8 +1082,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Tommeliden
 
 - File: `stories/norske_eventyr/tommeliden.md`
@@ -1637,8 +1095,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 292811
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Vesle Åse gåsepike
 
@@ -1654,8 +1110,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Bjørnen og reven
 
 - File: `stories/moderne_fabler/bjornen-og-reven.md`
@@ -1667,8 +1121,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Bonden og slangen
 
@@ -1682,8 +1134,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Bonden og storken
 
 - File: `stories/moderne_fabler/bonden-og-storken.md`
@@ -1695,8 +1145,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Eselet og gresshoppa
 
@@ -1710,8 +1158,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Eselet, reven og løven
 
 - File: `stories/moderne_fabler/eselet-reven-og-loven.md`
@@ -1723,8 +1169,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Fiskeren som spilte fløyte
 
@@ -1738,8 +1182,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Flaggermusa og røyskattene
 
 - File: `stories/moderne_fabler/flaggermusa-og-royskattene.md`
@@ -1751,8 +1193,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Fluene og honningkrukka
 
@@ -1766,8 +1206,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Froskene ber om en konge
 
 - File: `stories/moderne_fabler/froskene-ber-om-en-konge.md`
@@ -1779,8 +1217,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Hanen og edelsteinen
 
@@ -1794,8 +1230,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Hunden i krybba
 
 - File: `stories/moderne_fabler/hunden-i-krybba.md`
@@ -1807,8 +1241,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Kullbrenneren og valkeren
 
@@ -1822,8 +1254,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Løvens rike
 
 - File: `stories/moderne_fabler/lovens-rike.md`
@@ -1835,8 +1265,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Mannen og løven
 
@@ -1850,8 +1278,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Oksene og vognakslingene
 
 - File: `stories/moderne_fabler/oksene-og-vognakslingene.md`
@@ -1863,8 +1289,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Rådyrkalven og mora
 
@@ -1878,8 +1302,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Skilpadda og ørnen
 
 - File: `stories/moderne_fabler/skilpadda-og-ornen.md`
@@ -1892,8 +1314,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Ulven og tranen
 
 - File: `stories/moderne_fabler/ulven-og-tranen.md`
@@ -1905,8 +1325,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Gutten som gikk til Nordavinden og krevde melet igjen
 
@@ -1922,8 +1340,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Haren og pinnsvinet
 
 - File: `stories/klassikere/haren-og-pinnsvinet.md`
@@ -1937,8 +1353,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3537411
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Vi barn: avbrutt syttende mai
 
@@ -1954,8 +1368,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## De tre mostrene
 
 - File: `stories/norske_eventyr/de-tre-mostrene.md`
@@ -1969,8 +1381,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 261497
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## De tre søstrene som ble tatt inn i berget
 
@@ -1986,8 +1396,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Dukken i gresset
 
 - File: `stories/norske_eventyr/dukken-i-gresset.md`
@@ -2001,8 +1409,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 261720
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Hanen og høna i nøtteskogen
 
@@ -2018,8 +1424,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Høna som skulle til Dovrefjell for at ikke hele verden skulle forgå
 
 - File: `stories/norske_eventyr/hona-som-skulle-til-dovrefjell-for-at-ikke-hele-verden-skulle-forga.md`
@@ -2033,8 +1437,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 292812
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Pål Andrestuen
 
@@ -2050,8 +1452,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Ravnen og svanen
 
 - File: `stories/moderne_fabler/ravnen-og-svanen.md`
@@ -2063,8 +1463,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Reven som gjeter
 
@@ -2080,8 +1478,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Reven som mistet halen
 
 - File: `stories/moderne_fabler/reven-som-mistet-halen.md`
@@ -2093,8 +1489,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Bjørnen og reven
 
@@ -2110,8 +1504,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Reven og gjessene
 
 - File: `stories/klassikere/reven-og-gjessene.md`
@@ -2125,8 +1517,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3433621
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Askeladden som stjal sølvendene, sengeteppet og gullharpa fra trollet
 
@@ -2142,8 +1532,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## De tre prinsessene i Hvittenland
 
 - File: `stories/norske_eventyr/de-tre-prinsessene-i-hvittenland.md`
@@ -2157,8 +1545,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 261449
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Jomfru Maria som gudmor
 
@@ -2174,8 +1560,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Nissen og madama
 
 - File: `stories/klassikere/nissen-og-madama.md`
@@ -2189,8 +1573,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68289
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Kjetta på Dovre
 
@@ -2206,8 +1588,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## De tre fjærene
 
 - File: `stories/klassikere/de-tre-fjaerene.md`
@@ -2221,8 +1601,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3488707
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## De tre spinnerskene
 
@@ -2238,8 +1616,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Froskekongen eller Jern-Henrik
 
 - File: `stories/klassikere/froskekongen-eller-jern-henrik.md`
@@ -2253,8 +1629,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3433594
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Rakkerpakket
 
@@ -2270,8 +1644,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Slike kjerringer
 
 - File: `stories/norske_eventyr/slike-kjerringer.md`
@@ -2285,8 +1657,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 261494
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Stjernedalerne
 
@@ -2302,8 +1672,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Buskebruden
 
 - File: `stories/norske_eventyr/buskebruden.md`
@@ -2317,8 +1685,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 289504
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Hyrdinnen og skorsteinsfeieren
 
@@ -2334,8 +1700,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Klodrian
 
 - File: `stories/klassikere/klodrian.md`
@@ -2349,8 +1713,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68292
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Kragen
 
@@ -2366,8 +1728,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Per og Pål og Askeladden
 
 - File: `stories/norske_eventyr/per-og-pal-og-askeladden.md`
@@ -2381,8 +1741,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 292796
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Piken med svovelstikkene
 
@@ -2398,8 +1756,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Tro og utro
 
 - File: `stories/norske_eventyr/tro-og-utro.md`
@@ -2413,8 +1769,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 292767
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Vel gjort og ille lønnet
 
@@ -2430,8 +1784,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den flygende kofferten
 
 - File: `stories/klassikere/den-flygende-kofferten.md`
@@ -2445,8 +1797,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 431207
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Stoppenålen
 
@@ -2462,8 +1812,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Pannekaka
 
 - File: `stories/norske_eventyr/pannekaka.md`
@@ -2477,8 +1825,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 65313
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Skarvene fra Udrøst
 
@@ -2494,8 +1840,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Per Gynt
 
 - File: `stories/norske_eventyr/per-gynt.md`
@@ -2510,8 +1854,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Astronomen
 
 - File: `stories/moderne_fabler/astronomen.md`
@@ -2523,8 +1865,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Bonden og sønnene hans
 
@@ -2538,8 +1878,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Bonden og tranene
 
 - File: `stories/moderne_fabler/bonden-og-tranene.md`
@@ -2551,8 +1889,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Delfinene, hvalene og brislingen
 
@@ -2566,8 +1902,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den skrytende reisende
 
 - File: `stories/moderne_fabler/den-skrytende-reisende.md`
@@ -2579,8 +1913,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Geita og geitegjeteren
 
@@ -2594,8 +1926,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Gjeteren og den bortkomne oksekalven
 
 - File: `stories/moderne_fabler/gjeteren-og-den-bortkomne-oksekalven.md`
@@ -2607,8 +1937,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Gutten og brenneslene
 
@@ -2622,8 +1950,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Hauken, glenten og duene
 
 - File: `stories/moderne_fabler/hauken-glenten-og-duene.md`
@@ -2635,8 +1961,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Herkules og vognmannen
 
@@ -2650,8 +1974,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Hesten og rytteren
 
 - File: `stories/moderne_fabler/hesten-og-rytteren.md`
@@ -2663,8 +1985,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Kamphanene og ørnen
 
@@ -2678,8 +1998,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Katten og fuglene
 
 - File: `stories/moderne_fabler/katten-og-fuglene.md`
@@ -2691,8 +2009,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Katten og hanen
 
@@ -2706,8 +2022,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Kviga og oksen
 
 - File: `stories/moderne_fabler/kviga-og-oksen.md`
@@ -2719,8 +2033,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Magen og kroppsdelene
 
@@ -2734,8 +2046,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Reven og apen
 
 - File: `stories/moderne_fabler/reven-og-apen.md`
@@ -2747,8 +2057,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Stridshesten og mølleren
 
@@ -2762,8 +2070,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Eselet og muldyret
 
 - File: `stories/moderne_fabler/eselet-og-muldyret.md`
@@ -2776,8 +2082,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Geitegjeteren og villgeitene
 
 - File: `stories/moderne_fabler/geitegjeteren-og-villgeitene.md`
@@ -2789,8 +2093,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Vindmøllen
 
@@ -2806,8 +2108,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Sneglen og rosehekken
 
 - File: `stories/klassikere/sneglen-og-rosehekken.md`
@@ -2821,8 +2121,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68318
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Sommerfuglen
 
@@ -2838,8 +2136,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Sommernarren
 
 - File: `stories/klassikere/sommernarren.md`
@@ -2853,8 +2149,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68320
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Gutten med øldunken
 
@@ -2870,8 +2164,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Hanen og reven
 
 - File: `stories/norske_eventyr/hanen-og-reven.md`
@@ -2885,8 +2177,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 20872
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Herremannsbruden
 
@@ -2902,8 +2192,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Småguttene som møtte trollene i Hedalsskogen
 
 - File: `stories/norske_eventyr/smaguttene-som-motte-trollene-i-hedalsskogen.md`
@@ -2917,8 +2205,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 65708
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Flyttedagen
 
@@ -2934,8 +2220,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Folkesangens fugl
 
 - File: `stories/klassikere/folkesangens-fugl.md`
@@ -2949,8 +2233,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 79315
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## De tre språkene
 
@@ -2966,8 +2248,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Døden som gudfar
 
 - File: `stories/klassikere/doden-som-gudfar.md`
@@ -2981,8 +2261,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3433723
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Gåten
 
@@ -2998,8 +2276,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Skredderen i himmelen
 
 - File: `stories/klassikere/skredderen-i-himmelen.md`
@@ -3014,8 +2290,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den gamle kvinna og legen
 
 - File: `stories/moderne_fabler/den-gamle-kvinna-og-legen.md`
@@ -3027,8 +2301,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den gjerrige mannen
 
@@ -3042,8 +2314,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den syke hjorten
 
 - File: `stories/moderne_fabler/den-syke-hjorten.md`
@@ -3055,8 +2325,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Enka og de små tjenestejentene
 
@@ -3070,8 +2338,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Geiteungen og ulven
 
 - File: `stories/moderne_fabler/geiteungen-og-ulven.md`
@@ -3083,8 +2349,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Gjeteren og ulven
 
@@ -3098,8 +2362,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Grisen, sauen og geita
 
 - File: `stories/moderne_fabler/grisen-sauen-og-geita.md`
@@ -3111,8 +2373,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Jupiter og apen
 
@@ -3126,8 +2386,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Løven, musa og reven
 
 - File: `stories/moderne_fabler/loven-musa-og-reven.md`
@@ -3139,8 +2397,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Løven som var forelsket
 
@@ -3154,8 +2410,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Løvinna
 
 - File: `stories/moderne_fabler/lovinna.md`
@@ -3167,8 +2421,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Mannen og de to kjærestene
 
@@ -3182,8 +2434,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Oksen og frosken
 
 - File: `stories/moderne_fabler/oksen-og-frosken.md`
@@ -3195,8 +2445,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Oksene og slakterne
 
@@ -3210,8 +2458,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Saltkjøpmannen og eselet
 
 - File: `stories/moderne_fabler/saltkjopmannen-og-eselet.md`
@@ -3223,8 +2469,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Svala, slangen og domstolen
 
@@ -3238,8 +2482,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Ulven i fåreklær
 
 - File: `stories/moderne_fabler/ulven-i-fareklaer.md`
@@ -3251,8 +2493,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Ulvene og sauene
 
@@ -3266,8 +2506,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Vinstokken og geita
 
 - File: `stories/moderne_fabler/vinstokken-og-geita.md`
@@ -3279,8 +2517,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Dumme menn og troll til kjerringer
 
@@ -3296,8 +2532,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Jutulen og Johannes Blessom
 
 - File: `stories/norske_eventyr/jutulen-og-johannes-blessom.md`
@@ -3311,8 +2545,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 100520
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Askeladden som fikk prinsessen til å lyve
 
@@ -3328,8 +2560,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Tyrihans som fikk kongsdatteren til å le
 
 - File: `stories/norske_eventyr/tyrihans-som-fikk-kongsdatteren-til-a-le.md`
@@ -3343,8 +2573,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 100507
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Fru Trude
 
@@ -3360,8 +2588,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Hans i lykken
 
 - File: `stories/klassikere/hans-i-lykken.md`
@@ -3375,8 +2601,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 1644517
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Kloke Else
 
@@ -3392,8 +2616,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Nissene
 
 - File: `stories/klassikere/nissene.md`
@@ -3407,8 +2629,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3580744
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Barnet i graven
 
@@ -3424,8 +2644,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Bokhveten
 
 - File: `stories/klassikere/bokhveten.md`
@@ -3439,8 +2657,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68228
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## De små grønne
 
@@ -3456,8 +2672,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Engelen
 
 - File: `stories/klassikere/engelen.md`
@@ -3471,8 +2685,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68252
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Sølvskillingen
 
@@ -3488,8 +2700,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Storkene
 
 - File: `stories/klassikere/storkene.md`
@@ -3503,8 +2713,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68321
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Kjærestefolkene
 
@@ -3520,8 +2728,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Sparegrisen
 
 - File: `stories/klassikere/sparegrisen.md`
@@ -3535,8 +2741,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 68310
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den gamle bestefaren og barnebarnet
 
@@ -3552,8 +2756,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den vesle mannen som ble ung i ilden
 
 - File: `stories/klassikere/den-vesle-mannen-som-ble-ung-i-ilden.md`
@@ -3567,8 +2769,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 2572676
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Gidske
 
@@ -3584,8 +2784,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Reven og katten
 
 - File: `stories/klassikere/reven-og-katten.md`
@@ -3599,8 +2797,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3433627
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den stjålne skillingen
 
@@ -3616,8 +2812,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Dødens budbringere
 
 - File: `stories/klassikere/dodens-budbringere.md`
@@ -3631,8 +2825,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 3487206
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Spikeren
 
@@ -3648,8 +2840,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Han far sjøl i stua
 
 - File: `stories/norske_eventyr/han-far-sjol-i-stua.md`
@@ -3663,8 +2853,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - Source revision: 20629
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## De kloke folkene
 
@@ -3680,8 +2868,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Hårslå som aldri ville gå hjem
 
 - File: `stories/norske_eventyr/harsla-som-aldri-ville-ga-hjem.md`
@@ -3696,8 +2882,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Mannen og slangen
 
 - File: `stories/moderne_fabler/mannen-og-slangen.md`
@@ -3709,8 +2893,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Eselet, hanen og løven
 
@@ -3724,8 +2906,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Eselet og herrene hans
 
 - File: `stories/moderne_fabler/eselet-og-herrene-hans.md`
@@ -3737,8 +2917,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Eselet og skyggen hans
 
@@ -3752,8 +2930,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Eselet som bar gudebildet
 
 - File: `stories/moderne_fabler/eselet-som-bar-gudebildet.md`
@@ -3765,8 +2941,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Etiopieren
 
@@ -3780,8 +2954,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Faren og de to døtrene hans
 
 - File: `stories/moderne_fabler/faren-og-de-to-dotrene-hans.md`
@@ -3793,8 +2965,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Fiskeren og garnene hans
 
@@ -3808,8 +2978,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Fuglefangeren, rapphøna og hanen
 
 - File: `stories/moderne_fabler/fuglefangeren-rapphona-og-hanen.md`
@@ -3821,8 +2989,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Grantreet og bjørnebærbusken
 
@@ -3836,8 +3002,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Harene og froskene
 
 - File: `stories/moderne_fabler/harene-og-froskene.md`
@@ -3849,8 +3013,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Herren og hundene hans
 
@@ -3864,8 +3026,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Jegeren og fiskeren
 
 - File: `stories/moderne_fabler/jegeren-og-fiskeren.md`
@@ -3877,8 +3037,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Løven og delfinen
 
@@ -3892,8 +3050,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Løven og villsvinet
 
 - File: `stories/moderne_fabler/loven-og-villsvinet.md`
@@ -3905,8 +3061,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Løven på gårdsplassen
 
@@ -3920,8 +3074,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Mannen som en hund bet
 
 - File: `stories/moderne_fabler/mannen-som-en-hund-bet.md`
@@ -3933,8 +3085,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Merkur og billedhoggeren
 
@@ -3948,8 +3098,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Ørnen og pila
 
 - File: `stories/moderne_fabler/ornen-og-pila.md`
@@ -3961,8 +3109,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Bia og Jupiter
 
@@ -3976,8 +3122,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Reven og vedhoggeren
 
 - File: `stories/moderne_fabler/reven-og-vedhoggeren.md`
@@ -3989,8 +3133,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Apen og fiskerne
 
@@ -4004,8 +3146,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## De reisende ved sjøen
 
 - File: `stories/moderne_fabler/de-reisende-ved-sjoen.md`
@@ -4017,8 +3157,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## De to hundene
 
@@ -4032,8 +3170,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## De to reisende og øksa
 
 - File: `stories/moderne_fabler/de-to-reisende-og-oksa.md`
@@ -4045,8 +3181,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## De tre håndverkerne
 
@@ -4060,8 +3194,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den gamle jakthunden
 
 - File: `stories/moderne_fabler/den-gamle-jakthunden.md`
@@ -4073,8 +3205,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den gamle kona og vinkrukka
 
@@ -4088,8 +3218,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Den gamle løven
 
 - File: `stories/moderne_fabler/den-gamle-loven.md`
@@ -4101,8 +3229,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Den syke glenten
 
@@ -4116,8 +3242,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Det lekne eselet
 
 - File: `stories/moderne_fabler/det-lekne-eselet.md`
@@ -4129,8 +3253,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Elvene og havet
 
@@ -4144,8 +3266,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Enka og sauen
 
 - File: `stories/moderne_fabler/enka-og-sauen.md`
@@ -4157,8 +3277,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Gjeteren og havet
 
@@ -4172,8 +3290,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Hjortehinda med ett øye
 
 - File: `stories/moderne_fabler/hjortehinda-med-ett-oye.md`
@@ -4185,8 +3301,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Musa, frosken og hauken
 
@@ -4200,8 +3314,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Svanen og gåsa
 
 - File: `stories/moderne_fabler/svanen-og-gasa.md`
@@ -4213,8 +3325,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Ulven og sauen
 
@@ -4228,8 +3338,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Ulven og vakthunden
 
 - File: `stories/moderne_fabler/ulven-og-vakthunden.md`
@@ -4241,8 +3349,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
 
 ## Villsvinet og reven
 
@@ -4256,8 +3362,6 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
 
-- Review status: ai_reviewed_provisional
-
 ## Villeslet og løven
 
 - File: `stories/moderne_fabler/villeslet-og-loven.md`
@@ -4269,5 +3373,3 @@ See `COVERS.md` for the source page, license, creator, and transformations for e
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
-
-- Review status: ai_reviewed_provisional
