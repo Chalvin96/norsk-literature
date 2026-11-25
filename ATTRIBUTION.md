@@ -3369,3 +3369,148 @@ Each story keeps its own source license. The repository license does not overrid
 - License: Public domain in USA; other jurisdictions require review (https://www.gutenberg.org/policy/permission)
 
 - Changes: Machine translation into Bokmål; not native-editor approved.
+
+## Å kjøpe klær
+
+- File: `stories/start_here/a-kjope-klaer.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0021_%C3%A5-kj%C3%B8pe-kl%C3%A6r.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
+## Å skaffe medisiner
+
+- File: `stories/start_here/a-skaffe-medisiner.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0017_%C3%A5-skaffe-medisiner.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
+## Å snakke om familien
+
+- File: `stories/start_here/a-snakke-om-familien.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0025_%C3%A5-snakke-om-familien.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
+## Å snakke om været
+
+- File: `stories/start_here/a-snakke-om-vaeret.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0026_%C3%A5-snakke-om-v%C3%A6ret.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
+## Bananselgeren Tom
+
+- File: `stories/start_here/bananselgeren-tom.md`
+
+- Source: https://barneboker.no/stories/nb/0296/
+
+- Author(s): Humphreys Odunga; translated by Olav Sigmond
+
+- License: Creative Commons Navngivelse 4.0 International Lisens (https://creativecommons.org/licenses/by/4.0/deed.no)
+
+- Changes: Text extracted from the illustrated edition; images and audio not included.
+
+## Familien min
+
+- File: `stories/start_here/familien-min.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0019_familien-min.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
+## Hva gjør de?
+
+- File: `stories/start_here/hva-gjor-de.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0022_hva-gj%C3%B8r-de.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
+## Hva slags musikk liker du?
+
+- File: `stories/start_here/hva-slags-musikk-liker-du.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0024_hva-slags-musikk-liker-du.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
+## Jeg kan gjøre mange ting
+
+- File: `stories/start_here/jeg-kan-gjore-mange-ting.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0020_jeg-kan-gj%C3%B8re-mange-ting.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
+## Mat
+
+- File: `stories/start_here/mat.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0018_mat.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
+## Tingi og kuene
+
+- File: `stories/start_here/tingi-og-kuene.md`
+
+- Source: https://barneboker.no/stories/nb/0210/
+
+- Author(s): Ingrid Schechter; translated by Espen Stranger-Johannessen
+
+- License: Creative Commons Navngivelse 3.0 International Lisens (https://creativecommons.org/licenses/by/3.0/deed.no)
+
+- Changes: Text extracted from the illustrated edition; images and audio not included.
+
+## Været
+
+- File: `stories/start_here/vaeret.md`
+
+- Source: https://raw.githubusercontent.com/global-asp/lida-source/master/nb/0023_v%C3%A6ret.md
+
+- Author(s): Espen Stranger-Johannessen; translated by Espen Stranger-Johannessen
+
+- License: CC BY (https://creativecommons.org/licenses/)
+
+- Changes: Text extracted from the illustrated edition; page markers and images not included. LIDA does not specify a version; the link points to the Creative Commons license list.
+
