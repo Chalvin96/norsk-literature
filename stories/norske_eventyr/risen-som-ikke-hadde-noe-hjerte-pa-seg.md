@@ -1,7 +1,7 @@
 ---
 slug: "risen-som-ikke-hadde-noe-hjerte-pa-seg"
 title: "Risen som ikke hadde noe hjerte på seg"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

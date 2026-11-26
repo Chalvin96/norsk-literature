@@ -1,7 +1,7 @@
 ---
 slug: "den-syvende-far-i-huset"
 title: "Den syvende far i huset"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

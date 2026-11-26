@@ -1,7 +1,7 @@
 ---
 slug: "askeladden-som-stjal-solvendene-sengeteppet-og-gullharpa-fra-trollet"
 title: "Askeladden som stjal sølvendene, sengeteppet og gullharpa fra trollet"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

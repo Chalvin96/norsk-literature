@@ -1,7 +1,7 @@
 ---
 slug: "geitegjeteren-og-villgeitene"
 title: "Geitegjeteren og villgeitene"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "moderne_fabler"
 is_ready: true
 language: "nb"

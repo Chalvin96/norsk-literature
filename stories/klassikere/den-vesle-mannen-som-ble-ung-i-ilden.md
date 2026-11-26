@@ -1,7 +1,7 @@
 ---
 slug: "den-vesle-mannen-som-ble-ung-i-ilden"
 title: "Den vesle mannen som ble ung i ilden"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "klassikere"
 is_ready: true
 language: "nb"

@@ -1,7 +1,7 @@
 ---
 slug: "de-tre-sprakene"
 title: "De tre språkene"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "klassikere"
 is_ready: true
 language: "nb"

@@ -1,7 +1,7 @@
 ---
 slug: "skarvene-fra-udrost"
 title: "Skarvene fra Udrøst"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

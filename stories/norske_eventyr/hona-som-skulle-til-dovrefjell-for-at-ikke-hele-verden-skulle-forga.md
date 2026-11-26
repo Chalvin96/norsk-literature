@@ -1,7 +1,7 @@
 ---
 slug: "hona-som-skulle-til-dovrefjell-for-at-ikke-hele-verden-skulle-forga"
 title: "Høna som skulle til Dovrefjell for at ikke hele verden skulle forgå"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

@@ -1,7 +1,7 @@
 ---
 slug: "askeladden-som-fikk-prinsessen-til-a-lyve"
 title: "Askeladden som fikk prinsessen til å lyve"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

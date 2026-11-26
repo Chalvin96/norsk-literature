@@ -1,7 +1,7 @@
 ---
 slug: "gutten-som-gikk-til-nordavinden-og-krevde-melet-igjen"
 title: "Gutten som gikk til Nordavinden og krevde melet igjen"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

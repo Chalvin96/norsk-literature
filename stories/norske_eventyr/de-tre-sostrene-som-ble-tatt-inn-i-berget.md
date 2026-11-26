@@ -1,7 +1,7 @@
 ---
 slug: "de-tre-sostrene-som-ble-tatt-inn-i-berget"
 title: "De tre søstrene som ble tatt inn i berget"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

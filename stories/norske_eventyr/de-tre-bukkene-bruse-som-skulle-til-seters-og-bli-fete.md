@@ -1,7 +1,7 @@
 ---
 slug: "de-tre-bukkene-bruse-som-skulle-til-seters-og-bli-fete"
 title: "De tre bukkene Bruse som skulle til seters og bli fete"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

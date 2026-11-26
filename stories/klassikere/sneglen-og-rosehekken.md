@@ -1,7 +1,7 @@
 ---
 slug: "sneglen-og-rosehekken"
 title: "Sneglen og rosenhekken"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "klassikere"
 is_ready: true
 language: "nb"

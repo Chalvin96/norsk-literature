@@ -1,7 +1,7 @@
 ---
 slug: "jutulen-og-johannes-blessom"
 title: "Jutulen og Johannes Blessom"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

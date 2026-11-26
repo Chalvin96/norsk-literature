@@ -1,7 +1,7 @@
 ---
 slug: "geita-og-geitegjeteren"
 title: "Geita og geitegjeteren"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "moderne_fabler"
 is_ready: true
 language: "nb"

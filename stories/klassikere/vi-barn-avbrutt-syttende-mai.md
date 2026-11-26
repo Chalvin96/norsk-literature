@@ -1,7 +1,7 @@
 ---
 slug: "vi-barn-avbrutt-syttende-mai"
 title: "Vi barn: avbrutt syttende mai"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "klassikere"
 is_ready: true
 language: "nb"

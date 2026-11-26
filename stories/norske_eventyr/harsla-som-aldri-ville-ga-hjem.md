@@ -1,7 +1,7 @@
 ---
 slug: "harsla-som-aldri-ville-ga-hjem"
 title: "Hårslå som aldri ville gå hjem"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"
