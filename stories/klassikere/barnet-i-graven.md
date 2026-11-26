@@ -1,7 +1,7 @@
 ---
 slug: "barnet-i-graven"
 title: "Barnet i graven"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "klassikere"
 is_ready: true
 language: "nb"

@@ -1,7 +1,7 @@
 ---
 slug: "han-far-sjol-i-stua"
 title: "Han far sjøl i stua"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

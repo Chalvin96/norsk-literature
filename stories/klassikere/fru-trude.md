@@ -1,7 +1,7 @@
 ---
 slug: "fru-trude"
 title: "Fru Trude"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "klassikere"
 is_ready: true
 language: "nb"

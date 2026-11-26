@@ -1,7 +1,7 @@
 ---
 slug: "prinsessa-som-ingen-kunne-malbinde"
 title: "Prinsessa som ingen kunne målbinde"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

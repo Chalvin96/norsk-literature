@@ -1,7 +1,7 @@
 ---
 slug: "keiserens-nye-klaer"
 title: "Keiserens nye klær"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "klassikere"
 is_ready: true
 language: "nb"

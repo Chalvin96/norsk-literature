@@ -1,7 +1,7 @@
 ---
 slug: "de-tre-prinsessene-i-hvittenland"
 title: "De tre prinsessene i Hvittenland"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

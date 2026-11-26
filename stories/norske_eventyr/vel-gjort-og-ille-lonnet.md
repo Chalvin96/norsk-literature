@@ -1,7 +1,7 @@
 ---
 slug: "vel-gjort-og-ille-lonnet"
 title: "Vel gjort og ille lønnet"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

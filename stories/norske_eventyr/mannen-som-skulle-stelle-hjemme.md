@@ -1,7 +1,7 @@
 ---
 slug: "mannen-som-skulle-stelle-hjemme"
 title: "Mannen som skulle stelle hjemme"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

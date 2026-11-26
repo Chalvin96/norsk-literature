@@ -1,7 +1,7 @@
 ---
 slug: "kverna-som-star-og-maler-pa-havets-bunn"
 title: "Kverna som står og maler på havets bunn"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

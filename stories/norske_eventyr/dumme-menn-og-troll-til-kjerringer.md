@@ -1,7 +1,7 @@
 ---
 slug: "dumme-menn-og-troll-til-kjerringer"
 title: "Dumme menn og troll til kjerringer"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

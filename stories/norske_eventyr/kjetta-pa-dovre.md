@@ -1,7 +1,7 @@
 ---
 slug: "kjetta-pa-dovre"
 title: "Kjetta på Dovre"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

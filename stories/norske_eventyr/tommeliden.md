@@ -1,7 +1,7 @@
 ---
 slug: "tommeliden"
 title: "Tommeliden"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"

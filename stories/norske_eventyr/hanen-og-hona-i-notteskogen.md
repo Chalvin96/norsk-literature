@@ -1,7 +1,7 @@
 ---
 slug: "hanen-og-hona-i-notteskogen"
 title: "Hanen og høna i nøtteskogen"
-cefr_level: "A2"
+cefr_level: "B1"
 group: "norske_eventyr"
 is_ready: true
 language: "nb"
